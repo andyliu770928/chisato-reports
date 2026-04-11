@@ -1,0 +1,3 @@
+# Keep the site output committed by default.
+# This file exists only to avoid macOS noise.
+.DS_Store

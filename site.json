@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-04-11T12:01:20.016516",
+  "industryCount": 7,
+  "dailyCount": 5,
+  "industry": [
+    {
+      "title": "印刷電路板（PCB）產業 2026 年展望",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20260410/report.md",
+      "relative": "印刷電路板/20260410/report.md",
+      "group": "印刷電路板",
+      "date": "20260410"
+    },
+    {
+      "title": "太空衛星科技產業 2026 年展望",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/太空衛星科技/20260409/report.md",
+      "relative": "太空衛星科技/20260409/report.md",
+      "group": "太空衛星科技",
+      "date": "20260409"
+    },
+    {
+      "title": "造紙產業 2026 年展望",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/造紙產業/20260402/report.md",
+      "relative": "造紙產業/20260402/report.md",
+      "group": "造紙產業",
+      "date": "20260402"
+    },
+    {
+      "title": "AI 伺服器與資料中心產業 2026 年展望",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/AI伺服器與資料中心/20260401/report.md",
+      "relative": "AI伺服器與資料中心/20260401/report.md",
+      "group": "AI伺服器與資料中心",
+      "date": "20260401"
+    },
+    {
+      "title": "太空衛星科技 2026 年展望",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/太空衛星科技/20260403__太空衛星科技.md",
+      "relative": "太空衛星科技/20260403__太空衛星科技.md",
+      "group": "太空衛星科技",
+      "date": ""
+    },
+    {
+      "title": "【AI伺服器與資料中心】2026年展望",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/AI伺服器與資料中心/20260408_report.md",
+      "relative": "AI伺服器與資料中心/20260408_report.md",
+      "group": "AI伺服器與資料中心",
+      "date": ""
+    },
+    {
+      "title": "Night Research Report - 2026-04-08 08:09",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/AI伺服器與資料中心/old_20260408.md",
+      "relative": "AI伺服器與資料中心/old_20260408.md",
+      "group": "AI伺服器與資料中心",
+      "date": ""
+    }
+  ],
+  "daily": [
+    {
+      "title": "20260406",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/20260406.md",
+      "relative": "20260406.md",
+      "date": "20260406"
+    },
+    {
+      "title": "2026-04-10",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-10.md",
+      "relative": "2026-04-10.md",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "2026-04-09",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-09.md",
+      "relative": "2026-04-09.md",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "2026-04-08",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-08.md",
+      "relative": "2026-04-08.md",
+      "date": "2026-04-08"
+    },
+    {
+      "title": "2026-04-07",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-07.md",
+      "relative": "2026-04-07.md",
+      "date": "2026-04-07"
+    }
+  ]
+}
