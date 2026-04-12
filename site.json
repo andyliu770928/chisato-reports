@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-04-11T12:01:20.016516",
-  "industryCount": 7,
+  "generatedAt": "2026-04-12T15:51:24.394128",
+  "industryCount": 8,
   "dailyCount": 5,
   "industry": [
+    {
+      "title": "【AI伺服器與資料中心】2026年展望",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/AI伺服器與資料中心/20260412/report.md",
+      "relative": "AI伺服器與資料中心/20260412/report.md",
+      "group": "AI伺服器與資料中心",
+      "date": "20260412"
+    },
     {
       "title": "印刷電路板（PCB）產業 2026 年展望",
       "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20260410/report.md",
