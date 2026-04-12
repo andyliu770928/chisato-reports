@@ -1,95 +1,134 @@
 {
-  "generatedAt": "2026-04-12T15:51:24.394128",
+  "generatedAt": "2026-04-12T16:43:48.368960",
   "industryCount": 8,
   "dailyCount": 5,
   "industry": [
     {
       "title": "【AI伺服器與資料中心】2026年展望",
+      "summary": "CSP資本支出飆升疊加GB200出貨放量，台灣AI伺服器供應鏈迎來最強成長週期，首選廣達與緯穎。",
+      "rating": "正向",
       "source": "/Users/aliu/MEGA/openclaw/reports/industry/AI伺服器與資料中心/20260412/report.md",
       "relative": "AI伺服器與資料中心/20260412/report.md",
       "group": "AI伺服器與資料中心",
-      "date": "20260412"
+      "date": "2026-04-12",
+      "kind": "industry"
     },
     {
       "title": "印刷電路板（PCB）產業 2026 年展望",
+      "summary": "AI 伺服器引爆高階 PCB 需求，台灣 PCB 產業迎來史上最強成長動能，2025 年產值年增 12.1% 達 9,157 億，2026 年有望突破兆元大關。華通、台光電、聯詠等龍頭股持續受惠。",
+      "rating": "正向",
       "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20260410/report.md",
       "relative": "印刷電路板/20260410/report.md",
       "group": "印刷電路板",
-      "date": "20260410"
+      "date": "2026-04-10",
+      "kind": "industry"
     },
     {
       "title": "太空衛星科技產業 2026 年展望",
+      "summary": "低軌衛星爆發成長，台灣供應鏈跟著起飛，華通、昇達科領軍，多家PCB與射頻廠打入全球供應鏈，2026年訂單看到手軟。",
+      "rating": "正向",
       "source": "/Users/aliu/MEGA/openclaw/reports/industry/太空衛星科技/20260409/report.md",
       "relative": "太空衛星科技/20260409/report.md",
       "group": "太空衛星科技",
-      "date": "20260409"
-    },
-    {
-      "title": "造紙產業 2026 年展望",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/造紙產業/20260402/report.md",
-      "relative": "造紙產業/20260402/report.md",
-      "group": "造紙產業",
-      "date": "20260402"
-    },
-    {
-      "title": "AI 伺服器與資料中心產業 2026 年展望",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/AI伺服器與資料中心/20260401/report.md",
-      "relative": "AI伺服器與資料中心/20260401/report.md",
-      "group": "AI伺服器與資料中心",
-      "date": "20260401"
-    },
-    {
-      "title": "太空衛星科技 2026 年展望",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/太空衛星科技/20260403__太空衛星科技.md",
-      "relative": "太空衛星科技/20260403__太空衛星科技.md",
-      "group": "太空衛星科技",
-      "date": ""
+      "date": "2026-04-09",
+      "kind": "industry"
     },
     {
       "title": "【AI伺服器與資料中心】2026年展望",
+      "summary": "AI伺服器需求激增，推動資料中心市場持續擴張。",
+      "rating": "正向",
       "source": "/Users/aliu/MEGA/openclaw/reports/industry/AI伺服器與資料中心/20260408_report.md",
       "relative": "AI伺服器與資料中心/20260408_report.md",
       "group": "AI伺服器與資料中心",
-      "date": ""
+      "date": "2026-04-08",
+      "kind": "industry"
+    },
+    {
+      "title": "太空衛星科技 2026 年展望",
+      "summary": "根據美國衛星產業協會（SIA）統計，2023 年全球太空經濟價值達新台幣 12.8 兆元，衛星產業約貢獻 71.3%。低軌衛星（LEO）是當前成長最快的細分市場，SpaceX 至 2025 年...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/太空衛星科技/20260403__太空衛星科技.md",
+      "relative": "太空衛星科技/20260403__太空衛星科技.md",
+      "group": "太空衛星科技",
+      "date": "2026-04-03",
+      "kind": "industry"
+    },
+    {
+      "title": "造紙產業 2026 年展望",
+      "summary": "根據近期產業數據，台灣造紙產業已趨於成熟，營運穩定。工業用紙逐漸走向高強度與輕磅化，文化用紙與家庭用紙則走向差異化與高附加價值。中國造紙協會數據顯示，2025 年 1~11 月中國機制紙及紙板...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/造紙產業/20260402/report.md",
+      "relative": "造紙產業/20260402/report.md",
+      "group": "造紙產業",
+      "date": "2026-04-02",
+      "kind": "industry"
+    },
+    {
+      "title": "AI 伺服器與資料中心產業 2026 年展望",
+      "summary": "根據資策會 MIC 預估，2026 年全球伺服器出貨量將推升至 1,500 萬台，其中 AI 伺服器占比約 3 成、達 450 萬台，年增超過 20%。雲端服務業者（CSP）與主權雲需求維持熱...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/AI伺服器與資料中心/20260401/report.md",
+      "relative": "AI伺服器與資料中心/20260401/report.md",
+      "group": "AI伺服器與資料中心",
+      "date": "20260401",
+      "kind": "industry"
     },
     {
       "title": "Night Research Report - 2026-04-08 08:09",
+      "summary": "Topics this run: up to 3",
+      "rating": "",
       "source": "/Users/aliu/MEGA/openclaw/reports/industry/AI伺服器與資料中心/old_20260408.md",
       "relative": "AI伺服器與資料中心/old_20260408.md",
       "group": "AI伺服器與資料中心",
-      "date": ""
+      "date": "",
+      "kind": "industry"
     }
   ],
   "daily": [
     {
-      "title": "20260406",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/20260406.md",
-      "relative": "20260406.md",
-      "date": "20260406"
-    },
-    {
       "title": "2026-04-10",
+      "summary": "美股高檔震盪：美股在歷史高點附近整理，標普500連四紅但那斯達克小幅收黑，反映市場對科技股估值產生分歧",
+      "rating": "",
       "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-10.md",
       "relative": "2026-04-10.md",
-      "date": "2026-04-10"
+      "date": "2026-04-10",
+      "kind": "daily"
     },
     {
       "title": "2026-04-09",
+      "summary": "AI與半導體族群持續引爆市場熱情，臺積電(2330)大漲4.84%、聯發科(2454)飆升7.48%引領電子類股全面走揚",
+      "rating": "",
       "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-09.md",
       "relative": "2026-04-09.md",
-      "date": "2026-04-09"
+      "date": "2026-04-09",
+      "kind": "daily"
     },
     {
       "title": "2026-04-08",
+      "summary": "一句話總結美股趨勢：Bullish",
+      "rating": "",
       "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-08.md",
       "relative": "2026-04-08.md",
-      "date": "2026-04-08"
+      "date": "2026-04-08",
+      "kind": "daily"
     },
     {
       "title": "2026-04-07",
+      "summary": "今天的市場核心主題圍繞著美國經濟數據與投資者情緒的波動，特別是在元大證券推出美股ETF的背景下，市場活躍度有所提升。台灣與美國市場的半導體及AI相關板塊持續受到關注，並展現出投...",
+      "rating": "",
       "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-07.md",
       "relative": "2026-04-07.md",
-      "date": "2026-04-07"
+      "date": "2026-04-07",
+      "kind": "daily"
+    },
+    {
+      "title": "20260406",
+      "summary": "地緣政治暫時降溫：川普對伊朗態度放緩，油價回落至 110 美元以下，全球股市鬆一口氣，科技股反彈",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/20260406.md",
+      "relative": "20260406.md",
+      "date": "20260406",
+      "kind": "daily"
     }
   ]
 }
