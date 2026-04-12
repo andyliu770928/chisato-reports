@@ -535,7 +535,7 @@ a { color: inherit; }
 }
 .report-frame {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 1.15fr 0.85fr;
 }
 .report-side {
   padding: 26px;
