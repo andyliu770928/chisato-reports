@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-13T15:17:13.651305",
-  "industryCount": 10,
+  "generatedAt": "2026-04-13T15:18:09.825895",
+  "industryCount": 9,
   "dailyCount": 6,
   "deepCount": 2,
   "industry": [
@@ -76,20 +76,6 @@
       "href": "/industry/AI伺服器與資料中心/20260408/report.html",
       "legacy_hrefs": [
         "/industry/AI伺服器與資料中心/20260408_report.html"
-      ]
-    },
-    {
-      "title": "Night Research Report - 2026-04-08 08:09",
-      "summary": "Topics this run: up to 3",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/AI伺服器與資料中心/old_20260408.md",
-      "relative": "AI伺服器與資料中心/old_20260408.md",
-      "group": "AI伺服器與資料中心",
-      "date": "20260408",
-      "kind": "industry",
-      "href": "/industry/AI伺服器與資料中心/20260408/night-research-report-2026-04-08-08-09.html",
-      "legacy_hrefs": [
-        "/industry/AI伺服器與資料中心/old_20260408.html"
       ]
     },
     {
