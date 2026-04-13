@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>主題研究</title>
+  <link rel="icon" type="image/svg+xml" href="/chisato-reports/assets/favicon.svg" />
+  <link rel="stylesheet" href="/chisato-reports/assets/style.css" />
+</head>
+<body>
+  <main class="page deep-index">
+    <header class="site-header">
+      <div class="brand-bar">
+        <a class="brand" href="/chisato-reports/index.html">小千研究報告站</a>
+        <nav class="site-nav"><a href="/chisato-reports/index.html">首頁</a><a href="/chisato-reports/industry/index.html">產業報告</a><a href="/chisato-reports/daily/index.html">每日早報</a><a href="/chisato-reports/deep-research/index.html">主題研究</a></nav>
+      </div>
+      <div class="breadcrumb">主題研究</div>
+      <h1>主題研究</h1>
+      <p class="page-intro">按日期整理的長篇主題研究與深度分析。</p>
+    </header>
+    <section class="content">
+      <section class="catalog-grid"><div class="catalog-side"><section class="cover-card deep"><span class="eyebrow deep">Deep Research</span><h2>主題研究</h2><p>把更長篇的研究主題、方法、矛盾點與後續追蹤集中整理，適合拿來做完整理解與留存。</p></section><article class="feature-card deep"><span class="eyebrow deep">精選主題研究</span><div class="feature-meta"><span class="chip deep">主題研究</span><span class="chip">2026.04.13</span></div><h3><a href="/chisato-reports/deep-research/20260413/taiwan-robotics-industry/report.html">臺灣機器人產業深度研究報告</a></h3><p>研究日期： 2026-04-13</p><div class="hero-actions"><a class="btn primary deep" href="/chisato-reports/deep-research/20260413/taiwan-robotics-industry/report.html">直接閱讀</a></div></article><section class="catalog-note panel"><h3>適合閱讀情境</h3><ul><li>想看一個主題的完整論證與研究方法</li><li>想留存長篇研究成果供後續回看</li><li>想把短期題材整理成能延伸的研究檔案</li></ul></section></div><section class="list-shell"><div class="entry-grid"><article class="entry-card deep"><div class="entry-meta"><span class="chip deep">主題研究</span><span class="chip">2026.04.13</span></div><h3><a href="/chisato-reports/deep-research/20260413/taiwan-robotics-industry/report.html">臺灣機器人產業深度研究報告</a></h3><p>研究日期： 2026-04-13</p><div class="entry-footer"><span class="stat-label">長篇主題研究</span><a class="entry-link deep" href="/chisato-reports/deep-research/20260413/taiwan-robotics-industry/report.html">閱讀全文</a></div></article><article class="entry-card deep"><div class="entry-meta"><span class="chip deep">主題研究</span><span class="chip">2026.04.10</span></div><h3><a href="/chisato-reports/deep-research/20260410/taiwan-satellite-industry/report.html">台灣太空衛星產業深度研究報告</a></h3><p>研究日期： 2026-04-10</p><div class="entry-footer"><span class="stat-label">長篇主題研究</span><a class="entry-link deep" href="/chisato-reports/deep-research/20260410/taiwan-satellite-industry/report.html">閱讀全文</a></div></article></div></section></section>
+    </section>
+  </main>
+  <script>
+(function(){
+  var btns = document.querySelectorAll('.filter-btn');
+  var grid = document.querySelector('.industry-index .entry-grid');
+  var count = document.getElementById('filter-count');
+  if(!btns.length || !grid) return;
+  function applyFilter(group) {
+    var cards = grid.querySelectorAll('.entry-card');
+    var shown = 0;
+    cards.forEach(function(card){
+      var match = !group || card.getAttribute('data-group') === group;
+      card.classList.toggle('hidden-by-filter', !match);
+      if(match) shown++;
+    });
+    btns.forEach(function(b){
+      b.classList.toggle('active', (b.getAttribute('data-group')||'') === (group||''));
+    });
+    if(count) count.textContent = shown > 0 ? shown + ' 篇' : '';
+  }
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      applyFilter(btn.getAttribute('data-group'));
+    });
+  });
+  applyFilter('');
+})();
+  </script>
+</body>
+</html>

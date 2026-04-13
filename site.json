@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-04-13T11:54:39.173341",
+  "generatedAt": "2026-04-13T15:04:03.460107",
   "industryCount": 10,
   "dailyCount": 6,
+  "deepCount": 2,
   "industry": [
     {
       "title": "【被動元件】2026 年展望",
@@ -207,6 +208,34 @@
       "href": "/daily/20260406/report.html",
       "legacy_hrefs": [
         "/daily/20260406.html"
+      ]
+    }
+  ],
+  "deep": [
+    {
+      "title": "臺灣機器人產業深度研究報告",
+      "summary": "研究日期： 2026-04-13",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/deep-research/20260413__taiwan-robotics-industry.md",
+      "relative": "20260413__taiwan-robotics-industry.md",
+      "date": "20260413",
+      "kind": "deep",
+      "href": "/deep-research/20260413/taiwan-robotics-industry/report.html",
+      "legacy_hrefs": [
+        "/deep-research/20260413__taiwan-robotics-industry.html"
+      ]
+    },
+    {
+      "title": "台灣太空衛星產業深度研究報告",
+      "summary": "研究日期： 2026-04-10",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/deep-research/20260410__taiwan-satellite-industry.md",
+      "relative": "20260410__taiwan-satellite-industry.md",
+      "date": "20260410",
+      "kind": "deep",
+      "href": "/deep-research/20260410/taiwan-satellite-industry/report.html",
+      "legacy_hrefs": [
+        "/deep-research/20260410__taiwan-satellite-industry.html"
       ]
     }
   ]
