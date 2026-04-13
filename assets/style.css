@@ -184,6 +184,9 @@ a { color: inherit; }
 .masthead-side {
   display: grid;
   gap: 18px;
+  background: linear-gradient(160deg, rgba(17, 44, 64, 0.12) 0%, rgba(18, 52, 77, 0.08) 50%, rgba(84, 53, 25, 0.10) 100%);
+  border-radius: 22px;
+  padding: 18px;
 }
 .info-card {
   padding: 20px;
@@ -665,7 +668,6 @@ hr {
     grid-template-columns: 1fr;
   }
   .dual-grid,
-  .publication-grid,
   .catalog-grid,
   .report-frame {
     grid-template-columns: 1fr;
