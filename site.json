@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-04-13T08:41:30.590790",
-  "industryCount": 9,
+  "generatedAt": "2026-04-13T09:52:26.465679",
+  "industryCount": 10,
   "dailyCount": 6,
   "industry": [
+    {
+      "title": "【被動元件】2026 年展望",
+      "summary": "AI 伺服器與車用需求爆發，MLCC 漲價潮啟動，台灣龍頭廠迎來供需結構好轉，國巨領軍族群補漲。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/被動元件/20260413/report.md",
+      "relative": "被動元件/20260413/report.md",
+      "group": "被動元件",
+      "date": "2026-04-13",
+      "kind": "industry",
+      "href": "/industry/被動元件/20260413/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【印刷電路板（PCB）】2026 年展望",
       "summary": "AI 伺服器與先進封裝引爆高階 PCB 需求，ABF 載板供需持續緊俏，台灣 PCB 產業 2026 年產值有望突破兆元大關，首選 ABF 載板雙雄南電與景碩。",
