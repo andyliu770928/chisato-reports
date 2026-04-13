@@ -250,17 +250,7 @@ a { color: inherit; }
 }
 .hero-card.daily::after { background: var(--blue); }
 .hero-card.industry::after { background: var(--copper); }
-.eyebrow {
-  display: inline-block;
-  margin-bottom: 14px;
-  padding: 6px 10px;
-  border-radius: 999px;
-  font-size: 0.8rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-}
-.eyebrow.daily { background: var(--blue-soft); color: var(--blue); }
-.eyebrow.industry { background: var(--copper-soft); color: var(--copper); }
+.eyebrow { display: none; }
 .hero-card h2, .cover-card h2, .panel h2 {
   margin: 0 0 10px;
   font-size: clamp(1.5rem, 2.2vw, 2.4rem);
