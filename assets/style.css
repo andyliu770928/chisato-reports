@@ -520,8 +520,6 @@ a { color: inherit; }
 .cover-card p { color: rgba(255,255,255,0.82); }
 .list-shell {
   padding: 18px;
-}
-.catalog-grid .list-shell {
   max-width: 80%;
   margin: 0 auto;
 }
