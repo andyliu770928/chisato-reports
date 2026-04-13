@@ -416,28 +416,44 @@ a { color: inherit; }
   flex-wrap: wrap;
   gap: 8px;
   align-items: center;
-  padding: 14px 0 18px;
+  padding: 16px 20px;
+  border-radius: 22px;
+  margin-bottom: 18px;
+}
+.filter-bar.daily {
+  background: linear-gradient(135deg, rgba(18, 52, 77, 0.92), rgba(28, 74, 104, 0.88));
+  color: white;
+}
+.filter-bar.industry {
+  background: linear-gradient(135deg, rgba(93, 60, 25, 0.92), rgba(136, 91, 46, 0.88));
+  color: white;
 }
 .filter-btn {
   padding: 7px 16px;
   border-radius: 999px;
-  border: 1px solid var(--line);
-  background: rgba(255,255,255,0.6);
+  border: 1px solid rgba(255,255,255,0.3);
+  background: rgba(255,255,255,0.15);
   cursor: pointer;
   font-family: inherit;
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   transition: all 180ms ease;
-  color: var(--ink);
+  color: rgba(255,255,255,0.9);
 }
 .filter-btn:hover {
-  background: rgba(255,255,255,0.95);
-  border-color: rgba(143,92,44,0.3);
+  background: rgba(255,255,255,0.28);
+  border-color: rgba(255,255,255,0.5);
   transform: translateY(-1px);
 }
 .filter-btn.active {
-  background: var(--copper);
-  color: white;
-  border-color: transparent;
+  background: rgba(255,255,255,0.95);
+  color: var(--ink);
+  border-color: rgba(255,255,255,0.95);
+}
+.filter-label {
+  color: rgba(255,255,255,0.75);
+  font-size: 0.82rem;
+  font-weight: 600;
+  margin-right: 4px;
 }
 .filter-count {
   margin-left: auto;
