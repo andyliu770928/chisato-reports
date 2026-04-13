@@ -525,7 +525,7 @@ a { color: inherit; }
 }
 .catalog-grid {
   display: grid;
-  grid-template-columns: 0.92fr 1.08fr;
+  grid-template-columns: 1fr;
   gap: 18px;
 }
 .catalog-side {
