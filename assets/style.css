@@ -521,6 +521,10 @@ a { color: inherit; }
 .list-shell {
   padding: 18px;
 }
+.catalog-grid .list-shell {
+  max-width: 80%;
+  margin: 0 auto;
+}
 .catalog-grid {
   display: grid;
   grid-template-columns: 0.92fr 1.08fr;
