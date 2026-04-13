@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-13T01:27:11.791655",
+  "generatedAt": "2026-04-13T08:40:39.079956",
   "industryCount": 9,
-  "dailyCount": 5,
+  "dailyCount": 6,
   "industry": [
     {
       "title": "【印刷電路板（PCB）】2026 年展望",
@@ -119,6 +119,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.04.13",
+      "summary": "AI供應鏈持續吸金：台積電股價站上2000元大關，單日成交量5882張為近期高點，反映市場對AI晶片需求高度期待，半導體類股仍是資金主流配置",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-13.md",
+      "relative": "2026-04-13.md",
+      "date": "2026-04-13",
+      "kind": "daily",
+      "href": "/daily/20260413/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-04-13.html"
+      ]
+    },
     {
       "title": "2026.04.10",
       "summary": "美股高檔震盪：美股在歷史高點附近整理，標普500連四紅但那斯達克小幅收黑，反映市場對科技股估值產生分歧",
