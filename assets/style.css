@@ -528,6 +528,14 @@ a { color: inherit; }
   grid-template-columns: 1fr;
   gap: 18px;
 }
+.home-masthead,
+.hero-grid,
+.dual-grid,
+.publication-grid,
+.catalog-grid {
+  max-width: 80%;
+  margin: 0 auto;
+}
 .catalog-side {
   display: grid;
   gap: 18px;
