@@ -525,15 +525,12 @@ a { color: inherit; }
   display: grid;
   grid-template-columns: 1fr;
   gap: 18px;
-  max-width: 80%;
-  margin: 0 auto;
 }
 .home-masthead,
 .hero-grid,
 .dual-grid,
 .publication-grid {
-  max-width: 80%;
-  margin: 0 auto;
+  /* full width */
 }
 .catalog-side {
   display: grid;
