@@ -612,7 +612,7 @@ a { color: inherit; }
   position: relative;
   max-width: 100% !important;
 }
-.report-body > h1:first-child { display: none; }
+.report-body > h1 { display: none; }
 .report-body > h2:first-of-type {
   margin-top: 0;
 }
