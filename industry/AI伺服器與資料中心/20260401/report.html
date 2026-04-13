@@ -19,7 +19,7 @@
       
     </header>
     <section class="content">
-      <article class="report-shell"><section class="report-top industry"><div class="report-meta"><span class="chip">產業報告</span><span class="chip">2026.04.01</span><span class="chip">AI伺服器與資料中心</span></div><h1>AI 伺服器與資料中心產業 2026 年展望</h1><p class="report-lead">根據資策會 MIC 預估，2026 年全球伺服器出貨量將推升至 1,500 萬台，其中 AI 伺服器占比約 3 成、達 450 萬台，年增超過 20%。雲端服務業者（CSP）與主權雲需求維持熱...</p></section><div class="report-frame"><section class="report-body"><h1>AI 伺服器與資料中心產業 2026 年展望</h1>
+      <article class="report-shell"><section class="report-top industry"><div class="report-meta"><span class="chip">產業報告</span><span class="chip">2026.04.01</span><span class="chip">AI伺服器與資料中心</span></div><h1>AI 伺服器與資料中心產業</h1><p class="report-lead">根據資策會 MIC 預估，2026 年全球伺服器出貨量將推升至 1,500 萬台，其中 AI 伺服器占比約 3 成、達 450 萬台，年增超過 20%。雲端服務業者（CSP）與主權雲需求維持熱...</p></section><div class="report-frame"><section class="report-body"><h1>AI 伺服器與資料中心產業 2026 年展望</h1>
 <h2>市場概況</h2>
 <p>根據資策會 MIC 預估，2026 年全球伺服器出貨量將推升至 1,500 萬台，其中 AI 伺服器占比約 3 成、達 450 萬台，年增超過 20%。雲端服務業者（CSP）與主權雲需求維持熱絡，加上 AI 推理應用蓬勃發展，推動整體產業成長。</p>
 <p>台灣廠商將成為 L6 板和 L10-12 組裝的主要供應商，市場份額在 2021-2026 年期間持續增加。</p>
@@ -62,5 +62,32 @@
 <p>*資料來源：DIGITIMES、TrendForce、資策會 MIC、鉅亨網、商周，整理日期：2026-04-01*</p></section></div></article>
     </section>
   </main>
+  <script>
+(function(){
+  var btns = document.querySelectorAll('.filter-btn');
+  var grid = document.querySelector('.industry-index .entry-grid');
+  var count = document.getElementById('filter-count');
+  if(!btns.length || !grid) return;
+  function applyFilter(group) {
+    var cards = grid.querySelectorAll('.entry-card');
+    var shown = 0;
+    cards.forEach(function(card){
+      var match = !group || card.getAttribute('data-group') === group;
+      card.classList.toggle('hidden-by-filter', !match);
+      if(match) shown++;
+    });
+    btns.forEach(function(b){
+      b.classList.toggle('active', (b.getAttribute('data-group')||'') === (group||''));
+    });
+    if(count) count.textContent = shown > 0 ? shown + ' 篇' : '';
+  }
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      applyFilter(btn.getAttribute('data-group'));
+    });
+  });
+  applyFilter('');
+})();
+  </script>
 </body>
 </html>

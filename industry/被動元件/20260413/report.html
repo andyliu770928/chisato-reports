@@ -19,7 +19,7 @@
       
     </header>
     <section class="content">
-      <article class="report-shell"><section class="report-top industry"><div class="report-meta"><span class="chip">產業報告</span><span class="chip">2026.04.13</span><span class="chip">被動元件</span><span class="chip">投資評等 正向</span></div><h1>【被動元件】2026 年展望</h1><p class="report-lead">被動元件景氣底部確立，AI 伺服器與車用電子雙引擎帶動需求升溫，日韓廠退出中低階創造轉單效應，台灣龍頭迎來結構性成長機會。</p></section><div class="report-frame"><section class="report-body"><h1>【被動元件】2026 年展望</h1>
+      <article class="report-shell"><section class="report-top industry"><div class="report-meta"><span class="chip">產業報告</span><span class="chip">2026.04.13</span><span class="chip">被動元件</span><span class="chip">投資評等 正向</span></div><h1>【被動元件】2026</h1><p class="report-lead">被動元件景氣底部確立，AI 伺服器與車用電子雙引擎帶動需求升溫，日韓廠退出中低階創造轉單效應，台灣龍頭迎來結構性成長機會。</p></section><div class="report-frame"><section class="report-body"><h1>【被動元件】2026 年展望</h1>
 <p>投資評等：正向</p>
 <p><strong>核心觀點：</strong> 被動元件景氣底部確立，AI 伺服器與車用電子雙引擎帶動需求升溫，日韓廠退出中低階創造轉單效應，台灣龍頭迎來結構性成長機會。</p>
 <p><strong>整理日期：</strong> 2026-04-13</p>
@@ -107,5 +107,32 @@
 <p>*本報告僅供參考，投資需自行評估風險*</p></section></div></article>
     </section>
   </main>
+  <script>
+(function(){
+  var btns = document.querySelectorAll('.filter-btn');
+  var grid = document.querySelector('.industry-index .entry-grid');
+  var count = document.getElementById('filter-count');
+  if(!btns.length || !grid) return;
+  function applyFilter(group) {
+    var cards = grid.querySelectorAll('.entry-card');
+    var shown = 0;
+    cards.forEach(function(card){
+      var match = !group || card.getAttribute('data-group') === group;
+      card.classList.toggle('hidden-by-filter', !match);
+      if(match) shown++;
+    });
+    btns.forEach(function(b){
+      b.classList.toggle('active', (b.getAttribute('data-group')||'') === (group||''));
+    });
+    if(count) count.textContent = shown > 0 ? shown + ' 篇' : '';
+  }
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      applyFilter(btn.getAttribute('data-group'));
+    });
+  });
+  applyFilter('');
+})();
+  </script>
 </body>
 </html>

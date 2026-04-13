@@ -19,7 +19,7 @@
       
     </header>
     <section class="content">
-      <article class="report-shell"><section class="report-top industry"><div class="report-meta"><span class="chip">產業報告</span><span class="chip">2026.04.03</span><span class="chip">太空衛星科技</span></div><h1>太空衛星科技 2026 年展望</h1><p class="report-lead">根據美國衛星產業協會（SIA）統計，2023 年全球太空經濟價值達新台幣 12.8 兆元，衛星產業約貢獻 71.3%。低軌衛星（LEO）是當前成長最快的細分市場，SpaceX 至 2025 年...</p></section><div class="report-frame"><section class="report-body"><h1>太空衛星科技 2026 年展望</h1>
+      <article class="report-shell"><section class="report-top industry"><div class="report-meta"><span class="chip">產業報告</span><span class="chip">2026.04.03</span><span class="chip">太空衛星科技</span></div><h1>太空衛星科技</h1><p class="report-lead">根據美國衛星產業協會（SIA）統計，2023 年全球太空經濟價值達新台幣 12.8 兆元，衛星產業約貢獻 71.3%。低軌衛星（LEO）是當前成長最快的細分市場，SpaceX 至 2025 年...</p></section><div class="report-frame"><section class="report-body"><h1>太空衛星科技 2026 年展望</h1>
 <h2>Section 1：市場現況</h2>
 <p>根據美國衛星產業協會（SIA）統計，2023 年全球太空經濟價值達新台幣 12.8 兆元，衛星產業約貢獻 71.3%。低軌衛星（LEO）是當前成長最快的細分市場，SpaceX 至 2025 年中已完成約 7,714 顆衛星發射，其中超過 7,691 顆在軌道上運行，全球用戶數已突破 600 萬戶。</p>
 <p>2025 全年發射量達 3,207 顆，年增率高達 61.8%。台灣太空產業受惠於 SpaceX 擴大對台廠下單，近期 SpaceX 低調訪台，鎖定昇達科（3491）及華通（2313）作為重點合作對象，台灣太空供應鏈進入加速成長期。</p>
@@ -96,5 +96,32 @@
 <p>*整理日期：2026-04-03*</p></section></div></article>
     </section>
   </main>
+  <script>
+(function(){
+  var btns = document.querySelectorAll('.filter-btn');
+  var grid = document.querySelector('.industry-index .entry-grid');
+  var count = document.getElementById('filter-count');
+  if(!btns.length || !grid) return;
+  function applyFilter(group) {
+    var cards = grid.querySelectorAll('.entry-card');
+    var shown = 0;
+    cards.forEach(function(card){
+      var match = !group || card.getAttribute('data-group') === group;
+      card.classList.toggle('hidden-by-filter', !match);
+      if(match) shown++;
+    });
+    btns.forEach(function(b){
+      b.classList.toggle('active', (b.getAttribute('data-group')||'') === (group||''));
+    });
+    if(count) count.textContent = shown > 0 ? shown + ' 篇' : '';
+  }
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      applyFilter(btn.getAttribute('data-group'));
+    });
+  });
+  applyFilter('');
+})();
+  </script>
 </body>
 </html>

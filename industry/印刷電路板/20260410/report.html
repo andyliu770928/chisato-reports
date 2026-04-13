@@ -19,7 +19,7 @@
       
     </header>
     <section class="content">
-      <article class="report-shell"><section class="report-top industry"><div class="report-meta"><span class="chip">產業報告</span><span class="chip">2026.04.10</span><span class="chip">印刷電路板</span><span class="chip">投資評等 正向</span></div><h1>印刷電路板（PCB）產業 2026 年展望</h1><p class="report-lead">AI 伺服器引爆高階 PCB 需求，台灣 PCB 產業迎來史上最強成長動能，2025 年產值年增 12.1% 達 9,157 億，2026 年有望突破兆元大關。華通、台光電、聯詠等龍頭股持續受惠。</p></section><div class="report-frame"><section class="report-body"><h1>印刷電路板（PCB）產業 2026 年展望</h1>
+      <article class="report-shell"><section class="report-top industry"><div class="report-meta"><span class="chip">產業報告</span><span class="chip">2026.04.10</span><span class="chip">印刷電路板</span><span class="chip">投資評等 正向</span></div><h1>印刷電路板（PCB）產業</h1><p class="report-lead">AI 伺服器引爆高階 PCB 需求，台灣 PCB 產業迎來史上最強成長動能，2025 年產值年增 12.1% 達 9,157 億，2026 年有望突破兆元大關。華通、台光電、聯詠等龍頭股持續受惠。</p></section><div class="report-frame"><section class="report-body"><h1>印刷電路板（PCB）產業 2026 年展望</h1>
 <p>投資評等：正向</p>
 <p><strong>核心觀點：</strong>AI 伺服器引爆高階 PCB 需求，台灣 PCB 產業迎來史上最強成長動能，2025 年產值年增 12.1% 達 9,157 億，2026 年有望突破兆元大關。華通、台光電、聯詠等龍頭股持續受惠。</p>
 <p><strong>整理日期：</strong>2026-04-10</p>
@@ -98,5 +98,32 @@
 <p><strong>5.</strong> <strong>車用電子需求</strong>：電動車與車用 PCB 需求變化</p></section></div></article>
     </section>
   </main>
+  <script>
+(function(){
+  var btns = document.querySelectorAll('.filter-btn');
+  var grid = document.querySelector('.industry-index .entry-grid');
+  var count = document.getElementById('filter-count');
+  if(!btns.length || !grid) return;
+  function applyFilter(group) {
+    var cards = grid.querySelectorAll('.entry-card');
+    var shown = 0;
+    cards.forEach(function(card){
+      var match = !group || card.getAttribute('data-group') === group;
+      card.classList.toggle('hidden-by-filter', !match);
+      if(match) shown++;
+    });
+    btns.forEach(function(b){
+      b.classList.toggle('active', (b.getAttribute('data-group')||'') === (group||''));
+    });
+    if(count) count.textContent = shown > 0 ? shown + ' 篇' : '';
+  }
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      applyFilter(btn.getAttribute('data-group'));
+    });
+  });
+  applyFilter('');
+})();
+  </script>
 </body>
 </html>

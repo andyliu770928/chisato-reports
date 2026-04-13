@@ -19,7 +19,7 @@
       
     </header>
     <section class="content">
-      <article class="report-shell"><section class="report-top industry"><div class="report-meta"><span class="chip">產業報告</span><span class="chip">2026.04.02</span><span class="chip">造紙產業</span></div><h1>造紙產業 2026 年展望</h1><p class="report-lead">根據近期產業數據，台灣造紙產業已趨於成熟，營運穩定。工業用紙逐漸走向高強度與輕磅化，文化用紙與家庭用紙則走向差異化與高附加價值。中國造紙協會數據顯示，2025 年 1~11 月中國機制紙及紙板...</p></section><div class="report-frame"><section class="report-body"><h1>造紙產業 2026 年展望</h1>
+      <article class="report-shell"><section class="report-top industry"><div class="report-meta"><span class="chip">產業報告</span><span class="chip">2026.04.02</span><span class="chip">造紙產業</span></div><h1>造紙產業</h1><p class="report-lead">根據近期產業數據，台灣造紙產業已趨於成熟，營運穩定。工業用紙逐漸走向高強度與輕磅化，文化用紙與家庭用紙則走向差異化與高附加價值。中國造紙協會數據顯示，2025 年 1~11 月中國機制紙及紙板...</p></section><div class="report-frame"><section class="report-body"><h1>造紙產業 2026 年展望</h1>
 <h2>Section 1：市場現況</h2>
 <p>根據近期產業數據，台灣造紙產業已趨於成熟，營運穩定。工業用紙逐漸走向高強度與輕磅化，文化用紙與家庭用紙則走向差異化與高附加價值。中國造紙協會數據顯示，2025 年 1~11 月中國機制紙及紙板產量達 1.49 億噸，年增 2.8%，顯示需求仍有一定支撐。</p>
 <p>近半年來，紙價持續調漲成為常態，且下半年將進入紙業傳統旺季，法人看好後市表現。中國禁廢令持續執行，具有林漿紙一貫化或海外具回收紙漿產能的台廠將大幅受惠。台灣碳權交易所即將上路，也為造紙族群增添題材。</p>
@@ -96,5 +96,32 @@
 <p>*整理日期：2026-04-02*</p></section></div></article>
     </section>
   </main>
+  <script>
+(function(){
+  var btns = document.querySelectorAll('.filter-btn');
+  var grid = document.querySelector('.industry-index .entry-grid');
+  var count = document.getElementById('filter-count');
+  if(!btns.length || !grid) return;
+  function applyFilter(group) {
+    var cards = grid.querySelectorAll('.entry-card');
+    var shown = 0;
+    cards.forEach(function(card){
+      var match = !group || card.getAttribute('data-group') === group;
+      card.classList.toggle('hidden-by-filter', !match);
+      if(match) shown++;
+    });
+    btns.forEach(function(b){
+      b.classList.toggle('active', (b.getAttribute('data-group')||'') === (group||''));
+    });
+    if(count) count.textContent = shown > 0 ? shown + ' 篇' : '';
+  }
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      applyFilter(btn.getAttribute('data-group'));
+    });
+  });
+  applyFilter('');
+})();
+  </script>
 </body>
 </html>
