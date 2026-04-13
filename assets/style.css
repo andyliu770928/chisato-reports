@@ -512,7 +512,7 @@ a { color: inherit; }
   margin-right: 4px;
 }
 .filter-chip {
-  background: rgba(255,255,255,0.08);
+  background: rgba(72,55,40,0.08);
   border: 1px solid var(--line);
   border-radius: 20px;
   padding: 5px 14px;
@@ -526,9 +526,9 @@ a { color: inherit; }
   background: rgba(255,255,255,0.16);
 }
 .filter-chip.active {
-  background: var(--accent);
+  background: var(--copper);
   color: white;
-  border-color: var(--accent);
+  border-color: var(--copper);
 }
 }
 .catalog-note ul {
