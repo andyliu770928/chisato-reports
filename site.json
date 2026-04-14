@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-14T09:49:52.284604",
+  "generatedAt": "2026-04-15T07:02:05.663452",
   "industryCount": 10,
-  "dailyCount": 7,
+  "dailyCount": 8,
   "deepCount": 2,
   "industry": [
     {
@@ -130,6 +130,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.04.15",
+      "summary": "AI伺服器供應鏈持續吸金：鴻海成交量創近期高峰（4478口），反映市場對GB200供應鏈的高度期待，AI基礎建設長線需求明確",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-15.md",
+      "relative": "2026-04-15.md",
+      "date": "2026-04-15",
+      "kind": "daily",
+      "href": "/daily/20260415/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-04-15.html"
+      ]
+    },
     {
       "title": "2026.04.14",
       "summary": "AI 伺服器需求飆升帶動半導體族群持續強漲： 台積電股價逼近 2000 元大關，成交量維持高檔，顯示法人持續押注 AI 供應鏈長期成長動能。廣達(2382)在伺服器代工訂單加持...",
