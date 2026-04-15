@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-04-15T09:56:04.922313",
-  "industryCount": 11,
-  "dailyCount": 8,
+  "generatedAt": "2026-04-16T07:01:41.768707",
+  "industryCount": 12,
+  "dailyCount": 9,
   "deepCount": 2,
   "industry": [
+    {
+      "title": "LED照明產業",
+      "summary": "全球LED照明市場邁入成長爆發期，節能政策與智慧城市建設為核心驅動力，台灣供應鏈在LED封裝與元件製造具競爭優勢，建議關注具有技術升級能力與產品差異化的龍頭廠。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/LED照明/20260416/report.md",
+      "relative": "LED照明/20260416/report.md",
+      "group": "LED照明",
+      "date": "2026-04-16",
+      "kind": "industry",
+      "href": "/industry/LED照明/20260416/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "LED照明產業",
       "summary": "LED照明產業短期面臨中國低價競爭與需求飽和壓力，但智慧照明、植物照明、車用LED等利基應用為台灣供應鏈提供差異化成長機會，宜精選技術門檻較高的特殊應用標的。",
@@ -142,6 +154,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.04.16",
+      "summary": "台積電股價站上 2080 元大關，成交量創近期新高達 7276 張，顯示國際資金持續湧入半導體供應鏈，AI 晶片需求預期支撐股價走勢",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-16.md",
+      "relative": "2026-04-16.md",
+      "date": "2026-04-16",
+      "kind": "daily",
+      "href": "/daily/20260416/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-04-16.html"
+      ]
+    },
     {
       "title": "2026.04.15",
       "summary": "AI伺服器供應鏈持續吸金：鴻海成交量創近期高峰（4478口），反映市場對GB200供應鏈的高度期待，AI基礎建設長線需求明確",
