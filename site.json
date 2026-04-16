@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-17T04:10:24.819623",
+  "generatedAt": "2026-04-17T07:00:50.603018",
   "industryCount": 15,
-  "dailyCount": 9,
+  "dailyCount": 10,
   "deepCount": 2,
   "industry": [
     {
@@ -190,6 +190,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.04.17",
+      "summary": "AI伺服器需求持續火熱，帶領臺灣半導體與電子供應鏈基本面轉強，台積電、鴻海、廣達等指標股價維持高檔格局",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-17.md",
+      "relative": "2026-04-17.md",
+      "date": "2026-04-17",
+      "kind": "daily",
+      "href": "/daily/20260417/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-04-17.html"
+      ]
+    },
     {
       "title": "2026.04.16",
       "summary": "台積電股價站上 2080 元大關，成交量創近期新高達 7276 張，顯示國際資金持續湧入半導體供應鏈，AI 晶片需求預期支撐股價走勢",
