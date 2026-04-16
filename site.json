@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-16T09:06:48.678093",
-  "industryCount": 13,
+  "generatedAt": "2026-04-16T09:33:46.833679",
+  "industryCount": 14,
   "dailyCount": 9,
   "deepCount": 2,
   "industry": [
@@ -14,6 +14,18 @@
       "date": "2026-04-16",
       "kind": "industry",
       "href": "/industry/觸控面板/20260416/report.html",
+      "legacy_hrefs": []
+    },
+    {
+      "title": "能源元件",
+      "summary": "能源轉型與電氣化浪潮持續推動功率元件、EV充電與儲能需求，台灣供應鏈在電源供應器、功率模組、保護元件全球居領先地位，首選台達電（2308）。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/能源元件/20260416/report.md",
+      "relative": "能源元件/20260416/report.md",
+      "group": "能源元件",
+      "date": "2026-04-16",
+      "kind": "industry",
+      "href": "/industry/能源元件/20260416/report.html",
       "legacy_hrefs": []
     },
     {
