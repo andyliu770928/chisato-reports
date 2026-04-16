@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-04-16T10:06:52.178400",
-  "industryCount": 14,
+  "generatedAt": "2026-04-17T04:10:24.819623",
+  "industryCount": 15,
   "dailyCount": 9,
   "deepCount": 2,
   "industry": [
+    {
+      "title": "LED照明產業",
+      "summary": "全球LED照明市場持續成長，亞太區域為最快成長市場，台灣供應鏈中億光(2333)與光寶科(2301)為主要受惠標的。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/LED照明/20260417/report.md",
+      "relative": "LED照明/20260417/report.md",
+      "group": "LED照明",
+      "date": "2026-04-17",
+      "kind": "industry",
+      "href": "/industry/LED照明/20260417/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "觸控面板",
       "summary": "台灣觸控面板產業短期受惠於iPhone拉貨與AI PC換機潮，股價已有明顯漲幅；中長期挑戰在於OLED整合趨勢與中國廠商價格競爭，投資人宜採區間操作，首選GIS-KY。",
