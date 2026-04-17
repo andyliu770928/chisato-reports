@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-04-17T07:56:22.459300",
-  "industryCount": 15,
+  "generatedAt": "2026-04-17T09:26:17.566050",
+  "industryCount": 16,
   "dailyCount": 10,
   "deepCount": 2,
   "industry": [
+    {
+      "title": "半導體",
+      "summary": "AI晶片需求爆發與先進製程供需吃緊持續推動半導體景氣回升，台積電先進封裝（CoWoS）訂單能見度佳，首選台積電（2330），其次看好聯發科（2454）受惠手機庫存回補與AI邊緣運算商機。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/半導體/20260417/report.md",
+      "relative": "半導體/20260417/report.md",
+      "group": "半導體",
+      "date": "2026-04-17",
+      "kind": "industry",
+      "href": "/industry/半導體/20260417/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "LED照明產業",
       "summary": "全球LED照明市場持續成長，亞太區域為最快成長市場，台灣供應鏈中億光(2333)與光寶科(2301)為主要受惠標的。",
