@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-04-17T09:26:17.566050",
-  "industryCount": 16,
+  "generatedAt": "2026-04-18T09:39:05.688534",
+  "industryCount": 17,
   "dailyCount": 10,
   "deepCount": 2,
   "industry": [
+    {
+      "title": "半導體產業",
+      "summary": "AI 需求爆發帶動先進製程與先進封裝景氣長多，台灣半導體供應鏈居全球核心地位，龍頭台積電引領產業進入新一波成長週期，2026 年是布局半導體股的關鍵年份。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/半導體/20260418/report.md",
+      "relative": "半導體/20260418/report.md",
+      "group": "半導體",
+      "date": "2026-04-18",
+      "kind": "industry",
+      "href": "/industry/半導體/20260418/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "半導體",
       "summary": "AI晶片需求爆發與先進製程供需吃緊持續推動半導體景氣回升，台積電先進封裝（CoWoS）訂單能見度佳，首選台積電（2330），其次看好聯發科（2454）受惠手機庫存回補與AI邊緣運算商機。",
