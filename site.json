@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-04-19T04:08:56.469234",
-  "industryCount": 18,
+  "generatedAt": "2026-04-19T09:39:59.508342",
+  "industryCount": 19,
   "dailyCount": 10,
   "deepCount": 2,
   "industry": [
+    {
+      "title": "平面顯示器產業",
+      "summary": "全球平面顯示器市場邁入成熟期，LCD供需失衡常態化，台廠策略轉向車用與利基應用；OLED滲透率提升為唯一亮點，但中國競爭加劇壓抑灣廠獲利空間。",
+      "rating": "中立",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/平面顯示器/20260419/report.md",
+      "relative": "平面顯示器/20260419/report.md",
+      "group": "平面顯示器",
+      "date": "2026-04-19",
+      "kind": "industry",
+      "href": "/industry/平面顯示器/20260419/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "半導體",
       "summary": "AI需求爆發帶動先進製程與先進封裝需求強勁，台積電法說上修全年美元營收成長至30%以上，台灣半導體供應鏈實質受惠，投資方向以先進製程、先進封裝與AI ASIC設計服務為核心。",
