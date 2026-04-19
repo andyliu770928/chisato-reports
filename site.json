@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-19T09:39:59.508342",
+  "generatedAt": "2026-04-20T07:01:39.891545",
   "industryCount": 19,
-  "dailyCount": 10,
+  "dailyCount": 11,
   "deepCount": 2,
   "industry": [
     {
@@ -238,6 +238,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.04.20",
+      "summary": "AI 供應鏈持續吸睛：鴻海以成交量 8,463 張領先，顯示市場資金持續湧入 AI 相關供應鏈，GB200 伺服器出貨預期升溫帶動供應商股價表現",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-20.md",
+      "relative": "2026-04-20.md",
+      "date": "2026-04-20",
+      "kind": "daily",
+      "href": "/daily/20260420/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-04-20.html"
+      ]
+    },
     {
       "title": "2026.04.17",
       "summary": "AI伺服器需求持續火熱，帶領臺灣半導體與電子供應鏈基本面轉強，台積電、鴻海、廣達等指標股價維持高檔格局",
