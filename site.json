@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-21T04:33:02.438046",
+  "generatedAt": "2026-04-21T07:01:26.158320",
   "industryCount": 21,
-  "dailyCount": 11,
+  "dailyCount": 12,
   "deepCount": 2,
   "industry": [
     {
@@ -262,6 +262,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.04.21",
+      "summary": "半導體供應鏈仍是市場重心：台積電(2330)成交量創波段新高至5265口，顯示法人資金持續青睞AI相關供應鏈，股價2025元附近高檔整理，多頭格局未變",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-21.md",
+      "relative": "2026-04-21.md",
+      "date": "2026-04-21",
+      "kind": "daily",
+      "href": "/daily/20260421/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-04-21.html"
+      ]
+    },
     {
       "title": "2026.04.20",
       "summary": "AI 供應鏈持續吸睛：鴻海以成交量 8,463 張領先，顯示市場資金持續湧入 AI 相關供應鏈，GB200 伺服器出貨預期升溫帶動供應商股價表現",
