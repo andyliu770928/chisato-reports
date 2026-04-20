@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-04-20T07:01:39.891545",
-  "industryCount": 19,
+  "generatedAt": "2026-04-20T08:35:42.608493",
+  "industryCount": 20,
   "dailyCount": 11,
   "deepCount": 2,
   "industry": [
+    {
+      "title": "【航太週邊】",
+      "summary": "全球民航市場持續復甦，台灣航太供應鏈受惠於國防預算提升與民航維修需求增長，首選長榮航太與漢翔。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/航太週邊/20260420/report.md",
+      "relative": "航太週邊/20260420/report.md",
+      "group": "航太週邊",
+      "date": "2026-04-20",
+      "kind": "industry",
+      "href": "/industry/航太週邊/20260420/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "平面顯示器產業",
       "summary": "全球平面顯示器市場邁入成熟期，LCD供需失衡常態化，台廠策略轉向車用與利基應用；OLED滲透率提升為唯一亮點，但中國競爭加劇壓抑灣廠獲利空間。",
