@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-04-20T08:35:42.608493",
-  "industryCount": 20,
+  "generatedAt": "2026-04-21T04:22:16.154324",
+  "industryCount": 21,
   "dailyCount": 11,
   "deepCount": 2,
   "industry": [
+    {
+      "title": "印刷電路板（PCB）",
+      "summary": "PCB 產業受惠於 AI 伺服器、汽車電子化、5G 基礎建設三大趨勢，台灣供應鏈在 IC 載板與高階軟硬複合板具有關鍵地位，2026 年以來股價已反映景氣回升，長線成長明確。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20260421/report.md",
+      "relative": "印刷電路板/20260421/report.md",
+      "group": "印刷電路板",
+      "date": "2026-04-21",
+      "kind": "industry",
+      "href": "/industry/印刷電路板/20260421/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【航太週邊】",
       "summary": "全球民航市場持續復甦，台灣航太供應鏈受惠於國防預算提升與民航維修需求增長，首選長榮航太與漢翔。",
