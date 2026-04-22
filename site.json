@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-04-23T07:24:44.591142",
+  "generatedAt": "2026-04-23T07:43:47.639109",
   "industryCount": 22,
   "dailyCount": 13,
   "deepCount": 2,
   "industry": [
     {
-      "title": "【航太週邊】",
-      "summary": "全球民航市場持續復甦，加上國防預算提升與SpaceX IPO效應，台灣航太供應鏈迎來實質訂單支撐；首選長榮航太（2645）與漢翔（2634），jpp-KY（5284）為航太智能化受惠黑馬。",
+      "title": "【能源元件】",
+      "summary": "能源元件涵蓋功率半導體、被動元件與儲能系統，受惠於電動車、資料中心與電網儲能三大結構性需求，台灣供應鏈在第三代半導體（SiC/GaN）已具備量產能力，中長期成長動能明確。",
       "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/航太週邊/20260423/report.md",
-      "relative": "航太週邊/20260423/report.md",
-      "group": "航太週邊",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/能源元件/20260423/report.md",
+      "relative": "能源元件/20260423/report.md",
+      "group": "能源元件",
       "date": "2026-04-23",
       "kind": "industry",
-      "href": "/industry/航太週邊/20260423/report.html",
+      "href": "/industry/能源元件/20260423/report.html",
       "legacy_hrefs": []
     },
     {
