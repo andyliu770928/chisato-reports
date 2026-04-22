@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-23T04:22:29.523484",
+  "generatedAt": "2026-04-23T07:24:44.591142",
   "industryCount": 22,
-  "dailyCount": 12,
+  "dailyCount": 13,
   "deepCount": 2,
   "industry": [
     {
@@ -274,6 +274,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.04.23",
+      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-23.md",
+      "relative": "2026-04-23.md",
+      "date": "2026-04-23",
+      "kind": "daily",
+      "href": "/daily/20260423/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-04-23.html"
+      ]
+    },
     {
       "title": "2026.04.21",
       "summary": "半導體供應鏈仍是市場重心：台積電(2330)成交量創波段新高至5265口，顯示法人資金持續青睞AI相關供應鏈，股價2025元附近高檔整理，多頭格局未變",
