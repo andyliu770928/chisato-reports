@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-04-21T17:17:58.250874",
-  "industryCount": 21,
+  "generatedAt": "2026-04-22T08:49:51.516879",
+  "industryCount": 22,
   "dailyCount": 12,
   "deepCount": 2,
   "industry": [
+    {
+      "title": "【軍工產業】",
+      "summary": "地緣政治風險升溫與台灣國防預算持續擴張，為軍工供應鏈帶來結構性成長機會；首選航太實力堅強的漢翔（2634），其次看好具備釋商效益的長榮航太（2645）與慧洋-KY（2637）。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/軍工/20260422/report.md",
+      "relative": "軍工/20260422/report.md",
+      "group": "軍工",
+      "date": "2026-04-22",
+      "kind": "industry",
+      "href": "/industry/軍工/20260422/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【印刷電路板（PCB）】",
       "summary": "AI伺服器與先進封裝需求爆發，帶動ABF載板與高階PCB供應鏈訂單暢旺，台灣PCB產業2025年產值突破9,000億元創歷史新高，2026年有望挑戰兆元大關。",
