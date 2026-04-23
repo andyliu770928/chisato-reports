@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-04-23T07:48:59.005004",
-  "industryCount": 22,
+  "generatedAt": "2026-04-24T04:13:05.049050",
+  "industryCount": 23,
   "dailyCount": 13,
   "deepCount": 2,
   "industry": [
+    {
+      "title": "【元宇宙】",
+      "summary": "元宇宙長期願景明確（2030年市場規模估逾800億美元），硬體與AI應用為驅動核心，但硬體成本高、內容生態未成熟，近期至中期實質營收貢獻有限。台灣供應鏈覆蓋IC設計、光學鏡頭、散熱、組裝代工，適合長線追蹤而非短線炒作。",
+      "rating": "中立",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/元宇宙/20260424/report.md",
+      "relative": "元宇宙/20260424/report.md",
+      "group": "元宇宙",
+      "date": "2026-04-24",
+      "kind": "industry",
+      "href": "/industry/元宇宙/20260424/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【能源元件】",
       "summary": "能源元件涵蓋电池、儲能系統、功率半導體及能源管理四大領域，受惠於電動車滲透率提升、電網儲能需求爆發，以及SiC/GaN功率元件加速滲透三大結構性成長動能，台灣供應鏈在檢測服務、磷酸鐵鋰材料、儲能系統具備國際競爭力。",
