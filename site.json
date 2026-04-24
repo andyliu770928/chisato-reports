@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-24T07:01:49.502612",
+  "generatedAt": "2026-04-24T14:40:12.421109",
   "industryCount": 23,
   "dailyCount": 14,
-  "deepCount": 2,
+  "deepCount": 3,
   "industry": [
     {
       "title": "元宇宙",
@@ -470,6 +470,19 @@
     }
   ],
   "deep": [
+    {
+      "title": "金管會放寬基金與主動式ETF單一公司持股上限至25% 深度研究報告",
+      "summary": "研究日期： 2026-04-24",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/deep-research/20260424__fsc-etf-fund-ownership-cap-25.md",
+      "relative": "20260424__fsc-etf-fund-ownership-cap-25.md",
+      "date": "20260424",
+      "kind": "deep",
+      "href": "/deep-research/20260424/fsc-etf-fund-ownership-cap-25/report.html",
+      "legacy_hrefs": [
+        "/deep-research/20260424__fsc-etf-fund-ownership-cap-25.html"
+      ]
+    },
     {
       "title": "臺灣機器人產業深度研究報告",
       "summary": "研究日期： 2026-04-13",
