@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-04-25T16:34:47.522546",
-  "industryCount": 24,
+  "generatedAt": "2026-04-26T04:08:57.317227",
+  "industryCount": 25,
   "dailyCount": 14,
   "deepCount": 3,
   "industry": [
+    {
+      "title": "【半導體】",
+      "summary": "AI 應用爆發帶動半導體景氣進入新一輪上升循環，全球市場預計 2026 年正式突破 1 兆美元，台灣供應鏈（先進製程、先進封裝、IP/ASIC）為最大贏家，首選台積電。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/半導體/20260426/report.md",
+      "relative": "半導體/20260426/report.md",
+      "group": "半導體",
+      "date": "2026-04-26",
+      "kind": "industry",
+      "href": "/industry/半導體/20260426/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "連接器產業",
       "summary": "全球連接器市場受惠AI伺服器規格升級與電動車滲透率提升，進入新一波成長周期。台灣連接器供應鏈在高速連接器、汽車連接器與雲端資料中心應用具备關鍵地位。嘉澤（3533）為首選，優群（3217）與高技（5439）為次選，關注近期飆漲個股如良維（6290）與中探針（6217）的修正風險。",
