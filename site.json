@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-04-24T14:40:12.421109",
-  "industryCount": 23,
+  "generatedAt": "2026-04-25T16:34:43.030329",
+  "industryCount": 24,
   "dailyCount": 14,
   "deepCount": 3,
   "industry": [
+    {
+      "title": "連接器產業",
+      "summary": "全球連接器市場受惠AI伺服器規格升級與電動車滲透率提升，進入新一波成長周期。台灣連接器供應鏈在高速連接器、汽車連接器與雲端資料中心應用具备關鍵地位。嘉澤（3533）為首選，優群（3217）與高技（5439）為次選，關注近期飆漲個股如良維（6290）與中探針（6217）的修正風險。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/連接器/20260425/report.md",
+      "relative": "連接器/20260425/report.md",
+      "group": "連接器",
+      "date": "2026-04-25",
+      "kind": "industry",
+      "href": "/industry/連接器/20260425/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "元宇宙",
       "summary": "元宇宙長線趨勢確立，硬體滲透率處於爆發初期，台灣半導體與光學供應鏈為隱形贏家，短期股價基期偏低，提供不錯進場時點。",
