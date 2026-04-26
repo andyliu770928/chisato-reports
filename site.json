@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-04-26T04:09:19.741560",
-  "industryCount": 25,
+  "generatedAt": "2026-04-27T04:08:27.683039",
+  "industryCount": 26,
   "dailyCount": 14,
   "deepCount": 3,
   "industry": [
+    {
+      "title": "【區塊鏈】",
+      "summary": "區塊鏈市場進入超高速增長期（Mordor Intelligence 估 2026-2031 CAGR 62.8%），亞太區域增速最快（CAGR 63.4%），台灣供應鏈以顯示卡廠（華擎、映泰、麗臺、撼訊）與資訊服務商（精誠、零壹、邁達特）為雙主軸，受惠於礦卡需求、、企業區塊鏈採用與穩定幣生態爆發三重驅動。短期觀察比特幣價格走向與 VASP 牌照發放進度；中長期聚焦代幣化資產與 BaaS 普及。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/區塊鏈/20260427/report.md",
+      "relative": "區塊鏈/20260427/report.md",
+      "group": "區塊鏈",
+      "date": "2026-04-27",
+      "kind": "industry",
+      "href": "/industry/區塊鏈/20260427/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【半導體】",
       "summary": "AI 應用爆發帶動半導體景氣進入新一輪上升循環，全球市場預計 2026 年正式突破 1 兆美元，台灣供應鏈（先進製程、先進封裝、IP/ASIC）為最大贏家，首選台積電。",
