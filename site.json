@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-04-27T11:35:05.573212",
-  "industryCount": 26,
+  "generatedAt": "2026-04-28T04:14:13.647903",
+  "industryCount": 27,
   "dailyCount": 15,
   "deepCount": 3,
   "industry": [
+    {
+      "title": "【觸控面板】",
+      "summary": "全球觸控面板市場在 AI PC 與車用觸控帶動下穩健成長，CAGR 達 13.8%，但台灣主要供應商面臨中國同業低價競爭與景氣波動考驗，選股應聚焦具備高毛利或非消費性應用的標的。",
+      "rating": "中性",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/觸控面板/20260428/report.md",
+      "relative": "觸控面板/20260428/report.md",
+      "group": "觸控面板",
+      "date": "2026-04-28",
+      "kind": "industry",
+      "href": "/industry/觸控面板/20260428/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【區塊鏈】區塊鏈產業",
       "summary": "全球區塊鏈市場進入超高速增長期（Mordor Intelligence 估 2026-2031 CAGR 62.8%），亞太區域增速最快（CAGR 63.4%），台灣供應鏈以顯示卡廠（華擎、映泰、麗臺、撼訊）與資訊服務商（精誠、零壹、邁達特）為雙主軸，受惠於礦卡需求、企業區塊鏈採用與穩定幣生態爆發三重驅動。短期觀察比特幣價格走向與 VASP 牌照發放進度；中長期聚焦代幣化資產與 BaaS 普及。",
