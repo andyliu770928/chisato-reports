@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-04-28T20:26:43.731775",
-  "industryCount": 27,
+  "generatedAt": "2026-04-29T04:11:14.094457",
+  "industryCount": 28,
   "dailyCount": 16,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "電腦及週邊設備",
+      "summary": "全球 PC 市場在 AI PC 換機潮撐場下，2025 年出貨重回成長（+8.1%），但記憶體短缺將壓制 2026 年出貨量（IDC 估年減 11%），市場價值卻因單價墊高而可維持在 2,740 億美元高水位。台灣供應鏈廠商呈明顯分化——品牌廠華碩（2357）靠 AI PC 與伺服器突圍，代工廠廣達（2382）、緯創（3231）則以 AI 伺服器為主旋律，PC 本業僅平穩。記憶體/關鍵元件緊缺與關稅政策為當前最大風險。",
+      "rating": "中性",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/電腦及週邊設備/20260429/report.md",
+      "relative": "電腦及週邊設備/20260429/report.md",
+      "group": "電腦及週邊設備",
+      "date": "2026-04-29",
+      "kind": "industry",
+      "href": "/industry/電腦及週邊設備/20260429/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【觸控面板】",
       "summary": "全球觸控面板市場在 AI PC 與車用觸控帶動下穩健成長，CAGR 達 13.8%，但台灣主要供應商面臨中國同業低價競爭與景氣波動考驗，選股應聚焦具備高毛利或非消費性應用的標的。",
