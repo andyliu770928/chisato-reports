@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-28T07:01:44.962230",
+  "generatedAt": "2026-04-28T20:26:31.796907",
   "industryCount": 27,
   "dailyCount": 16,
-  "deepCount": 3,
+  "deepCount": 4,
   "industry": [
     {
       "title": "【觸控面板】",
@@ -544,6 +544,19 @@
     }
   ],
   "deep": [
+    {
+      "title": "AI名詞的基本介紹",
+      "summary": "研究日期： 2026-04-28",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/deep-research/20260428__ai-terminology-introduction.md",
+      "relative": "20260428__ai-terminology-introduction.md",
+      "date": "20260428",
+      "kind": "deep",
+      "href": "/deep-research/20260428/ai-terminology-introduction/report.html",
+      "legacy_hrefs": [
+        "/deep-research/20260428__ai-terminology-introduction.html"
+      ]
+    },
     {
       "title": "金管會放寬基金與主動式ETF單一公司持股上限至25% 深度研究報告",
       "summary": "研究日期： 2026-04-24",
