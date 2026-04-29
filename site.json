@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-04-29T07:01:59.553070",
-  "industryCount": 28,
+  "generatedAt": "2026-04-30T04:17:28.375541",
+  "industryCount": 29,
   "dailyCount": 17,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "金融產業",
+      "summary": "台灣金融業受惠於 Fed 利率高檔支撐銀行淨利差、股市健康成交量挹注券商收益，以及壽險業接軌 IFRS 17 与 ICS 2.0 的題材加持，2026 年基本面不看淡。短線觀察重點在升息預期與信用風險管理；中長線則聚焦金融科技與數位轉型商機。在台股中，首選體質穩健的民營銀行與具有壽險子公司的金控。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/金融/20260430/report.md",
+      "relative": "金融/20260430/report.md",
+      "group": "金融",
+      "date": "2026-04-30",
+      "kind": "industry",
+      "href": "/industry/金融/20260430/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "電腦及週邊設備",
       "summary": "全球 PC 市場在 AI PC 換機潮撐場下，2025 年出貨重回成長（+8.1%），但記憶體短缺將壓制 2026 年出貨量（IDC 估年減 11%），市場價值卻因單價墊高而可維持在 2,740 億美元高水位。台灣供應鏈廠商呈明顯分化——品牌廠華碩（2357）靠 AI PC 與伺服器突圍，代工廠廣達（2382）、緯創（3231）則以 AI 伺服器為主旋律，PC 本業僅平穩。記憶體/關鍵元件緊缺與關稅政策為當前最大風險。",
