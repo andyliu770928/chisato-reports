@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-04-30T07:01:11.112051",
-  "industryCount": 29,
+  "generatedAt": "2026-05-01T04:07:42.128301",
+  "industryCount": 30,
   "dailyCount": 18,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "【水泥產業】",
+      "summary": "台灣水泥產業受惠於前瞻基礎建設需求，但中國產能過剩壓抑獲利空間，綠色水泥轉型為中長期關鍵變數。",
+      "rating": "中立",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/水泥/20260501/report.md",
+      "relative": "水泥/20260501/report.md",
+      "group": "水泥",
+      "date": "2026-05-01",
+      "kind": "industry",
+      "href": "/industry/水泥/20260501/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "金融產業",
       "summary": "台灣金融業受惠於 Fed 利率高檔支撐銀行淨利差、股市健康成交量挹注券商收益，以及壽險業接軌 IFRS 17 与 ICS 2.0 的題材加持，2026 年基本面不看淡。短線觀察重點在升息預期與信用風險管理；中長線則聚焦金融科技與數位轉型商機。在台股中，首選體質穩健的民營銀行與具有壽險子公司的金控。",
