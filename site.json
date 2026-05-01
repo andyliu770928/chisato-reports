@@ -1,9 +1,21 @@
 {
   "generatedAt": "2026-05-02T04:10:14.372783",
-  "industryCount": 30,
+  "industryCount": 31,
   "dailyCount": 19,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "【印刷電路板（PCB）】",
+      "summary": "AI伺服器、5G與先進封裝需求爆發，台灣PCB供應鏈迎來結構性成長契機，台光電、南電、臻鼎-KY擔任領頭羊。全球市場2024年803.3億美元，CAGR 4.87%。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20260502/report.md",
+      "relative": "印刷電路板/20260502/report.md",
+      "group": "印刷電路板",
+      "date": "2026-05-02",
+      "kind": "industry",
+      "href": "/industry/印刷電路板/20260502/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【水泥產業】",
       "summary": "台灣水泥產業受惠於前瞻基礎建設需求，但中國產能過剩壓抑獲利空間，綠色水泥轉型為中長期關鍵變數。",
