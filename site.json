@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-02T04:10:14.372783",
+  "generatedAt": "2026-05-03T04:19:31.813878",
   "industryCount": 31,
   "dailyCount": 19,
   "deepCount": 4,
   "industry": [
     {
       "title": "【印刷電路板（PCB）】",
-      "summary": "AI伺服器、5G與先進封裝需求爆發，台灣PCB供應鏈迎來結構性成長契機，台光電、南電、臻鼎-KY擔任領頭羊。全球市場2024年803.3億美元，CAGR 4.87%。",
+      "summary": "AI伺服器與先進封裝需求持續爆發，帶動ABF載板與高階PCB供應鏈訂單暢旺，台灣PCB產業2025年產值突破9,000億元創歷史新高，2026年在AI需求帶動下，產業有望挑戰兆元大關，台灣供應鏈居全球領導地位。",
       "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20260502/report.md",
-      "relative": "印刷電路板/20260502/report.md",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20260503/report.md",
+      "relative": "印刷電路板/20260503/report.md",
       "group": "印刷電路板",
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "kind": "industry",
-      "href": "/industry/印刷電路板/20260502/report.html",
+      "href": "/industry/印刷電路板/20260503/report.html",
       "legacy_hrefs": []
     },
     {
