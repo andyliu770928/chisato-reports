@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-03T04:21:03.642308",
-  "industryCount": 31,
+  "generatedAt": "2026-05-04T04:09:47.146710",
+  "industryCount": 32,
   "dailyCount": 19,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "半導體產業",
+      "summary": "AI需求爆發與先進製程領先優勢，為台灣半導體產業帶來結構性成長動能；台積電先進製程市佔率逾90%，CoWoS封裝成AI晶片瓶頸，台灣供應鏈全面受惠。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/半導體/20260504/report.md",
+      "relative": "半導體/20260504/report.md",
+      "group": "半導體",
+      "date": "2026-05-04",
+      "kind": "industry",
+      "href": "/industry/半導體/20260504/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【印刷電路板（PCB）】",
       "summary": "AI伺服器與先進封裝需求持續爆發，帶動ABF載板與高階PCB供應鏈訂單暢旺，台灣PCB產業2025年產值突破9,000億元創歷史新高，2026年在AI需求帶動下，產業有望挑戰兆元大關，台灣供應鏈居全球領導地位。",
