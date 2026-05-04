@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-04T07:01:50.549103",
-  "industryCount": 32,
+  "generatedAt": "2026-05-05T04:15:08.978935",
+  "industryCount": 33,
   "dailyCount": 20,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "【觸控面板】",
+      "summary": "觸控面板產業進入成熟期，智慧手機等傳統應用動能放緩，但車用、工業領域帶來新成長引擎。台灣供應鏈以宸鴻、GIS-KY 為首，受惠於車用觸控滲透率提升，但需留意價格競爭與中國廠商挑戰。",
+      "rating": "中立",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/觸控面板/20260505/report.md",
+      "relative": "觸控面板/20260505/report.md",
+      "group": "觸控面板",
+      "date": "2026-05-05",
+      "kind": "industry",
+      "href": "/industry/觸控面板/20260505/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "半導體產業",
       "summary": "AI需求爆發與先進製程領先優勢，為台灣半導體產業帶來結構性成長動能；台積電先進製程市佔率逾90%，CoWoS封裝成AI晶片瓶頸，台灣供應鏈全面受惠。",
