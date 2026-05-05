@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-05T07:01:18.481876",
-  "industryCount": 33,
+  "generatedAt": "2026-05-06T04:17:58.050245",
+  "industryCount": 34,
   "dailyCount": 21,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "【航太週邊】",
+      "summary": "全球航太產業進入疫後十年超級周期，Boeing與Airbus合計市占近八成，積壓訂單創歷史新高，台灣供應鏈廠商將受惠於訂單釋出與精密製造升級。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/航太週邊/20260506/report.md",
+      "relative": "航太週邊/20260506/report.md",
+      "group": "航太週邊",
+      "date": "2026-05-06",
+      "kind": "industry",
+      "href": "/industry/航太週邊/20260506/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【觸控面板】",
       "summary": "觸控面板產業進入成熟期，智慧手機等傳統應用動能放緩，但車用、工業領域帶來新成長引擎。台灣供應鏈以宸鴻、GIS-KY 為首，受惠於車用觸控滲透率提升，但需留意價格競爭與中國廠商挑戰。",
