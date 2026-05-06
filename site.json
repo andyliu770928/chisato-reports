@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-06T07:02:46.538376",
-  "industryCount": 34,
+  "generatedAt": "2026-05-07T04:06:56.094511",
+  "industryCount": 35,
   "dailyCount": 22,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "被動元件",
+      "summary": "AI 伺服器需求爆發為被動元件產業今明兩年最重要的成長引擎，台灣 MLCC 與晶片電阻大廠國巨（2327）與華新科（2492）直接受惠，首選國巨。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/被動元件/20260507/report.md",
+      "relative": "被動元件/20260507/report.md",
+      "group": "被動元件",
+      "date": "2026-05-07",
+      "kind": "industry",
+      "href": "/industry/被動元件/20260507/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【航太週邊】",
       "summary": "全球航太產業進入疫後十年超級周期，Boeing與Airbus合計市占近八成，積壓訂單創歷史新高，台灣供應鏈廠商將受惠於訂單釋出與精密製造升級。",
