@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-07T07:01:55.632955",
-  "industryCount": 35,
+  "generatedAt": "2026-05-08T04:20:56.308578",
+  "industryCount": 36,
   "dailyCount": 23,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "區塊鏈產業",
+      "summary": "區塊鏈產業進入機構採用與監理合規並行的成熟階段，市場規模預計從2025年69.3億美元高速增長至2032年1.02兆美元，CAGR達47.1%。比特幣與以太坊現貨ETF相繼獲批為產業分水嶺，RWA代幣化與Layer2基礎建設為下一波成長核心。台灣供應鏈以系統整合與金融應用開發為主，受惠廠商包括邁達特（6112）等。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/區塊鏈/20260508/report.md",
+      "relative": "區塊鏈/20260508/report.md",
+      "group": "區塊鏈",
+      "date": "2026-05-08",
+      "kind": "industry",
+      "href": "/industry/區塊鏈/20260508/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "被動元件",
       "summary": "AI 伺服器需求爆發為被動元件產業今明兩年最重要的成長引擎，台灣 MLCC 與晶片電阻大廠國巨（2327）與華新科（2492）直接受惠，首選國巨。",
