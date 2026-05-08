@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-08T07:01:34.914397",
-  "industryCount": 36,
+  "generatedAt": "2026-05-09T04:10:01.654870",
+  "industryCount": 37,
   "dailyCount": 24,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "太陽能產業",
+      "summary": "台灣太陽光電受惠於政策支持、躉購費率凍漲與「綠電極大化」目標，中短期成長動能清晰，2026 年再生能源發電占比預計達 20%，首選聯合再生（3576）與元晶（6443）。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/太陽能/20260509/report.md",
+      "relative": "太陽能/20260509/report.md",
+      "group": "太陽能",
+      "date": "2026-05-09",
+      "kind": "industry",
+      "href": "/industry/太陽能/20260509/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "區塊鏈產業",
       "summary": "區塊鏈產業進入機構採用與監理合規並行的成熟階段，市場規模預計從2025年69.3億美元高速增長至2032年1.02兆美元，CAGR達47.1%。比特幣與以太坊現貨ETF相繼獲批為產業分水嶺，RWA代幣化與Layer2基礎建設為下一波成長核心。台灣供應鏈以系統整合與金融應用開發為主，受惠廠商包括邁達特（6112）等。",
