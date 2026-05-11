@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-11T07:01:33.657120",
-  "industryCount": 39,
+  "generatedAt": "2026-05-12T04:18:17.165661",
+  "industryCount": 40,
   "dailyCount": 25,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "觸控面板",
+      "summary": "台灣觸控面板產業短中期受惠於iPhone 17拉貨與AI PC/筆電換機潮，但OLED整合趨勢對外掛式模組廠的中長期結構性壓力仍在，首選GIS-KY（6456），其次關注TPK-KY（3673）折疊手機奈米銀觸控的訂單能否超預期。",
+      "rating": "中性",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/觸控面板/20260512/report.md",
+      "relative": "觸控面板/20260512/report.md",
+      "group": "觸控面板",
+      "date": "2026-05-12",
+      "kind": "industry",
+      "href": "/industry/觸控面板/20260512/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "半導體產業",
       "summary": "AI 需求爆發帶動先進製程與先進封裝景氣長多，全球半導體市場 2026 年預計達 8,900 億美元（年增 11%），台灣半導體供應鏈居全球核心地位，龍頭台積電引領產業進入新一波成長週期，2026 年是布局半導體股的關鍵年份。",
