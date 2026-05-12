@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-12T07:01:47.103194",
-  "industryCount": 40,
+  "generatedAt": "2026-05-13T04:07:18.451883",
+  "industryCount": 41,
   "dailyCount": 26,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "元宇宙產業研究報告",
+      "summary": "報告日期：2025年5月13日",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/元宇宙/20260513/report.md",
+      "relative": "元宇宙/20260513/report.md",
+      "group": "元宇宙",
+      "date": "20260513",
+      "kind": "industry",
+      "href": "/industry/元宇宙/20260513/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "觸控面板",
       "summary": "台灣觸控面板產業短中期受惠於iPhone 17拉貨與AI PC/筆電換機潮，但OLED整合趨勢對外掛式模組廠的中長期結構性壓力仍在，首選GIS-KY（6456），其次關注TPK-KY（3673）折疊手機奈米銀觸控的訂單能否超預期。",
