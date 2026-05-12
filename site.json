@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-13T04:07:18.451883",
+  "generatedAt": "2026-05-13T04:17:52.582023",
   "industryCount": 41,
   "dailyCount": 26,
   "deepCount": 4,
   "industry": [
     {
-      "title": "元宇宙產業研究報告",
-      "summary": "報告日期：2025年5月13日",
-      "rating": "",
+      "title": "元宇宙",
+      "summary": "元宇宙長線結構性成長方向確立，硬體滲透率仍處於爆發前期，台灣半導體與光學供應鏈在全球關鍵元件具有寡占優勢，短期評價修正後提供中長線布局時點。",
+      "rating": "正向",
       "source": "/Users/aliu/MEGA/openclaw/reports/industry/元宇宙/20260513/report.md",
       "relative": "元宇宙/20260513/report.md",
       "group": "元宇宙",
-      "date": "20260513",
+      "date": "2026-05-13",
       "kind": "industry",
       "href": "/industry/元宇宙/20260513/report.html",
       "legacy_hrefs": []
