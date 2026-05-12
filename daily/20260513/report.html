@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>2026.05.13</title>
+  <link rel="icon" type="image/svg+xml" href="/chisato-reports/assets/favicon.svg" />
+  <link rel="stylesheet" href="/chisato-reports/assets/style.css" />
+</head>
+<body>
+  <main class="page report-page daily">
+    <header class="site-header">
+      <div class="brand-bar">
+        <a class="brand" href="/chisato-reports/index.html">小千研究報告站</a>
+        <nav class="site-nav"><a href="/chisato-reports/index.html">首頁</a><a href="/chisato-reports/industry/index.html">產業報告</a><a href="/chisato-reports/daily/index.html">每日早報</a><a href="/chisato-reports/deep-research/index.html">主題研究</a></nav>
+      </div>
+      <div class="breadcrumb">每日早報 / 2026-05-13</div>
+      <h1>2026.05.13</h1>
+      
+    </header>
+    <section class="content">
+      <article class="report-shell"><section class="report-top daily"><div class="report-meta"><span class="chip">每日早報</span><span class="chip">2026.05.13</span></div><h1>2026.05.13</h1><p class="report-lead">您好！非常感謝您提供股價資料與模板</p></section><div class="report-frame"><section class="report-body"><h1>⚠️ 素材不足聲明</h1>
+<p>您好！非常感謝您提供股價資料與模板。</p>
+<p><strong>遺憾的是，本次請求缺少最關鍵的素材：</strong></p>
+<p>&gt; <strong>「新聞與研究素材」區塊為空白</strong></p>
+<p>本區塊為市場早報的核心分析基礎，若無實質新聞、政策動態、產業研究或事件驅動因子，則無法產出具有投資價值的實務分析報告。</p>
+<hr />
+<h2>📋 為協助您完成報告，以下為已知資料：</h2>
+<table>
+<thead><tr><th>股號</th><th>股名</th><th>價格</th><th>備註</th></tr></thead>
+<tbody>
+<tr><td>2330</td><td>台積電</td><td>2,255.00 元</td><td>權值龍頭</td></tr>
+<tr><td>2454</td><td>聯發科</td><td>3,700.00 元</td><td>IC 設計</td></tr>
+<tr><td>2317</td><td>鴻海</td><td>250.00 元</td><td>電子代工</td></tr>
+<tr><td>2382</td><td>廣達</td><td>340.00 元</td><td>AI 供應鏈</td></tr>
+<tr><td>0050</td><td>元大台灣50</td><td>96.85 元</td><td>臺股 ETF</td></tr>
+</tbody>
+</table>
+<hr />
+<h2>✅ 若您希望我生成完整報告，請提供以下任一素材：</h2>
+<p><strong>1.</strong> <strong>近期重要新聞</strong>（如：美中貿易、臺股政策、AI 產業動態、半導體供需）</p>
+<p><strong>2.</strong> <strong>研究機構報告摘要</strong></p>
+<p><strong>3.</strong> <strong>特定事件或消息面</strong>（如：法說會、財報、併購、殖利率變化）</p>
+<hr />
+<p>期待您的素材！我將根據真實資料，為您產出<strong>完整且具投資參考價值的市場早報</strong>。</p></section></div></article>
+    </section>
+  </main>
+  <script>
+(function(){
+  var btns = document.querySelectorAll('.filter-btn');
+  var grid = document.querySelector('.industry-index .entry-grid');
+  var count = document.getElementById('filter-count');
+  if(!btns.length || !grid) return;
+  function applyFilter(group) {
+    var cards = grid.querySelectorAll('.entry-card');
+    var shown = 0;
+    cards.forEach(function(card){
+      var match = !group || card.getAttribute('data-group') === group;
+      card.classList.toggle('hidden-by-filter', !match);
+      if(match) shown++;
+    });
+    btns.forEach(function(b){
+      b.classList.toggle('active', (b.getAttribute('data-group')||'') === (group||''));
+    });
+    if(count) count.textContent = shown > 0 ? shown + ' 篇' : '';
+  }
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      applyFilter(btn.getAttribute('data-group'));
+    });
+  });
+  applyFilter('');
+})();
+  </script>
+</body>
+</html>
