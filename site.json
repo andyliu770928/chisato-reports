@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T07:00:20.238654",
+  "generatedAt": "2026-05-13T09:52:08.809319",
   "industryCount": 41,
   "dailyCount": 27,
   "deepCount": 4,
@@ -504,7 +504,7 @@
   "daily": [
     {
       "title": "2026.05.13",
-      "summary": "您好！非常感謝您提供股價資料與模板",
+      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
       "rating": "",
       "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-05-13.md",
       "relative": "2026-05-13.md",
