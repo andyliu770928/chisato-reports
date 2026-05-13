@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>被動元件產業報告 - 資料來源</title>
+  <link rel="icon" type="image/svg+xml" href="/chisato-reports/assets/favicon.svg" />
+  <link rel="stylesheet" href="/chisato-reports/assets/style.css" />
+</head>
+<body>
+  <main class="page report-page industry">
+    <header class="site-header">
+      <div class="brand-bar">
+        <a class="brand" href="/chisato-reports/index.html">小千研究報告站</a>
+        <nav class="site-nav"><a href="/chisato-reports/index.html">首頁</a><a href="/chisato-reports/industry/index.html">產業報告</a><a href="/chisato-reports/daily/index.html">每日早報</a><a href="/chisato-reports/deep-research/index.html">主題研究</a></nav>
+      </div>
+      <div class="breadcrumb">產業報告 / state / daily-report-sources</div>
+      <h1>被動元件產業報告 - 資料來源</h1>
+      
+    </header>
+    <section class="content">
+      <article class="report-shell"><section class="report-top industry"><div class="report-meta"><span class="chip">產業報告</span><span class="chip">daily-report-sources</span><span class="chip">state</span></div><h1>被動元件產業報告 - 資料來源</h1><p class="report-lead">國巨（2327）2026年Q1法說會，2026年4月15日</p></section><div class="report-frame"><section class="report-body"><h1>被動元件產業報告 - 資料來源</h1>
+<h2>優先參考來源</h2>
+<h3>1. 公司公告與法說會</h3>
+<ul>
+<li>國巨（2327）2026年Q1法說會，2026年4月15日</li>
+<li>禾伸堂（3026）2026年法說會，2026年3月24日</li>
+<li>口袋證券，引爆AI熱潮：國巨法說會後展望</li>
+</ul>
+<h3>2. 專業媒體</h3>
+<ul>
+<li>工商時報：被動元件漲聲響起報導</li>
+<li>經濟日報：被動元件產業相關報導</li>
+<li>鉅亨網：國巨法說、禾伸堂法說等</li>
+<li>UDN聯合報：AI伺服器帶旺被動元件報導</li>
+<li>中時新聞網：MLCC國產替代報導</li>
+</ul>
+<h3>3. 產業研究機構</h3>
+<ul>
+<li>TrendForce集邦諮詢：MLCC市場研究</li>
+<li>工研院IEK/TPCA：2026產業發展趨勢研討會</li>
+<li>TEJ台灣經濟新報：被動元件產業展望</li>
+<li>Research Nester：MLCC市場規模報告</li>
+<li>中金公司：大陸投行MLCC需求預估</li>
+</ul>
+<h3>4. 券商報告</h3>
+<ul>
+<li>兆豐投顧：國巨目標價384元評等報告</li>
+<li>新光證券：被動元件晨報</li>
+<li>PGIA專業研究報告</li>
+</ul>
+<h3>5. 數據驗證</h3>
+<ul>
+<li>台灣電路板協會（TPCA）產業數據</li>
+<li>各公司公開資訊觀測站公告</li>
+<li>CMoney、財報狗（個股數據驗證）</li>
+</ul>
+<hr />
+<h2>數據基準日：2026年5月14日</h2>
+<h2>備註</h2>
+<ul>
+<li>MLCC市場規模2025年163.9億美元，來源：Research Nester</li>
+<li>台灣被動元件2026年產值2,559億元，來源：工研院IEK</li>
+<li>其餘數字均已透過公司公告或券商報告驗證</li>
+</ul></section></div></article>
+    </section>
+  </main>
+  <script>
+(function(){
+  var btns = document.querySelectorAll('.filter-btn');
+  var grid = document.querySelector('.industry-index .entry-grid');
+  var count = document.getElementById('filter-count');
+  if(!btns.length || !grid) return;
+  function applyFilter(group) {
+    var cards = grid.querySelectorAll('.entry-card');
+    var shown = 0;
+    cards.forEach(function(card){
+      var match = !group || card.getAttribute('data-group') === group;
+      card.classList.toggle('hidden-by-filter', !match);
+      if(match) shown++;
+    });
+    btns.forEach(function(b){
+      b.classList.toggle('active', (b.getAttribute('data-group')||'') === (group||''));
+    });
+    if(count) count.textContent = shown > 0 ? shown + ' 篇' : '';
+  }
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      applyFilter(btn.getAttribute('data-group'));
+    });
+  });
+  applyFilter('');
+})();
+  </script>
+</body>
+</html>
