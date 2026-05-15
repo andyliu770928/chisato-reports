@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-15T07:01:52.749214",
-  "industryCount": 45,
+  "generatedAt": "2026-05-16T04:02:23.803736",
+  "industryCount": 46,
   "dailyCount": 29,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "造紙產業",
+      "summary": "台灣造紙產業受制於文化紙需求萎縮與碳費開徵，2026年景氣溫和復甦但動能有限，工紙（尤其越南佈局）為核心成長引擎，紙漿價格區間整理，選股應聚焦具備循環經濟競爭力與海外產能優勢之龍頭。",
+      "rating": "中性",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/造紙/20260516/report.md",
+      "relative": "造紙/20260516/report.md",
+      "group": "造紙",
+      "date": "2026-05-16",
+      "kind": "industry",
+      "href": "/industry/造紙/20260516/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "資通訊安全產業",
       "summary": "全球資安支出持續高速成長，AI 驅動攻擊工業化與台灣地緣政治風險共存，創造資安剛性需求。台灣供應鏈在 OT 資安、零信任、後量子等前沿技術具有國際競爭力，2026 年產值正式挑戰千億大關，政策加持與法規驅動使台灣資安產業進入加速增長期。",
