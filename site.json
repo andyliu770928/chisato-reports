@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-16T04:03:00.992773",
-  "industryCount": 46,
+  "generatedAt": "2026-05-17T04:03:18.665568",
+  "industryCount": 47,
   "dailyCount": 29,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "區塊鏈",
+      "summary": "區塊鏈產業正從加密貨幣投機驅動，轉向機構採用與實體經濟應用。2026年市場規模預估137億美元（Research Nester），至2035年達1,632億美元，CAGR 31.66%。台灣虛擬資產專法進入關鍵年，VASP登記制上路，100家以上業者集結。台股以2330台積電為核心受惠，3515華擎為區塊鏈概念股首選。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/區塊鏈/20260517/report.md",
+      "relative": "區塊鏈/20260517/report.md",
+      "group": "區塊鏈",
+      "date": "2026-05-17",
+      "kind": "industry",
+      "href": "/industry/區塊鏈/20260517/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "造紙產業",
       "summary": "台灣造紙產業受制於文化紙需求萎縮與碳費開徵，2026年景氣溫和復甦但動能有限，工紙（尤其越南佈局）為核心成長引擎，紙漿價格區間整理，選股應聚焦具備循環經濟競爭力與海外產能優勢之龍頭。",
