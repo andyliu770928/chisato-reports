@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-17T04:03:46.652153",
-  "industryCount": 47,
+  "generatedAt": "2026-05-18T04:04:08.985315",
+  "industryCount": 48,
   "dailyCount": 29,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "運動科技",
+      "summary": "全球運動科技市場進入AI驅動的加速成長期，2025年市場規模約342至454億美元，CAGR介於12%至17%之間，台灣供應鏈在健身器材、智慧紡織與穿戴裝置具备完整佈局，其中喬山以商用健身器材全球前三大地位及持續擴大的市占率為首選，世界健身-KY以穩健會員成長與國際化複製能力為次選，智慧紡織則為長期潛力觀察方向。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/運動科技/20260518/report.md",
+      "relative": "運動科技/20260518/report.md",
+      "group": "運動科技",
+      "date": "2026-05-18",
+      "kind": "industry",
+      "href": "/industry/運動科技/20260518/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "區塊鏈",
       "summary": "區塊鏈產業正從加密貨幣投機驅動，轉向機構採用與實體經濟應用。2026年市場規模預估137億美元（Research Nester），至2035年達1,632億美元，CAGR 31.66%。台灣虛擬資產專法進入關鍵年，VASP登記制上路，100家以上業者集結。台股以2330台積電為核心受惠，3515華擎為區塊鏈概念股首選。",
