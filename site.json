@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-19T07:01:45.018704",
+  "generatedAt": "2026-05-20T07:01:17.230376",
   "industryCount": 49,
-  "dailyCount": 31,
+  "dailyCount": 32,
   "deepCount": 4,
   "industry": [
     {
@@ -602,6 +602,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.05.20",
+      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-05-20.md",
+      "relative": "2026-05-20.md",
+      "date": "2026-05-20",
+      "kind": "daily",
+      "href": "/daily/20260520/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-05-20.html"
+      ]
+    },
     {
       "title": "2026.05.19",
       "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
