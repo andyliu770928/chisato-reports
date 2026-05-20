@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-20T07:01:17.230376",
-  "industryCount": 49,
+  "generatedAt": "2026-05-21T04:07:53.237121",
+  "industryCount": 50,
   "dailyCount": 32,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "被動元件",
+      "summary": "AI伺服器需求爆發點燃被動元件多頭氣勢，2026年5月20日14檔集體漲停，國巨（2327）創分割後新高546元。日、韓指標廠產能利用率逼近滿載，供需缺口加劇，漲價趨勢確立，台灣供應鏈進入結構性成長循環，首選國巨（2327）與禾伸堂（3026）。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/被動元件/20260521/report.md",
+      "relative": "被動元件/20260521/report.md",
+      "group": "被動元件",
+      "date": "2026-05-21",
+      "kind": "industry",
+      "href": "/industry/被動元件/20260521/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "觸控面板",
       "summary": "智慧手機傳統觸控市場持續受OLED內嵌化挤压，但車用顯示與智慧座艙成為產業新成長引擎，台灣供應鏈廠商轉型方向明確，建議聚焦已成功轉型的觸控模組廠與深耕車用的面板廠。",
