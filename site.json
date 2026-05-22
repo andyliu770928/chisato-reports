@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-22T07:01:26.371710",
-  "industryCount": 50,
+  "generatedAt": "2026-05-23T04:06:01.555162",
+  "industryCount": 51,
   "dailyCount": 34,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "電子商務產業",
+      "summary": "台灣電子商務市場邁入成熟增長階段，直播電商與跨境購物為新成長引擎，平台競爭加劇態勢下，供應鏈數位轉型與物流建設完善的業者為首要觀察標的。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/電子商務/20260523/report.md",
+      "relative": "電子商務/20260523/report.md",
+      "group": "電子商務",
+      "date": "2026-05-23",
+      "kind": "industry",
+      "href": "/industry/電子商務/20260523/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "被動元件",
       "summary": "AI伺服器需求爆發點燃被動元件多頭氣勢，2026年5月20日14檔集體漲停，國巨（2327）創分割後新高546元。日、韓指標廠產能利用率逼近滿載，供需缺口加劇，漲價趨勢確立，台灣供應鏈進入結構性成長循環，首選國巨（2327）與禾伸堂（3026）。",
