@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-23T04:09:22.718446",
+  "generatedAt": "2026-05-24T04:09:02.540967",
   "industryCount": 51,
   "dailyCount": 34,
   "deepCount": 4,
   "industry": [
     {
-      "title": "電子商務產業",
-      "summary": "台灣電子商務市場邁入成熟增長階段，直播電商與跨境購物為新成長引擎，平台競爭加劇態勢下，物流建設完善與會員價值深的業者為首要觀察標的。",
+      "title": "【印刷電路板（PCB）】",
+      "summary": "AI伺服器與先進封裝需求持續爆發，帶動ABF載板與高階PCB供應鏈訂單暢旺，全球PCB市場在AI時代重新進入成長軌道，台灣供應鏈以技術領先與完整產業群聚优势，居全球供應鏈核心地位，2026年看法正向。",
       "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/電子商務/20260523/report.md",
-      "relative": "電子商務/20260523/report.md",
-      "group": "電子商務",
-      "date": "2026-05-23",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20260524/report.md",
+      "relative": "印刷電路板/20260524/report.md",
+      "group": "印刷電路板",
+      "date": "2026-05-24",
       "kind": "industry",
-      "href": "/industry/電子商務/20260523/report.html",
+      "href": "/industry/印刷電路板/20260524/report.html",
       "legacy_hrefs": []
     },
     {
