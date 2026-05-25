@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-25T07:01:32.426494",
-  "industryCount": 51,
+  "generatedAt": "2026-05-26T04:11:53.656927",
+  "industryCount": 52,
   "dailyCount": 35,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "太空衛星科技",
+      "summary": "SpaceX 史上最大 IPO 為 2026 年太空衛星產業最大催化劑，台灣供應鏈在射頻、地面設備、航太零組件三大領域具備競爭力，低軌衛星密集部署趨勢確立，首選昇達科（3491）。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/太空衛星科技/20260526/report.md",
+      "relative": "太空衛星科技/20260526/report.md",
+      "group": "太空衛星科技",
+      "date": "2026-05-26",
+      "kind": "industry",
+      "href": "/industry/太空衛星科技/20260526/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【印刷電路板（PCB）】",
       "summary": "AI伺服器與先進封裝需求持續爆發，帶動ABF載板與高階PCB供應鏈訂單暢旺，全球PCB市場在AI時代重新進入成長軌道，台灣供應鏈以技術領先與完整產業群聚优势，居全球供應鏈核心地位，2026年看法正向。",
