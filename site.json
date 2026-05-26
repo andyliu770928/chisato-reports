@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-05-27T04:06:13.997239",
-  "industryCount": 52,
-  "dailyCount": 36,
+  "generatedAt": "2026-05-27T07:01:04.363283",
+  "industryCount": 51,
+  "dailyCount": 37,
   "deepCount": 4,
   "industry": [
-    {
-      "title": "太空衛星科技產業 2026 年展望",
-      "summary": "低軌衛星爆發成長，台灣供應鏈跟著起飛，華通、昇達科領軍，多家 PCB 與射頻廠已打入全球供應鏈，2026 年迎來實質訂單放量。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/太空衛星科技/20260527/report.md",
-      "relative": "太空衛星科技/20260527/report.md",
-      "group": "太空衛星科技",
-      "date": "2026-05-27",
-      "kind": "industry",
-      "href": "/industry/太空衛星科技/20260527/report.html",
-      "legacy_hrefs": []
-    },
     {
       "title": "【印刷電路板（PCB）】",
       "summary": "AI伺服器與先進封裝需求持續爆發，帶動ABF載板與高階PCB供應鏈訂單暢旺，全球PCB市場在AI時代重新進入成長軌道，台灣供應鏈以技術領先與完整產業群聚优势，居全球供應鏈核心地位，2026年看法正向。",
@@ -638,6 +626,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.05.27",
+      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-05-27.md",
+      "relative": "2026-05-27.md",
+      "date": "2026-05-27",
+      "kind": "daily",
+      "href": "/daily/20260527/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-05-27.html"
+      ]
+    },
     {
       "title": "2026.05.26",
       "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
