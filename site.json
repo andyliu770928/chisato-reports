@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-05-28T04:06:54.323849",
-  "industryCount": 52,
-  "dailyCount": 37,
+  "generatedAt": "2026-05-28T07:01:38.458037",
+  "industryCount": 51,
+  "dailyCount": 38,
   "deepCount": 4,
   "industry": [
-    {
-      "title": "被動元件",
-      "summary": "AI伺服器需求爆發帶動高階MLCC嚴重供不應求，交期超過20週，台灣雙雄國巨、華新科訂單能見度佳，2026年成長確立，中長期受益於EV滲透率提升與5G基礎建設，持續看好。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/被動元件/20260528/report.md",
-      "relative": "被動元件/20260528/report.md",
-      "group": "被動元件",
-      "date": "2026-05-28",
-      "kind": "industry",
-      "href": "/industry/被動元件/20260528/report.html",
-      "legacy_hrefs": []
-    },
     {
       "title": "【印刷電路板（PCB）】",
       "summary": "AI伺服器與先進封裝需求持續爆發，帶動ABF載板與高階PCB供應鏈訂單暢旺，全球PCB市場在AI時代重新進入成長軌道，台灣供應鏈以技術領先與完整產業群聚优势，居全球供應鏈核心地位，2026年看法正向。",
@@ -638,6 +626,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.05.28",
+      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-05-28.md",
+      "relative": "2026-05-28.md",
+      "date": "2026-05-28",
+      "kind": "daily",
+      "href": "/daily/20260528/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-05-28.html"
+      ]
+    },
     {
       "title": "2026.05.27",
       "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",

@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>2026.05.28</title>
+  <link rel="icon" type="image/svg+xml" href="/chisato-reports/assets/favicon.svg" />
+  <link rel="stylesheet" href="/chisato-reports/assets/style.css" />
+</head>
+<body>
+  <main class="page report-page daily">
+    <header class="site-header">
+      <div class="brand-bar">
+        <a class="brand" href="/chisato-reports/index.html">小千研究報告站</a>
+        <nav class="site-nav"><a href="/chisato-reports/index.html">首頁</a><a href="/chisato-reports/industry/index.html">產業報告</a><a href="/chisato-reports/daily/index.html">每日早報</a><a href="/chisato-reports/deep-research/index.html">主題研究</a></nav>
+      </div>
+      <div class="breadcrumb">每日早報 / 2026-05-28</div>
+      <h1>2026.05.28</h1>
+      
+    </header>
+    <section class="content">
+      <article class="report-shell"><section class="report-top daily"><div class="report-meta"><span class="chip">每日早報</span><span class="chip">2026.05.28</span></div><h1>2026.05.28</h1><p class="report-lead">以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：</p></section><div class="report-frame"><section class="report-body"><h1>臺美市場早報（2026-05-28）</h1>
+<h2>個股基本資料</h2>
+<p>以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：</p>
+<table>
+<thead><tr><th>股號</th><th>股名</th><th>價格</th><th>漲跌</th><th>成交量</th><th>P/E</th><th>備註</th></tr></thead>
+<tbody>
+<tr><td>2330</td><td>台積電</td><td>2300元</td><td>+1.20%</td><td>45,623張</td><td>28.5</td><td>先進製程領導廠、AI需求暢旺</td></tr>
+<tr><td>2454</td><td>聯發科</td><td>4640元</td><td>+0.85%</td><td>18,234張</td><td>22.3</td><td>5G晶片出貨成長、旗艦新品放量</td></tr>
+<tr><td>2317</td><td>鴻海</td><td>264元</td><td>+2.15%</td><td>62,847張</td><td>15.8</td><td>AI伺服器訂單旺、電動車布局</td></tr>
+<tr><td>2382</td><td>廣達</td><td>312元</td><td>+1.55%</td><td>35,621張</td><td>19.2</td><td>AI伺服器代工、雲端資料中心</td></tr>
+<tr><td>0050</td><td>元大台灣50</td><td>102.55元</td><td>+1.10%</td><td>28,456張</td><td>20.1</td><td>追蹤台灣50指數、權值股表現</td></tr>
+</tbody>
+</table>
+<p>&gt; 資料來源：台灣證券交易所（TWSE）公開資訊，查詢時間為報告產生前 30 分鐘。</p>
+<hr />
+<h2>市場一週總覽（Executive Summary）</h2>
+<h3>用3句話總結本週市場最核心的主題（Key Themes）</h3>
+<p><strong>1.</strong> AI 伺服器需求持續爆發，鴻海、廣達等代工廠獲得大額訂單，股價攜手創波段新高，成為本週資金追捧焦點。</p>
+<p><strong>2.</strong> 台積電先進封裝產能持續吃緊，CoWoS 需求遠超供給，相關供應鏈股價估值獲得市場重新評價。</p>
+<p><strong>3.</strong> 外資對台股態度轉趨積極，電子權值股獲買盤支撐，指數力守高檔，但短線乖離過大引發獲利了結壓力。</p>
+<hr />
+<h2>核心投資機會矩陣（由高分到低分排序）</h2>
+<table>
+<thead><tr><th>排名</th><th>事件/驅動因子</th><th>影響類型</th><th>綜合得分</th><th>關鍵受益標的 (Ticker)</th><th>關鍵受害標的</th></tr></thead>
+</table></section></div></article>
+    </section>
+  </main>
+  <script>
+(function(){
+  var btns = document.querySelectorAll('.filter-btn');
+  var grid = document.querySelector('.industry-index .entry-grid');
+  var count = document.getElementById('filter-count');
+  if(!btns.length || !grid) return;
+  function applyFilter(group) {
+    var cards = grid.querySelectorAll('.entry-card');
+    var shown = 0;
+    cards.forEach(function(card){
+      var match = !group || card.getAttribute('data-group') === group;
+      card.classList.toggle('hidden-by-filter', !match);
+      if(match) shown++;
+    });
+    btns.forEach(function(b){
+      b.classList.toggle('active', (b.getAttribute('data-group')||'') === (group||''));
+    });
+    if(count) count.textContent = shown > 0 ? shown + ' 篇' : '';
+  }
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      applyFilter(btn.getAttribute('data-group'));
+    });
+  });
+  applyFilter('');
+})();
+  </script>
+</body>
+</html>
