@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-28T07:01:38.458037",
-  "industryCount": 51,
+  "generatedAt": "2026-05-29T04:12:23.566610",
+  "industryCount": 52,
   "dailyCount": 38,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "被動元件",
+      "summary": "受惠於 AI 伺服器滲透率提升、汽車電子化加速，以及消費電子庫存調整告一段落，被動元件景氣進入復甦循環。台灣廠商中，首選具規模優勢且車用/工控佈局領先的國巨（2327），其次為華新科（2492）。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/被動元件/20260529/report.md",
+      "relative": "被動元件/20260529/report.md",
+      "group": "被動元件",
+      "date": "2026-05-29",
+      "kind": "industry",
+      "href": "/industry/被動元件/20260529/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【印刷電路板（PCB）】",
       "summary": "AI伺服器與先進封裝需求持續爆發，帶動ABF載板與高階PCB供應鏈訂單暢旺，全球PCB市場在AI時代重新進入成長軌道，台灣供應鏈以技術領先與完整產業群聚优势，居全球供應鏈核心地位，2026年看法正向。",
