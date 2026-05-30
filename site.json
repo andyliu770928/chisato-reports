@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-29T07:01:11.800772",
-  "industryCount": 52,
+  "generatedAt": "2026-05-31T04:09:14.674888",
+  "industryCount": 53,
   "dailyCount": 39,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "半導體產業",
+      "summary": "AI ASIC 需求爆發與先進封裝（CoWoS）供給瓶頸持續，台灣半導體供應鏈從晶圓代工到先進封測皆受惠，唯需持續關注美中科技戰與地緣政治風險。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/半導體/20260531/report.md",
+      "relative": "半導體/20260531/report.md",
+      "group": "半導體",
+      "date": "2026-05-31",
+      "kind": "industry",
+      "href": "/industry/半導體/20260531/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "被動元件",
       "summary": "受惠於 AI 伺服器滲透率提升、汽車電子化加速，以及消費電子庫存調整告一段落，被動元件景氣進入復甦循環。台灣廠商中，首選具規模優勢且車用/工控佈局領先的國巨（2327），其次為華新科（2492）。",
