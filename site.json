@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-05-31T04:10:25.047361",
-  "industryCount": 53,
+  "generatedAt": "2026-06-01T04:17:09.961879",
+  "industryCount": 54,
   "dailyCount": 39,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "金融產業",
+      "summary": "Fed 利率高檔延長，台灣銀行業淨利差維持高點，壽險接軌 IFRS 17/ICS 2.0 最艱難階段已過，台股成交量健康支撐券商收益，2026 年台灣金融業基本面不看淡。短線觀察 Fed 降息時程延後對 NIM 的影響，中長線聚焦數位金融與財富管理業務成長。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/金融/20260601/report.md",
+      "relative": "金融/20260601/report.md",
+      "group": "金融",
+      "date": "2026-06-01",
+      "kind": "industry",
+      "href": "/industry/金融/20260601/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "半導體產業",
       "summary": "AI ASIC 需求爆發與先進封裝（CoWoS）供給瓶頸持續，台灣半導體供應鏈從晶圓代工到先進封測皆受惠，唯需持續關注美中科技戰與地緣政治風險。",
