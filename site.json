@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-06-01T07:00:59.475106",
-  "industryCount": 54,
+  "generatedAt": "2026-06-02T04:03:31.073487",
+  "industryCount": 55,
   "dailyCount": 40,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "汽車產業",
+      "summary": "台灣汽車零組件產業受惠於美國關稅大幅調降（232條款稅率由27.5%降至15%）及全球電動車滲透率持續提升，進入長線成長軌道，AM供應鏈全球龍頭地位稳固，短期震盪不改中長期結構性看好。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/汽車/20260602/report.md",
+      "relative": "汽車/20260602/report.md",
+      "group": "汽車",
+      "date": "2026-06-02",
+      "kind": "industry",
+      "href": "/industry/汽車/20260602/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "金融產業",
       "summary": "Fed 利率高檔延長，台灣銀行業淨利差維持高點，壽險接軌 IFRS 17/ICS 2.0 最艱難階段已過，台股成交量健康支撐券商收益，2026 年台灣金融業基本面不看淡。短線觀察 Fed 降息時程延後對 NIM 的影響，中長線聚焦數位金融與財富管理業務成長。",
