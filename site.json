@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-06-02T07:01:42.565336",
-  "industryCount": 55,
+  "generatedAt": "2026-06-03T04:03:56.486240",
+  "industryCount": 56,
   "dailyCount": 41,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "電子商務",
+      "summary": "台灣電商滲透率已逾 13.9%，進入成長高原期，本土平台面臨跨境電商與國際巨頭双重競爭，AI 應用與 OMO 整合為突圍關鍵，短期選股應聚焦具集團資源或差異化定位之領導廠商。",
+      "rating": "中性",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/電子商務/20260603/report.md",
+      "relative": "電子商務/20260603/report.md",
+      "group": "電子商務",
+      "date": "2026-06-03",
+      "kind": "industry",
+      "href": "/industry/電子商務/20260603/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "汽車產業",
       "summary": "台灣汽車零組件產業受惠於美國關稅大幅調降（232條款稅率由27.5%降至15%）及全球電動車滲透率持續提升，進入長線成長軌道，AM供應鏈全球龍頭地位稳固，短期震盪不改中長期結構性看好。",
