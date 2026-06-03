@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-06-03T07:02:05.221814",
-  "industryCount": 56,
+  "generatedAt": "2026-06-04T04:05:24.568001",
+  "industryCount": 57,
   "dailyCount": 42,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "運動科技",
+      "summary": "全球運動科技邁向「數據驅動 × 沉浸體驗 × AI平台化」黃金增長期，台灣在半導體╱感測╱健身器材供應鏈具備國際競爭力，首選具備AI感測技術與品牌出海口的公司。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/運動科技/20260604/report.md",
+      "relative": "運動科技/20260604/report.md",
+      "group": "運動科技",
+      "date": "2026-06-04",
+      "kind": "industry",
+      "href": "/industry/運動科技/20260604/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "電子商務",
       "summary": "台灣電商滲透率已逾 13.9%，進入成長高原期，本土平台面臨跨境電商與國際巨頭双重競爭，AI 應用與 OMO 整合為突圍關鍵，短期選股應聚焦具集團資源或差異化定位之領導廠商。",
