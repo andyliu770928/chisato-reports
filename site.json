@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-06-04T07:01:51.159048",
-  "industryCount": 57,
+  "generatedAt": "2026-06-05T04:06:37.484072",
+  "industryCount": 58,
   "dailyCount": 43,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "雲端運算產業研究報告",
+      "summary": "報告日期：2026年6月5日",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/雲端運算/20260605/report.md",
+      "relative": "雲端運算/20260605/report.md",
+      "group": "雲端運算",
+      "date": "20260605",
+      "kind": "industry",
+      "href": "/industry/雲端運算/20260605/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "運動科技",
       "summary": "全球運動科技邁向「數據驅動 × 沉浸體驗 × AI平台化」黃金增長期，台灣在半導體╱感測╱健身器材供應鏈具備國際競爭力，首選具備AI感測技術與品牌出海口的公司。",
