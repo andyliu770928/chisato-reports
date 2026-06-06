@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-06-06T04:05:23.377155",
-  "industryCount": 59,
+  "generatedAt": "2026-06-07T04:04:17.938944",
+  "industryCount": 60,
   "dailyCount": 44,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "台灣休閒娛樂產業",
+      "summary": "疫後復甦红利持續釋放，實體娛樂（旅行社、KTV、遊樂園、電影院）出現修復性反彈，數位娛樂滲透率穩步提升，台灣休閒娛樂產業進入「量價齊揚」結構性成長階段，首選具規模優勢與品牌護城河的龍頭業者。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/休閒娛樂/20260607/report.md",
+      "relative": "休閒娛樂/20260607/report.md",
+      "group": "休閒娛樂",
+      "date": "2026-06-07",
+      "kind": "industry",
+      "href": "/industry/休閒娛樂/20260607/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "造紙產業",
       "summary": "台灣造紙產業景氣底部回升，工紙凍漲兩年後終於解凍喊漲（5-6月約10%），正隆越南平陽廠新產能上半年投產，Q1 EPS 0.56元、年增588.8%，龍頭率先復甦。文化紙受少子化影響結構性萎縮，但工紙/包裝紙受惠電商包裝與越南供應鏈紅利，選股應聚焦越南佈局完整、循環經濟競爭力強之龍頭。",
