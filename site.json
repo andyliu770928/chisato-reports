@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-06-08T07:02:41.385982",
-  "industryCount": 60,
+  "generatedAt": "2026-06-09T04:10:02.227726",
+  "industryCount": 61,
   "dailyCount": 45,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "金融產業",
+      "summary": "台灣金融業2025年銀行與證券業創歷史新高，金控整併潮加速民股進公股退，AI應用與亞洲資產管理中心政策為中期成長核心，2026年首季獲利年增3成，銀行与证券双引擎有望支撑全年表現。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/金融/20260609/report.md",
+      "relative": "金融/20260609/report.md",
+      "group": "金融",
+      "date": "2026-06-09",
+      "kind": "industry",
+      "href": "/industry/金融/20260609/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "台灣休閒娛樂產業",
       "summary": "疫後復甦红利持續釋放，實體娛樂（旅行社、KTV、遊樂園、電影院）出現修復性反彈，數位娛樂滲透率穩步提升，台灣休閒娛樂產業進入「量價齊揚」結構性成長階段，首選具規模優勢與品牌護城河的龍頭業者。",
