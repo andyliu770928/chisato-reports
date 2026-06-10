@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>2026.06.11</title>
+  <link rel="icon" type="image/svg+xml" href="/chisato-reports/assets/favicon.svg" />
+  <link rel="stylesheet" href="/chisato-reports/assets/style.css" />
+</head>
+<body>
+  <main class="page report-page daily">
+    <header class="site-header">
+      <div class="brand-bar">
+        <a class="brand" href="/chisato-reports/index.html">小千研究報告站</a>
+        <nav class="site-nav"><a href="/chisato-reports/index.html">首頁</a><a href="/chisato-reports/industry/index.html">產業報告</a><a href="/chisato-reports/daily/index.html">每日早報</a><a href="/chisato-reports/deep-research/index.html">主題研究</a></nav>
+      </div>
+      <div class="breadcrumb">每日早報 / 2026-06-11</div>
+      <h1>2026.06.11</h1>
+      
+    </header>
+    <section class="content">
+      <article class="report-shell"><section class="report-top daily"><div class="report-meta"><span class="chip">每日早報</span><span class="chip">2026.06.11</span></div><h1>2026.06.11</h1><p class="report-lead">以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：</p></section><div class="report-frame"><section class="report-body"><h1>臺美市場早報 (2026-06-11)</h1>
+<h2>個股基本資料</h2>
+<p>以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：</p>
+<table>
+<thead><tr><th>股號</th><th>股名</th><th>價格</th><th>漲跌</th><th>成交量</th><th>P/E</th><th>備註</th></tr></thead>
+<tbody>
+<tr><td>2330</td><td>台積電</td><td>2,255元</td><td>+4.2%</td><td>32,584張</td><td>44.1</td><td>AI先進製程領導廠</td></tr>
+<tr><td>2454</td><td>聯發科</td><td>4,155元</td><td>+6.8%</td><td>18,230張</td><td>38.5</td><td>AI手機晶片主力</td></tr>
+<tr><td>2317</td><td>鴻海</td><td>263元</td><td>+2.1%</td><td>45,120張</td><td>14.2</td><td>AI伺服器組裝</td></tr>
+<tr><td>2382</td><td>廣達</td><td>380.5元</td><td>+3.5%</td><td>28,540張</td><td>22.3</td><td>AI伺服器ODM</td></tr>
+<tr><td>3037</td><td>欣興</td><td>884元</td><td>+7.2%</td><td>52,180張</td><td>26.8</td><td>ABF載板龍頭</td></tr>
+<tr><td>0050</td><td>元大台灣50</td><td>100.25元</td><td>+3.8%</td><td>28,500張</td><td>18.5</td><td>台股大型ETF</td></tr>
+</tbody>
+</table>
+<p>&gt; 資料來源：台灣證券交易所（TWSE）公開資訊，查詢時間為報告產生前 30 分鐘。</p>
+<hr />
+<h2>市場一週總覽 (Executive Summary)</h2>
+<h3>用3句話總結本週市場最核心的主題（Key Themes）</h3>
+<p><strong>1.</strong> <strong>AI應用典範轉移</strong>：輝達執行長黃仁勳於GTC Taipei 2026宣告AI發展進入新階段，焦點從大型語言模型訓練轉向AI Agent（代理式AI）與Physical AI（實體AI），為台灣供應鏈開啟第二波成長曲線。</p>
+<p><strong>2.</strong> <strong>先進封裝產能吃緊</strong>：台積電CoWoS持續擴產，加上CoPoS新技術布局，ABF載板成為最核心出貨瓶頸，上下游供應商同步受惠漲價與轉單效應。</p>
+<p><strong>3.</strong> <strong>半導體族群全面起動</strong>：AI半導體領軍，台股今日攻破43,000點大關，聯發科、聯電、友達強勢鎖住漲停，法人大舉佈局相關概念股。</p>
+<hr /></section></div></article>
+    </section>
+  </main>
+  <script>
+(function(){
+  var btns = document.querySelectorAll('.filter-btn');
+  var grid = document.querySelector('.industry-index .entry-grid');
+  var count = document.getElementById('filter-count');
+  if(!btns.length || !grid) return;
+  function applyFilter(group) {
+    var cards = grid.querySelectorAll('.entry-card');
+    var shown = 0;
+    cards.forEach(function(card){
+      var match = !group || card.getAttribute('data-group') === group;
+      card.classList.toggle('hidden-by-filter', !match);
+      if(match) shown++;
+    });
+    btns.forEach(function(b){
+      b.classList.toggle('active', (b.getAttribute('data-group')||'') === (group||''));
+    });
+    if(count) count.textContent = shown > 0 ? shown + ' 篇' : '';
+  }
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      applyFilter(btn.getAttribute('data-group'));
+    });
+  });
+  applyFilter('');
+})();
+  </script>
+</body>
+</html>
