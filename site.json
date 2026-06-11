@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-06-11T07:01:58.943418",
-  "industryCount": 63,
+  "generatedAt": "2026-06-12T04:03:38.418977",
+  "industryCount": 64,
   "dailyCount": 48,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "金融科技",
+      "summary": "台灣金融科技邁入「監理制度化」與「規模獲利」的成熟轉折期，支付生態封閉生態系競合、純網銀首度出現單月轉盈、AI 與 RegTech 應用從試點走向實務，建議優先聚焦數位金融龍頭與 FinTech 供應鏈。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/金融科技/20260612/report.md",
+      "relative": "金融科技/20260612/report.md",
+      "group": "金融科技",
+      "date": "2026-06-12",
+      "kind": "industry",
+      "href": "/industry/金融科技/20260612/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "被動元件產業報告",
       "summary": "報告日期：2026年6月11日",
