@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-06-12T07:01:19.790181",
-  "industryCount": 64,
+  "generatedAt": "2026-06-13T04:03:02.314148",
+  "industryCount": 65,
   "dailyCount": 49,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "電子商務",
+      "summary": "台灣電商滲透率已逾 13.9%，進入成長高原期，2026 年首季實體零售成長已超越純電商，跨境電商直送擠壓加劇。富邦媒 3P 平台與廣告營收為突圍關鍵；網家虧損收斂但仍考驗耐心。短期選股應聚焦具集團資源與變現能力的領導廠商。",
+      "rating": "中性",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/電子商務/20260613/report.md",
+      "relative": "電子商務/20260613/report.md",
+      "group": "電子商務",
+      "date": "2026-06-13",
+      "kind": "industry",
+      "href": "/industry/電子商務/20260613/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "金融科技",
       "summary": "台灣金融科技邁入「監理制度化」與「規模獲利」的成熟轉折期，支付生態封閉生態系競合、純網銀首度出現單月轉盈、AI 與 RegTech 應用從試點走向實務，建議優先聚焦數位金融龍頭與 FinTech 供應鏈。",
