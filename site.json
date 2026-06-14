@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-06-14T04:06:37.496752",
-  "industryCount": 66,
+  "generatedAt": "2026-06-15T04:02:40.987652",
+  "industryCount": 67,
   "dailyCount": 49,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "水泥產業",
+      "summary": "台灣水泥產業本業受中國需求急跌與國內房市降溫雙重夾擊，短期基本面偏弱；2026 年公共工程擴張與碳費政策將倒逼低碳轉型，提供結構性突破口。台泥與亞泥的本業獲利仍在考驗期，多角化（電力、儲能、轉投資）是撐評價的關鍵。",
+      "rating": "保守",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/水泥/20260615/report.md",
+      "relative": "水泥/20260615/report.md",
+      "group": "水泥",
+      "date": "2026-06-15",
+      "kind": "industry",
+      "href": "/industry/水泥/20260615/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "建材營造產業",
       "summary": "台灣營造業受惠於公共工程預算創高（114年度達3,218億元）與科技廠房擴建潮，在手工程訂單充沛，住宅營建雖受打房壓抑呈「公強民弱」格局，但剛性需求與都更題材提供中長期支撐，2026年景氣仍處於上升循環。",
