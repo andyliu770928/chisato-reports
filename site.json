@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-06-15T07:01:38.701635",
-  "industryCount": 67,
+  "generatedAt": "2026-06-16T04:06:32.039001",
+  "industryCount": 68,
   "dailyCount": 50,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "油電燃氣",
+      "summary": "核三除役後，燃氣發電剛性填補供電缺口，天然氣接收站新建與電價調漲同步嘉惠類股，首選擁有民營電廠與再生能源平台的台汽電（8926），次選受惠電價調整的大汽電（8931）與穩健配息的新海（9926）。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/油電燃氣/20260616/report.md",
+      "relative": "油電燃氣/20260616/report.md",
+      "group": "油電燃氣",
+      "date": "2026-06-16",
+      "kind": "industry",
+      "href": "/industry/油電燃氣/20260616/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "水泥產業",
       "summary": "台灣水泥產業本業受中國需求急跌與國內房市降溫雙重夾擊，短期基本面偏弱；2026 年公共工程擴張與碳費政策將倒逼低碳轉型，提供結構性突破口。台泥與亞泥的本業獲利仍在考驗期，多角化（電力、儲能、轉投資）是撐評價的關鍵。",
