@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-06-16T07:01:29.990624",
-  "industryCount": 68,
+  "generatedAt": "2026-06-17T04:04:26.572142",
+  "industryCount": 69,
   "dailyCount": 51,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "半導體產業",
+      "summary": "AI 結構性需求爆發無任何退燒跡象，台積電法說大幅上修全年營收展望至年增 30%，CoWoS 產能缺口收斂中，2 奈米已進入量產元年。台灣半導體供應鏈仍為全球 AI 競賽最大贏家，唯地緣政治與成熟製程供需為中期觀察重點。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/半導體/20260617/report.md",
+      "relative": "半導體/20260617/report.md",
+      "group": "半導體",
+      "date": "2026-06-17",
+      "kind": "industry",
+      "href": "/industry/半導體/20260617/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "油電燃氣",
       "summary": "核三除役後，燃氣發電剛性填補供電缺口，天然氣接收站新建與電價調漲同步嘉惠類股，首選擁有民營電廠與再生能源平台的台汽電（8926），次選受惠電價調整的大汽電（8931）與穩健配息的新海（9926）。",
