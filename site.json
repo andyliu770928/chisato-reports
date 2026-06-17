@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-06-17T07:01:54.691619",
-  "industryCount": 69,
+  "generatedAt": "2026-06-18T04:07:32.920979",
+  "industryCount": 70,
   "dailyCount": 52,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "被動元件",
+      "summary": "AI 伺服器與電動車聯手驅動，被動元件進入結構性漲價超級週期，高階 MLCC 供需缺口預計延續至 2027 年，台廠龍頭國巨、華新科具備最大受益位階。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/被動元件/20260618/report.md",
+      "relative": "被動元件/20260618/report.md",
+      "group": "被動元件",
+      "date": "2026-06-18",
+      "kind": "industry",
+      "href": "/industry/被動元件/20260618/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "半導體產業",
       "summary": "AI 結構性需求爆發無任何退燒跡象，台積電法說大幅上修全年營收展望至年增 30%，CoWoS 產能缺口收斂中，2 奈米已進入量產元年。台灣半導體供應鏈仍為全球 AI 競賽最大贏家，唯地緣政治與成熟製程供需為中期觀察重點。",
