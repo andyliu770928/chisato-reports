@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-06-22T07:02:17.559376",
-  "industryCount": 72,
+  "generatedAt": "2026-06-23T04:04:09.004794",
+  "industryCount": 73,
   "dailyCount": 55,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "造紙產業",
+      "summary": "全球漿紙市場邁入新一輪報價上升循環，上游紙漿價格持續墊高帶動紙價跟進，利差有望擴大；惟中國產能過剩與關稅政策干擾仍在，壓抑整體回升幅度，台廠以越南布局與工業用紙漲價為核心觀察方向。",
+      "rating": "中性偏正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/造紙/20260623/report.md",
+      "relative": "造紙/20260623/report.md",
+      "group": "造紙",
+      "date": "2026-06-23",
+      "kind": "industry",
+      "href": "/industry/造紙/20260623/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "LED照明",
       "summary": "LED照明產業2026年進入築底復甦階段，智慧照明、車用LED、UV LED等高附加價值應用為關鍵成長引擎，傳統通用照明則面臨價格與需求雙重壓力。台灣供應鏈中，億光（2393）車用布局完整為首選，光寶科（2301）電源管理轉型效益浮現為次選，觀察富采（3714）虧損收斂與隆達車用占比提升。",
