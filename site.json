@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-06-24T04:05:24.899718",
-  "industryCount": 74,
-  "dailyCount": 56,
+  "generatedAt": "2026-06-24T07:02:27.693583",
+  "industryCount": 73,
+  "dailyCount": 57,
   "deepCount": 4,
   "industry": [
-    {
-      "title": "半導體產業深度研究報告：AI 驅動的超級週期與台灣護國群山",
-      "summary": "研究日期：2026 年 6 月 24 日",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/半導體/20260624/report.md",
-      "relative": "半導體/20260624/report.md",
-      "group": "半導體",
-      "date": "20260624",
-      "kind": "industry",
-      "href": "/industry/半導體/20260624/report.html",
-      "legacy_hrefs": []
-    },
     {
       "title": "造紙產業",
       "summary": "全球漿紙市場邁入新一輪報價上升循環，上游紙漿價格持續墊高帶動紙價跟進，利差有望擴大；惟中國產能過剩與關稅政策干擾仍在，壓抑整體回升幅度，台廠以越南布局與工業用紙漲價為核心觀察方向。",
@@ -904,6 +892,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.06.24",
+      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-06-24.md",
+      "relative": "2026-06-24.md",
+      "date": "2026-06-24",
+      "kind": "daily",
+      "href": "/daily/20260624/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-06-24.html"
+      ]
+    },
     {
       "title": "2026.06.23",
       "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
