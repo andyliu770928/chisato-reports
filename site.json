@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T07:02:27.693583",
-  "industryCount": 73,
+  "generatedAt": "2026-06-25T04:04:10.238478",
+  "industryCount": 74,
   "dailyCount": 57,
   "deepCount": 4,
   "industry": [
@@ -861,6 +861,20 @@
       "kind": "industry",
       "href": "/industry/AI伺服器與資料中心/20260401/report.html",
       "legacy_hrefs": []
+    },
+    {
+      "title": "元宇宙",
+      "summary": "元宇宙脫離純概念炒作、進入標準化建設與垂直應用落地階段，VR/AR 硬體出貨加速、AI 眼鏡新賽道崛起，台灣光學元件與先進封裝供應鏈實質受惠。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/元宇宙/20260625/report.md",
+      "relative": "元宇宙/20260625/report.md",
+      "group": "元宇宙",
+      "date": "2025-06-25",
+      "kind": "industry",
+      "href": "/industry/元宇宙/20250625/report.html",
+      "legacy_hrefs": [
+        "/industry/元宇宙/20260625/report.html"
+      ]
     },
     {
       "title": "印刷電路板（PCB）",
