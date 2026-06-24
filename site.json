@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-25T04:04:10.238478",
-  "industryCount": 74,
-  "dailyCount": 57,
+  "generatedAt": "2026-06-25T07:02:06.723399",
+  "industryCount": 73,
+  "dailyCount": 58,
   "deepCount": 4,
   "industry": [
     {
@@ -863,20 +863,6 @@
       "legacy_hrefs": []
     },
     {
-      "title": "元宇宙",
-      "summary": "元宇宙脫離純概念炒作、進入標準化建設與垂直應用落地階段，VR/AR 硬體出貨加速、AI 眼鏡新賽道崛起，台灣光學元件與先進封裝供應鏈實質受惠。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/元宇宙/20260625/report.md",
-      "relative": "元宇宙/20260625/report.md",
-      "group": "元宇宙",
-      "date": "2025-06-25",
-      "kind": "industry",
-      "href": "/industry/元宇宙/20250625/report.html",
-      "legacy_hrefs": [
-        "/industry/元宇宙/20260625/report.html"
-      ]
-    },
-    {
       "title": "印刷電路板（PCB）",
       "summary": "AI 伺服器規格升級正在重構 PCB 產業的價值鏈——從景氣循環股轉為結構性成長股。台灣在高階 HDI、ABF 載板、高頻 CCL 擁有完整供應鏈，2025 年產值達 9,157 億元，年增 12.1%。當前最大瓶頸在 T-Glass 與高階銅箔短缺，支撑價格持續上漲至 2026 年下半年。首選 ABF 載板龍頭欣興（3037）與高階 CCL 供需最緊的台光電（2383）。",
       "rating": "正向",
@@ -906,6 +892,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.06.25",
+      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-06-25.md",
+      "relative": "2026-06-25.md",
+      "date": "2026-06-25",
+      "kind": "daily",
+      "href": "/daily/20260625/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-06-25.html"
+      ]
+    },
     {
       "title": "2026.06.24",
       "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
