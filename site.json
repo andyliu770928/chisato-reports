@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-06-26T07:01:21.921362",
-  "industryCount": 73,
+  "generatedAt": "2026-06-27T04:02:31.126324",
+  "industryCount": 74,
   "dailyCount": 59,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "元宇宙產業報告",
+      "summary": "日期：2026年6月27日",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/元宇宙/20260627/report.md",
+      "relative": "元宇宙/20260627/report.md",
+      "group": "元宇宙",
+      "date": "20260627",
+      "kind": "industry",
+      "href": "/industry/元宇宙/20260627/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "造紙產業",
       "summary": "全球漿紙市場邁入新一輪報價上升循環，上游紙漿價格持續墊高帶動紙價跟進，利差有望擴大；惟中國產能過剩與關稅政策干擾仍在，壓抑整體回升幅度，台廠以越南布局與工業用紙漲價為核心觀察方向。",
