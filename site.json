@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-06-27T04:02:31.126324",
+  "generatedAt": "2026-06-28T04:04:34.006553",
   "industryCount": 74,
   "dailyCount": 59,
   "deepCount": 4,
   "industry": [
     {
-      "title": "元宇宙產業報告",
-      "summary": "日期：2026年6月27日",
+      "title": "全球製藥產業研究報告",
+      "summary": "日期：2026年6月28日",
       "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/元宇宙/20260627/report.md",
-      "relative": "元宇宙/20260627/report.md",
-      "group": "元宇宙",
-      "date": "20260627",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/製藥產業/20260628/report.md",
+      "relative": "製藥產業/20260628/report.md",
+      "group": "製藥產業",
+      "date": "20260628",
       "kind": "industry",
-      "href": "/industry/元宇宙/20260627/report.html",
+      "href": "/industry/製藥產業/20260628/report.html",
       "legacy_hrefs": []
     },
     {
