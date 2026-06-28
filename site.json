@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-06-29T04:15:00.193806",
-  "industryCount": 74,
-  "dailyCount": 59,
+  "generatedAt": "2026-06-29T07:01:27.977284",
+  "industryCount": 73,
+  "dailyCount": 60,
   "deepCount": 4,
   "industry": [
-    {
-      "title": "製藥產業",
-      "summary": "全球製藥市場邁入老齡化驅動的長期成長階段，台灣製藥廠商在 CDMO 與學名藥具備國際認證優勢，但新藥研發風險高、制藥產值相對有限，目前以「區間操作」為主。首選針劑 CDMO 實力堅強的東洋（4105），以及血透耗材龍頭邦特（4107）。",
-      "rating": "中立",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/製藥/20260629/report.md",
-      "relative": "製藥/20260629/report.md",
-      "group": "製藥",
-      "date": "2026-06-29",
-      "kind": "industry",
-      "href": "/industry/製藥/20260629/report.html",
-      "legacy_hrefs": []
-    },
     {
       "title": "造紙產業",
       "summary": "全球漿紙市場邁入新一輪報價上升循環，上游紙漿價格持續墊高帶動紙價跟進，利差有望擴大；惟中國產能過剩與關稅政策干擾仍在，壓抑整體回升幅度，台廠以越南布局與工業用紙漲價為核心觀察方向。",
@@ -904,6 +892,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.06.29",
+      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-06-29.md",
+      "relative": "2026-06-29.md",
+      "date": "2026-06-29",
+      "kind": "daily",
+      "href": "/daily/20260629/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-06-29.html"
+      ]
+    },
     {
       "title": "2026.06.26",
       "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
