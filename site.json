@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-07-03T04:06:51.571619",
-  "industryCount": 74,
-  "dailyCount": 63,
+  "generatedAt": "2026-07-03T07:02:26.146357",
+  "industryCount": 73,
+  "dailyCount": 64,
   "deepCount": 4,
   "industry": [
-    {
-      "title": "被動元件產業",
-      "summary": "AI 伺服器規格升級帶動高階 MLCC 需求爆發，日韓大廠供應吃緊啟動漲價，台灣供應鏈（國巨、華新科、禾伸堂）受惠明確，2026 年產業進入價格上升循環。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/被動元件/20260703/report.md",
-      "relative": "被動元件/20260703/report.md",
-      "group": "被動元件",
-      "date": "2026-07-03",
-      "kind": "industry",
-      "href": "/industry/被動元件/20260703/report.html",
-      "legacy_hrefs": []
-    },
     {
       "title": "造紙產業",
       "summary": "全球漿紙市場邁入新一輪報價上升循環，上游紙漿價格持續墊高帶動紙價跟進，利差有望擴大；惟中國產能過剩與關稅政策干擾仍在，壓抑整體回升幅度，台廠以越南布局與工業用紙漲價為核心觀察方向。",
@@ -904,6 +892,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.03",
+      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-03.md",
+      "relative": "2026-07-03.md",
+      "date": "2026-07-03",
+      "kind": "daily",
+      "href": "/daily/20260703/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-03.html"
+      ]
+    },
     {
       "title": "2026.07.02",
       "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
