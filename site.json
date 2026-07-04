@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-03T15:16:58.418543",
-  "industryCount": 73,
+  "generatedAt": "2026-07-04T12:39:43.789764",
+  "industryCount": 74,
   "dailyCount": 64,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "航太週邊",
+      "summary": "全球航太產業進入長多格局，台灣供應鏈受惠於商用航空復甦、國防航太升級與無人機爆發三大利多，航太週邊廠商訂單能見度佳，建議正向看待。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/航太週邊/20260704/report.md",
+      "relative": "航太週邊/20260704/report.md",
+      "group": "航太週邊",
+      "date": "2026-07-04",
+      "kind": "industry",
+      "href": "/industry/航太週邊/20260704/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "造紙產業",
       "summary": "全球漿紙市場邁入新一輪報價上升循環，上游紙漿價格持續墊高帶動紙價跟進，利差有望擴大；惟中國產能過剩與關稅政策干擾仍在，壓抑整體回升幅度，台廠以越南布局與工業用紙漲價為核心觀察方向。",
