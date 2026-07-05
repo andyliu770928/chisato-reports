@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-07-06T04:03:44.999763",
-  "industryCount": 74,
-  "dailyCount": 64,
+  "generatedAt": "2026-07-06T07:01:43.619327",
+  "industryCount": 73,
+  "dailyCount": 65,
   "deepCount": 4,
   "industry": [
-    {
-      "title": "航太週邊",
-      "summary": "全球航空市場強勁復甦搭配國防預算持續墊高，帶動航太製造與維修（MRO）需求同步擴張，台灣供應鏈已成功打入國際一階供應商行列，兼具基本面支撐與政策想像空間，首選具備訂單能見度的系統整合龍頭與MRO領導廠商。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/航太週邊/20260706/report.md",
-      "relative": "航太週邊/20260706/report.md",
-      "group": "航太週邊",
-      "date": "2026-07-06",
-      "kind": "industry",
-      "href": "/industry/航太週邊/20260706/report.html",
-      "legacy_hrefs": []
-    },
     {
       "title": "造紙產業",
       "summary": "全球漿紙市場邁入新一輪報價上升循環，上游紙漿價格持續墊高帶動紙價跟進，利差有望擴大；惟中國產能過剩與關稅政策干擾仍在，壓抑整體回升幅度，台廠以越南布局與工業用紙漲價為核心觀察方向。",
@@ -904,6 +892,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.06",
+      "summary": "輝達財報驚豔、AI供應鏈再獲資金青睞：輝達最新財報優於預期，黃仁勳重申台灣是AI革命核心，帶動CoWoS、先進封裝族群成為本週盤面焦點",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-06.md",
+      "relative": "2026-07-06.md",
+      "date": "2026-07-06",
+      "kind": "daily",
+      "href": "/daily/20260706/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-06.html"
+      ]
+    },
     {
       "title": "2026.07.03",
       "summary": "輝達財報驚豔市場：輝達2026財年Q3營收570億美元再創高，資料中心年增66%，Blackwell平台GPU全面售罄，為AI供應鏈注入強心針，美股四大指數應聲創高",
