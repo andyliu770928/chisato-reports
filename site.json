@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-07-07T04:05:47.212602",
-  "industryCount": 74,
-  "dailyCount": 65,
+  "generatedAt": "2026-07-07T07:03:07.789346",
+  "industryCount": 73,
+  "dailyCount": 66,
   "deepCount": 4,
   "industry": [
-    {
-      "title": "航太週邊（航空器零組件製造與維修 MRO）",
-      "summary": "全球航空市場持續復甦，疊加台灣國防預算創新高與無人機採購爆發，航太週邊供應鏈迎來實質訂單成長階段，台灣廠商在國際航太認證與精密製造基礎上，已站穩腳步，首選具備航太 MRO 與國防標案雙軌題材的個股。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/航太週邊/20260707/report.md",
-      "relative": "航太週邊/20260707/report.md",
-      "group": "航太週邊",
-      "date": "2026-07-07",
-      "kind": "industry",
-      "href": "/industry/航太週邊/20260707/report.html",
-      "legacy_hrefs": []
-    },
     {
       "title": "造紙產業",
       "summary": "全球漿紙市場邁入新一輪報價上升循環，上游紙漿價格持續墊高帶動紙價跟進，利差有望擴大；惟中國產能過剩與關稅政策干擾仍在，壓抑整體回升幅度，台廠以越南布局與工業用紙漲價為核心觀察方向。",
@@ -904,6 +892,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.07",
+      "summary": "AI伺服器供應鏈進入出貨旺季：AI伺服器廠商提前啟動出貨潮，帶動相關概念股持續獲得市場青睞，半導體先進製程與先進封裝需求維持高檔",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-07.md",
+      "relative": "2026-07-07.md",
+      "date": "2026-07-07",
+      "kind": "daily",
+      "href": "/daily/20260707/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-07.html"
+      ]
+    },
     {
       "title": "2026.07.06",
       "summary": "輝達財報驚豔、AI供應鏈再獲資金青睞：輝達最新財報優於預期，黃仁勳重申台灣是AI革命核心，帶動CoWoS、先進封裝族群成為本週盤面焦點",
