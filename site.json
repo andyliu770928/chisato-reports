@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-07-08T04:05:17.845238",
-  "industryCount": 74,
-  "dailyCount": 66,
+  "generatedAt": "2026-07-08T07:02:05.046234",
+  "industryCount": 73,
+  "dailyCount": 67,
   "deepCount": 4,
   "industry": [
-    {
-      "title": "【航太週邊】",
-      "summary": "全球航太製造進入超級周期，積壓訂單逾15,000架，Boeing與Airbus產能加速追單，台灣供應鏈廠商迎來「十年一遇」的訂單爆發期。2025年台灣航太產業總產值達1,612億元創歷史新高，政策加持與國際認證到位，中長期動能無虞。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/航太週邊/20260708/report.md",
-      "relative": "航太週邊/20260708/report.md",
-      "group": "航太週邊",
-      "date": "2026-07-08",
-      "kind": "industry",
-      "href": "/industry/航太週邊/20260708/report.html",
-      "legacy_hrefs": []
-    },
     {
       "title": "造紙產業",
       "summary": "全球漿紙市場邁入新一輪報價上升循環，上游紙漿價格持續墊高帶動紙價跟進，利差有望擴大；惟中國產能過剩與關稅政策干擾仍在，壓抑整體回升幅度，台廠以越南布局與工業用紙漲價為核心觀察方向。",
@@ -904,6 +892,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.08",
+      "summary": "AI基礎建設進入大規模交付階段：鴻海第二季營收達2.513兆元，季增18.02%、年增39.83%，AI伺服器與GB200供應鏈拉貨力道强劲，反映AI基礎建設正從題材邁向實質交...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-08.md",
+      "relative": "2026-07-08.md",
+      "date": "2026-07-08",
+      "kind": "daily",
+      "href": "/daily/20260708/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-08.html"
+      ]
+    },
     {
       "title": "2026.07.07",
       "summary": "AI伺服器供應鏈進入出貨旺季：AI伺服器廠商提前啟動出貨潮，帶動相關概念股持續獲得市場青睞，半導體先進製程與先進封裝需求維持高檔",
