@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-07-09T04:04:13.170709",
-  "industryCount": 74,
-  "dailyCount": 67,
+  "generatedAt": "2026-07-09T07:03:26.606634",
+  "industryCount": 73,
+  "dailyCount": 68,
   "deepCount": 4,
   "industry": [
-    {
-      "title": "【製藥】",
-      "summary": "製藥產業長線成長明確，台灣供應鏈在CDMO與專科製藥具備差異化優勢，美時併購Alvogen後躋身全球前20大，保瑞CDMO接單續旺，藥華藥Ropeg美國市場滲透加速；短期制藥巨頭面臨專利懸崖與藥價壓力為最大逆風。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/製藥/20260709/report.md",
-      "relative": "製藥/20260709/report.md",
-      "group": "製藥",
-      "date": "2026-07-09",
-      "kind": "industry",
-      "href": "/industry/製藥/20260709/report.html",
-      "legacy_hrefs": []
-    },
     {
       "title": "造紙產業",
       "summary": "全球漿紙市場邁入新一輪報價上升循環，上游紙漿價格持續墊高帶動紙價跟進，利差有望擴大；惟中國產能過剩與關稅政策干擾仍在，壓抑整體回升幅度，台廠以越南布局與工業用紙漲價為核心觀察方向。",
@@ -904,6 +892,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.09",
+      "summary": "台股單日千點震盪常態化：加權指數昨（7/8）日重挫1077點、跌幅2.31%，終場收45479點，盤中高低震幅逾1500點，顯示AI行情進入高檔整理階段，資金輪動快速且波動加劇...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-09.md",
+      "relative": "2026-07-09.md",
+      "date": "2026-07-09",
+      "kind": "daily",
+      "href": "/daily/20260709/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-09.html"
+      ]
+    },
     {
       "title": "2026.07.08",
       "summary": "AI基礎建設進入大規模交付階段：鴻海第二季營收達2.513兆元，季增18.02%、年增39.83%，AI伺服器與GB200供應鏈拉貨力道强劲，反映AI基礎建設正從題材邁向實質交...",
