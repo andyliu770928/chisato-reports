@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-09T15:11:08.802916",
+  "generatedAt": "2026-07-10T07:02:15.360198",
   "industryCount": 74,
-  "dailyCount": 68,
+  "dailyCount": 69,
   "deepCount": 4,
   "industry": [
     {
@@ -904,6 +904,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.10",
+      "summary": "AI 基礎建設進入交付高峰期：鴻海第二季營收達 2.513 兆元，季增 18.02%、年增 39.83%，反映 AI 伺服器供應鏈已從拉貨期邁入實質交付階段，實體營收開始兌現",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-10.md",
+      "relative": "2026-07-10.md",
+      "date": "2026-07-10",
+      "kind": "daily",
+      "href": "/daily/20260710/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-10.html"
+      ]
+    },
     {
       "title": "2026.07.09",
       "summary": "台股單日千點震盪常態化：加權指數昨（7/8）日重挫1077點、跌幅2.31%，終場收45479點，盤中高低震幅逾1500點，顯示AI行情進入高檔整理階段，資金輪動快速且波動加劇...",
