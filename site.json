@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-09T07:03:26.606634",
-  "industryCount": 73,
+  "generatedAt": "2026-07-09T15:08:32.932233",
+  "industryCount": 74,
   "dailyCount": 68,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "製藥產業",
+      "summary": "全球製藥景氣佳，台灣供應鏈在中美脫鉤與專利懸崖雙重結構下迎來CDMO轉單與學名藥滲透機會，首選CDMO整合者保瑞（6472）與創新藥國際化先驅藥華藥（6446）。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/製藥/20260709/report.md",
+      "relative": "製藥/20260709/report.md",
+      "group": "製藥",
+      "date": "2026-07-09",
+      "kind": "industry",
+      "href": "/industry/製藥/20260709/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "造紙產業",
       "summary": "全球漿紙市場邁入新一輪報價上升循環，上游紙漿價格持續墊高帶動紙價跟進，利差有望擴大；惟中國產能過剩與關稅政策干擾仍在，壓抑整體回升幅度，台廠以越南布局與工業用紙漲價為核心觀察方向。",
