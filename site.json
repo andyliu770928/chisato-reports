@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-10T07:02:15.360198",
-  "industryCount": 74,
+  "generatedAt": "2026-07-11T04:04:45.017430",
+  "industryCount": 75,
   "dailyCount": 69,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "醫療器材",
+      "summary": "全球醫療器材市場邁向 AI 驅動的智慧化轉型，台灣供應鏈廠商在 OEM/ODM 與高階耗材領域具備競爭優勢，受惠於全球去中化與高齡化剛性需求，唯需留意美國關稅政策與匯率波動。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/醫療器材/20260711/report.md",
+      "relative": "醫療器材/20260711/report.md",
+      "group": "醫療器材",
+      "date": "2026-07-11",
+      "kind": "industry",
+      "href": "/industry/醫療器材/20260711/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "製藥產業",
       "summary": "全球製藥景氣佳，台灣供應鏈在中美脫鉤與專利懸崖雙重結構下迎來CDMO轉單與學名藥滲透機會，首選CDMO整合者保瑞（6472）與創新藥國際化先驅藥華藥（6446）。",
