@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-11T04:04:56.479686",
-  "industryCount": 75,
+  "generatedAt": "2026-07-12T04:03:06.361901",
+  "industryCount": 76,
   "dailyCount": 69,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "交通運輸及航運產業",
+      "summary": "海運進入景氣循環底部整理，運價有季節性支撐但缺乏持續性；航空業則受惠AI供應鏈出口與旅遊商機，表現相對穩健。台灣航空雙雄（華航、長榮航）貨運營收創新高，為近期最大亮點。",
+      "rating": "中性",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/交通運輸及航運/20260712/report.md",
+      "relative": "交通運輸及航運/20260712/report.md",
+      "group": "交通運輸及航運",
+      "date": "2026-07-12",
+      "kind": "industry",
+      "href": "/industry/交通運輸及航運/20260712/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "醫療器材",
       "summary": "全球醫療器材市場邁向 AI 驅動的智慧化轉型，台灣供應鏈廠商在 OEM/ODM 與高階耗材領域具備競爭優勢，受惠於全球去中化與高齡化剛性需求，唯需留意美國關稅政策與匯率波動。",
