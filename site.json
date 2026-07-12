@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-12T04:03:18.465398",
+  "generatedAt": "2026-07-13T07:02:29.057394",
   "industryCount": 76,
-  "dailyCount": 69,
+  "dailyCount": 70,
   "deepCount": 4,
   "industry": [
     {
@@ -928,6 +928,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.13",
+      "summary": "AI 伺服器供應鏈從雲端走向終端應用，自駕車、人形機器人、智慧工廠、安防監控及 AI 眼鏡等終端載具加速採用光學鏡頭與影像辨識技術，帶動光學族群重新受到市場青睞",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-13.md",
+      "relative": "2026-07-13.md",
+      "date": "2026-07-13",
+      "kind": "daily",
+      "href": "/daily/20260713/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-13.html"
+      ]
+    },
     {
       "title": "2026.07.10",
       "summary": "AI 基礎建設進入交付高峰期：鴻海第二季營收達 2.513 兆元，季增 18.02%、年增 39.83%，反映 AI 伺服器供應鏈已從拉貨期邁入實質交付階段，實體營收開始兌現",
