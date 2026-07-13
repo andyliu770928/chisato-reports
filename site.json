@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-14T04:04:12.056129",
+  "generatedAt": "2026-07-14T07:01:44.326993",
   "industryCount": 77,
-  "dailyCount": 70,
+  "dailyCount": 71,
   "deepCount": 4,
   "industry": [
     {
@@ -940,6 +940,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.14",
+      "summary": "AI伺服器資金輪動加速：台股短線在高檔區間震盪，資金正從核心AI指標股（台積電、鴻海、緯穎等）向供應鏈擴散，被動元件、光學鏡頭、PCB等「隱形贏家」開始吸引市場目光",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-14.md",
+      "relative": "2026-07-14.md",
+      "date": "2026-07-14",
+      "kind": "daily",
+      "href": "/daily/20260714/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-14.html"
+      ]
+    },
     {
       "title": "2026.07.13",
       "summary": "AI 伺服器供應鏈從雲端走向終端應用，自駕車、人形機器人、智慧工廠、安防監控及 AI 眼鏡等終端載具加速採用光學鏡頭與影像辨識技術，帶動光學族群重新受到市場青睞",
