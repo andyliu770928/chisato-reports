@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-13T07:02:29.057394",
-  "industryCount": 76,
+  "generatedAt": "2026-07-14T04:02:42.058674",
+  "industryCount": 77,
   "dailyCount": 70,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "【航太週邊】",
+      "summary": "全球航太產業進入疫後十年超級周期，Boeing與Airbus合計市占近八成，積壓訂單創歷史新高，台灣供應鏈廠商將受惠於訂單釋出與精密製造升級。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/航太週邊/20260714/report.md",
+      "relative": "航太週邊/20260714/report.md",
+      "group": "航太週邊",
+      "date": "2026-07-14",
+      "kind": "industry",
+      "href": "/industry/航太週邊/20260714/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "交通運輸及航運產業",
       "summary": "海運進入景氣循環底部整理，運價有季節性支撐但缺乏持續性；航空業則受惠AI供應鏈出口與旅遊商機，表現相對穩健。台灣航空雙雄（華航、長榮航）貨運營收創新高，為近期最大亮點。",
