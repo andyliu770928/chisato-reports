@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-14T07:01:44.326993",
-  "industryCount": 77,
+  "generatedAt": "2026-07-15T04:05:38.909033",
+  "industryCount": 78,
   "dailyCount": 71,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "金融業",
+      "summary": "台灣金融業邁入 AI 驅動與 IFRS 17 接軌的結構轉型期，銀行業務撑盤、壽險本業獲利穩定性提升，2026 年首季金融三業稅後純益達 3,710 億元創新高，建議聚焦銀行淨利差擴大與壽險 CSM 釋放雙主軸，首選中信金（2891）與兆豐金（2886）。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/金融/20260715/report.md",
+      "relative": "金融/20260715/report.md",
+      "group": "金融",
+      "date": "2026-07-15",
+      "kind": "industry",
+      "href": "/industry/金融/20260715/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【航太週邊】",
       "summary": "全球航太產業進入疫後十年超級周期，Boeing與Airbus合計市占近八成，積壓訂單創歷史新高，台灣供應鏈廠商將受惠於訂單釋出與精密製造升級。",
