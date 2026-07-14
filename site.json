@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-15T04:05:58.564407",
+  "generatedAt": "2026-07-15T07:02:10.662192",
   "industryCount": 78,
-  "dailyCount": 71,
+  "dailyCount": 72,
   "deepCount": 4,
   "industry": [
     {
@@ -952,6 +952,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.15",
+      "summary": "AI供應鏈資金輪動加速：繼先前AI伺服器族群大漲後，市場資金開始從核心龍頭（如台積電、先進封裝）向周邊供應鏈擴散，包括被動元件、PCB/載板、光學鏡頭等「隱形冠軍」接棒，成為本...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-15.md",
+      "relative": "2026-07-15.md",
+      "date": "2026-07-15",
+      "kind": "daily",
+      "href": "/daily/20260715/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-15.html"
+      ]
+    },
     {
       "title": "2026.07.14",
       "summary": "AI伺服器資金輪動加速：台股短線在高檔區間震盪，資金正從核心AI指標股（台積電、鴻海、緯穎等）向供應鏈擴散，被動元件、光學鏡頭、PCB等「隱形贏家」開始吸引市場目光",
