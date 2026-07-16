@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-16T07:02:00.002976",
-  "industryCount": 78,
+  "generatedAt": "2026-07-17T04:04:32.940515",
+  "industryCount": 79,
   "dailyCount": 73,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "油電燃氣產業深度報告",
+      "summary": "報告日期：2026 年 7 月 17 日",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/油電燃氣/20260717/report.md",
+      "relative": "油電燃氣/20260717/report.md",
+      "group": "油電燃氣",
+      "date": "20260717",
+      "kind": "industry",
+      "href": "/industry/油電燃氣/20260717/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "金融業",
       "summary": "台灣金融業邁入 AI 驅動與 IFRS 17 接軌的結構轉型期，銀行業務撑盤、壽險本業獲利穩定性提升，2026 年首季金融三業稅後純益達 3,710 億元創新高，建議聚焦銀行淨利差擴大與壽險 CSM 釋放雙主軸，首選中信金（2891）與兆豐金（2886）。",
