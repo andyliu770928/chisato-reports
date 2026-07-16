@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-17T04:05:28.777092",
+  "generatedAt": "2026-07-17T07:02:33.318117",
   "industryCount": 79,
-  "dailyCount": 73,
+  "dailyCount": 74,
   "deepCount": 4,
   "industry": [
     {
@@ -964,6 +964,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.17",
+      "summary": "輝達財報告捷化解AI泡沫疑慮，美股週三全數反彈，標普中止連四跌，激勵科技供應鏈士氣，台廠AI供應鏈後市持續獲得法人青睞",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-17.md",
+      "relative": "2026-07-17.md",
+      "date": "2026-07-17",
+      "kind": "daily",
+      "href": "/daily/20260717/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-17.html"
+      ]
+    },
     {
       "title": "2026.07.16",
       "summary": "AI伺服器供應鏈持續吸引資金進駐，台積電、鴻海、緯穎、世芯-KY、創意等指標股若能持續放量走強，代表需求與訂單獲得市場確認，資金有望從核心龍頭向供應鏈全面擴散",
