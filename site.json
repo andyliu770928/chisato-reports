@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-19T04:03:07.224793",
+  "generatedAt": "2026-07-20T07:02:29.119082",
   "industryCount": 80,
-  "dailyCount": 74,
+  "dailyCount": 75,
   "deepCount": 4,
   "industry": [
     {
@@ -976,6 +976,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.20",
+      "summary": "AI伺服器供應鏈全面補漲格局成形：三大法人同步砸近60億元大買「電子五哥」，顯示資金已從核心龍頭（台積電、輝達供應鏈）向外擴散至組裝、電源、散熱等次族群，為本週最強主軸",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-20.md",
+      "relative": "2026-07-20.md",
+      "date": "2026-07-20",
+      "kind": "daily",
+      "href": "/daily/20260720/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-20.html"
+      ]
+    },
     {
       "title": "2026.07.17",
       "summary": "輝達財報告捷化解AI泡沫疑慮，美股週三全數反彈，標普中止連四跌，激勵科技供應鏈士氣，台廠AI供應鏈後市持續獲得法人青睞",
