@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-21T04:04:05.296000",
+  "generatedAt": "2026-07-21T07:02:09.422744",
   "industryCount": 81,
-  "dailyCount": 75,
+  "dailyCount": 76,
   "deepCount": 4,
   "industry": [
     {
@@ -988,6 +988,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.21",
+      "summary": "實體AI浪潮來襲：AI從「會思考」走向「會感知」，感測技術成為下一階段關鍵，ASML與台積電攜手搶攻實體AI商機，相關半導體供應鏈迎來新動能",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-21.md",
+      "relative": "2026-07-21.md",
+      "date": "2026-07-21",
+      "kind": "daily",
+      "href": "/daily/20260721/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-21.html"
+      ]
+    },
     {
       "title": "2026.07.20",
       "summary": "AI伺服器供應鏈全面補漲格局成形：三大法人同步砸近60億元大買「電子五哥」，顯示資金已從核心龍頭（台積電、輝達供應鏈）向外擴散至組裝、電源、散熱等次族群，為本週最強主軸",
