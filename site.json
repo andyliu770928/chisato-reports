@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-20T07:02:29.119082",
-  "industryCount": 80,
+  "generatedAt": "2026-07-21T04:03:42.998527",
+  "industryCount": 81,
   "dailyCount": 75,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "航太週邊產業深度研究報告",
+      "summary": "日期： 2026年7月21日",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/航太週邊/20260721/report.md",
+      "relative": "航太週邊/20260721/report.md",
+      "group": "航太週邊",
+      "date": "20260721",
+      "kind": "industry",
+      "href": "/industry/航太週邊/20260721/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "紡織產業",
       "summary": "全球紡織市場穩健成長，亞太區域占比過半且增速領先。台灣紡織供應鏈歷經2025年關稅干擾後，2026年下半年景气回溫明確，儒鴻（1476）與聚陽（1477）為首選，高值化機能布料與彈性生產能力為核心競爭力。",
