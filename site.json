@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-22T04:03:19.059403",
+  "generatedAt": "2026-07-22T07:01:58.867796",
   "industryCount": 82,
-  "dailyCount": 76,
+  "dailyCount": 77,
   "deepCount": 4,
   "industry": [
     {
@@ -1000,6 +1000,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.22",
+      "summary": "AI伺服器供應鏈全面啟動：聯強(2347)受惠雲端與地端AI應用落地，商用加值與半導體兩大部門拉貨動能強勁，法人看好下半年營運前景，半導體通路與先進封裝供應鏈成為資金避風港",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-22.md",
+      "relative": "2026-07-22.md",
+      "date": "2026-07-22",
+      "kind": "daily",
+      "href": "/daily/20260722/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-22.html"
+      ]
+    },
     {
       "title": "2026.07.21",
       "summary": "實體AI浪潮來襲：AI從「會思考」走向「會感知」，感測技術成為下一階段關鍵，ASML與台積電攜手搶攻實體AI商機，相關半導體供應鏈迎來新動能",
