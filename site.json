@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-21T07:02:09.422744",
-  "industryCount": 81,
+  "generatedAt": "2026-07-22T04:02:59.606202",
+  "industryCount": 82,
   "dailyCount": 76,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "貿易百貨",
+      "summary": "台灣百貨業逆境成長，2025 年產值達 4,555 億元，年增 3.7%，優於整體零售業衰退 0.2% 的大盤。台灣百貨獨特的「生活廣場」模式（餐飲占比 30%）成功與電商形成差異化，體驗式消費黏著度遠優於全球水準。2026 年首季實體零售（+7.1%）已超越純電商（+3.4%），為百貨 OMO 策略注強心針。短期龍頭新光三越（未上市）體質最佳，上市標的宜關注具轉型潛力的個股。",
+      "rating": "審慎樂觀",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/貿易百貨/20260722/report.md",
+      "relative": "貿易百貨/20260722/report.md",
+      "group": "貿易百貨",
+      "date": "2026-07-22",
+      "kind": "industry",
+      "href": "/industry/貿易百貨/20260722/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "航太週邊產業深度研究報告",
       "summary": "日期： 2026年7月21日",
