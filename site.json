@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-22T07:01:58.867796",
+  "generatedAt": "2026-07-23T07:02:04.589722",
   "industryCount": 82,
-  "dailyCount": 77,
+  "dailyCount": 78,
   "deepCount": 4,
   "industry": [
     {
@@ -1000,6 +1000,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.23",
+      "summary": "AI伺服器供應鏈持續擔當多頭主攻手：世芯-KY、奇鋐、雙鴻等概念股價量齊揚，先進封裝CoWoS需求年複合成長率達70-80%，台積電(2330)先進封裝廠停工事件短線干擾已消化...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-23.md",
+      "relative": "2026-07-23.md",
+      "date": "2026-07-23",
+      "kind": "daily",
+      "href": "/daily/20260723/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-23.html"
+      ]
+    },
     {
       "title": "2026.07.22",
       "summary": "AI伺服器供應鏈全面啟動：聯強(2347)受惠雲端與地端AI應用落地，商用加值與半導體兩大部門拉貨動能強勁，法人看好下半年營運前景，半導體通路與先進封裝供應鏈成為資金避風港",
