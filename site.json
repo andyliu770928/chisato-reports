@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-23T07:02:04.589722",
+  "generatedAt": "2026-07-24T07:01:51.222495",
   "industryCount": 82,
-  "dailyCount": 78,
+  "dailyCount": 79,
   "deepCount": 4,
   "industry": [
     {
@@ -1000,6 +1000,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.24",
+      "summary": "輝達財報報喜，美股科技股全線反攻：輝達（NVIDIA）於本週三（7/20）公布的財報優於預期，費城半導體指數單日大漲 4.49%，帶動那斯達克上漲 1.55%，道瓊工業指數也跟...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-24.md",
+      "relative": "2026-07-24.md",
+      "date": "2026-07-24",
+      "kind": "daily",
+      "href": "/daily/20260724/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-24.html"
+      ]
+    },
     {
       "title": "2026.07.23",
       "summary": "AI伺服器供應鏈持續擔當多頭主攻手：世芯-KY、奇鋐、雙鴻等概念股價量齊揚，先進封裝CoWoS需求年複合成長率達70-80%，台積電(2330)先進封裝廠停工事件短線干擾已消化...",
