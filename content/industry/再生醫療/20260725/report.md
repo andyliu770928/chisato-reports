@@ -1,0 +1,152 @@
+# 再生醫療產業深度研究報告
+
+**研究日期：2026年7月25日**
+**研究範圍：全球再生醫療市場概況、技術發展、主要產品、法規動態與台灣供應鏈**
+
+---
+
+## 一、市場規模與成長趨勢
+
+再生醫療涵蓋細胞治療（Cell Therapy）、基因治療（Gene Therapy）、組織工程（Tissue Engineering）三大核心領域，以及相關的小分子與生物製劑。根據 Precedence Research 的研究數據，2025年全球再生醫療市場估值約為 **437.7億美元**，預計到2035年將增長至 **2,348.5億美元**，年複合成長率（CAGR）達 **18.29%**（Precedence Research, 2026）。
+
+細分領域方面，細胞治療市場2025年估值約 **247.7億美元**，基因治療約 **36.1億美元**，組織工程約 **127.0億美元**，三者合計佔整體再生醫療市場約九成（Precedence Research, 2026）。細胞治療因其技術相對成熟且已有多項商品化產品，居市場主導地位，2025年市場佔比約達57%。
+
+從區域分佈觀察，北美市場2025年規模約 **210.4億美元**，佔全球市場48%以上，主導地位來自完善的醫療基礎設施與充沛的研發投資。亞太市場2025年規模約 **55.0億美元**，CAGR達 **20.71%**，為全球成長最快的區域板塊（Precedence Research, 2026）。中國、日本、韓國與台灣的生技製藥政策加速，以及高齡化社會對慢性病治療的龐大需求，為亞太市場的主要驅動力。
+
+---
+
+## 二、核心技術領域分析
+
+### 細胞治療（Cell Therapy）
+
+細胞治療係將活細胞注入、移植或植入患者體內以達到治療效果的醫療技術。其歷史可追溯至十九世紀科學家嘗試注射動物材料以預防與治療疾病的實驗，而骨髓移植則是目前最成熟且廣泛應用的細胞治療形式（Wikipedia: Cell therapy）。1956年，E. Donnall Thomas 醫師成功執行首例骨髓移植治療白血病患者，開啟現代細胞治療的臨床應用。
+
+細胞治療依細胞來源分為自體（autologous，細胞取自患者自身）與異體（allogeneic，細胞取自捐贈者）兩大類。自體細胞治療安全性較高但成本昂貴；異體細胞治療可規模化生產，形成「現成」（off-the-shelf）產品的潛力，為目前商業化發展的重點方向（Wikipedia: Cell therapy）。
+
+間質幹細胞（MSCs）因具免疫調節、多向分化與快速增生的特性，已被廣泛研究用於骨骼軟骨再生、心肌修復以及多種疾病的治療應用。臍帶與Wharton's膠質中所含的間質幹細胞，亦在心血管疾病、神經缺損與肝臟疾病的早期臨床試驗中顯示潛力（Wikipedia: Regenerative medicine）。
+
+造血幹細胞移植（HSCT）是目前唯一被FDA廣泛認可的幹細胞治療形式，主要用於白血病與淋巴瘤等血液癌症的治療（Wikipedia: Stem cell therapy）。截至2024年，FDA已核准五項來自臍帶血的造血幹細胞產品，用於治療血液與免疫相關疾病。
+
+### CAR-T 細胞治療
+
+嵌合抗原受體T細胞（CAR-T）為細胞治療領域近十年最重要的技術突破。CAR-T 療法從患者血液中分離T細胞，經基因工程改造後表現可特异性識別癌細胞表面抗原的嵌合受體，再回輸患者體內攻擊腫瘤細胞（Wikipedia: CAR T cell）。
+
+CAR-T 技術發展可分為三代：第一代CAR僅含CD3ζ細胞內訊息域，臨床效果有限；第二代於1990年代初期加入共刺激 domain（如CD28或4-1BB），大幅提升T細胞的持續性與腫瘤清除能力，並於2010年代陸續進入臨床試驗；第三代則結合多個共刺激域，進一步優化療效。全球首項獲核准的CAR-T產品為Novartis的Kymriah（tisagenlecleucel），於2017年取得FDA核准，用於治療急性淋巴性白血病（ALL）與瀰漫性大型B細胞淋巴瘤（DLBCL）（Wikipedia: CAR T cell）。
+
+目前大多數CAR-T臨床試驗聚焦血液癌症，CD19為最熱門的靶點。CAR-T在實體腫瘤的應用因腫瘤微環境的免疫抑制、良好靶點難以找到以及T細胞難以有效浸潤腫瘤核心等挑戰，發展相對滯後。然而2024年的研究顯示，CARv3-TEAM-E細胞在治療膠質母細胞瘤的小型試驗中，單次輸注即顯示快速腫瘤消退的效果，為實體腫瘤CAR-T治療帶來曙光（Wikipedia: CAR T cell）。
+
+值得注意的是，CAR-T亦被研究應用於自體免疫疾病。透過消除自反應記憶B細胞族群，CAR-T在治療紅斑性狼瘡、潰瘍性結腸炎與類風濕性關節炎方面已展開人體試驗（Wikipedia: CAR T cell）。2021年，Atara Biotherapeutics成為全球首家獲得歐盟EMA核准異體T細胞治療產品的公司，標誌著異體CAR-T技術的重大里程碑。
+
+### 基因治療（Gene Therapy）
+
+基因治療係透過操縱基因表現或改變活細胞的生物特性，以達到治療效果的醫療技術。首例獲得NIH核准的人類基因轉移手術發生於1989年，而首次被廣泛認可成功的基因治療臨床試驗，則是1990年治療Ashanthi DeSilva的ADA-SCID基因治療（Wikipedia: Gene therapy）。
+
+基因治療採兩大路徑：in vivo（直接將載體導入患者體內）與 ex vivo（先取出細胞、改造後再回輸）。目前最常用的病毒載體為腺相關病毒（AAV）與慢病毒（Lentivirus）。AAV具有免疫原性低、可轉導分裂與非分裂細胞等優點，但因其為單鏈DNA病毒，基因承載容量有限；慢病毒則可將遺傳物質永久整合進宿主細胞核基因組，適合需要長期表現的治療場景（Wikipedia: Gene therapy）。
+
+體細胞基因治療（SCGT）為目前的主流應用，改變僅影響接受治療的個體，不會遺傳給後代；胚系基因治療（GGT）則可遺傳，但因倫理與安全性疑慮，多數國家禁止或嚴格限制（Wikipedia: Gene therapy）。
+
+截至目前為止，多項基因治療產品已成功商業化：中國於2003年核准全球首款基因治療藥物 Gendicine 用於特定癌症；英國於2012年核准用於脂肪酸氧化障礙的 Glybera（但因價格高昂已退市）；藍鳥生物（bluebird bio）的 Skysona 與 Zynteglo 分別於2022年獲歐盟核准用於腎上腺腦白質退化症與β-地中海貧血。2024年8月，Forge Biologics 的象徵性基因治療產品 Afamitresgene autoleucel（品牌名 Tecelra）獲FDA核准，成為首項用於實體腫瘤的工程化細胞療法，適應症為滑膜肉瘤，標誌著基因治療在實體瘤領域的重大突破（Wikipedia: Gene therapy）。
+
+基因編輯技術（gene editing）的進展為基因治療帶來革命性改變。CRISPR/Cas9、鋅指核酸酶（ZFN）與類轉錄活化因子核酸酶（TALEN）可在精確位置修改DNA，為單基因遺傳疾病、病毒性疾病與癌症提供新的治療策略（Wikipedia: Gene therapy）。2020年，首批CRISPR人體臨床試驗展開，用於治療Leber先天性失明與鐮刀型紅血球疾病，並陸續傳出初步正向結果。
+
+非病毒載體的發展亦日益受到重視，包括裸露DNA注射、電穿孔、基因槍、聲穿孔、磁轉染、寡核苷酸、脂複合體與樹突聚合物等技術。這些方法雖早期轉染效率較低，但具有規模化生產容易、免疫原性低的優勢（Wikipedia: Gene therapy）。
+
+### 組織工程（Tissue Engineering）
+
+組織工程結合細胞、工程、材料方法與合適的生化與理化因子，修復、維持、改善或取代各類生物組織。1985年，生理學家Yuan-Cheng Fung在工程研究中心首次提出「組織工程」一詞，將「組織」與「工程」兩詞相結合（Wikipedia: Tissue engineering）。
+
+組織工程的三大策略包括：僅使用細胞、細胞搭配支架，或僅使用組織誘導因子。目前臨床上最成熟的應用為骨骼、軟骨與皮膚再生。生物工程皮膚補充物已獲FDA核准用於治療深度燒燙傷、糖尿病足潰瘡與慢性傷口（Wikipedia: Regenerative medicine）。3D生物列印技術的進展使客製化組織建構成為可能，水膠（hydrogel）因其模擬細胞外基質的特性，成為3D生物列印的首選生物墨水材料（Wikipedia: Tissue engineering）。
+
+---
+
+## 三、主要應用領域
+
+### 肌肉骨骼應用
+
+肌肉骨骼系統為再生醫療商業化最成熟的領域，2025年市場佔比達 **32.86%**，為所有應用類別之首（Precedence Research, 2026）。治療策略主要利用骨傳導（osteoconductive）與骨誘導（osteoinductive）材料修復大尺寸骨缺損、關節軟骨病變與體積性肌肉流失。間質幹細胞在骨軟骨修復方面顯示顯著潛力，研究已證實MSCs可分化為正常骨母細胞，促進骨生成（Wikipedia: Regenerative medicine）。
+
+### 心血管應用
+
+心血管再生醫療聚焦修復受損的心肌組織、心臟瓣膜與周邊血管，主要目標為缺血性心臟病與先天性心臟缺陷的治療。然而成人心肌細胞的再生能力極為有限，為此領域最大的科學挑戰。細胞外基質材料目前正在心臟手術中進行修復受損心組織的人體試驗（Wikipedia: Regenerative medicine）。
+
+### 神經系統應用
+
+中樞與周邊神經系統的再生策略主要針對脊髓損傷、缺血性中風與巴金森氏症等神經退化性疾病。由於成年腦與脊髓的治療微環境對神經再生極為不利，此領域的臨床進展相對緩慢，但基因治療與幹細胞移植的結合療法正展現新興潛力（Wikipedia: Regenerative medicine）。
+
+### 傷口與皮膚再生
+
+生物工程皮膚替代物與先進傷口敷料已廣泛用於深度燒燙傷、糖尿病足潰瘡與慢性傷口治療。魚皮製品（富含Omega-3抗發炎因子）由冰島公司 Kerecis 開發，已於2016年獲FDA核准用於傷口修復，成為再生醫療材料商品化的重要案例（Wikipedia: Regenerative medicine）。
+
+---
+
+## 四、主要監管機構與核准動態
+
+美國FDA採「先驅核准」（breakthrough designation）與「再生醫療先進療法」（RMAT）等多軌審查機制，加速細胞與基因治療產品的核准。歐洲EMA則透過「優先藥物」（PRIME）機制提供類似支持。
+
+重要核准里程碑包括：2017年Novartis的Kymriah（CAR-T）與Gilead/Kite的Yescarta先後獲FDA核准；2019年Celgene的Abecma（idecabtagene vicleucel）成為首項獲FDA核准的BCMA靶向CAR-T；2024年Tecelra成為首項獲FDA核准的實體腫瘤工程化T細胞受體（TCR）療法（Wikipedia: Gene therapy）。
+
+---
+
+## 五、全球主要廠商與競爭態勢
+
+全球再生醫療市場由少數大型製藥集團與專業生技公司共同參與。主要廠商包括：**Novartis**（CAR-T產品Kymriah）、**Gilead Sciences/Kite Pharma**（Yescarta、Tecartus）、**Bristol Myers Squibb**（Breyanzi、Abecma）、**Regeneron**（已建立基因治療平台）、**Vertex Pharmaceuticals/CRISPR Therapeutics**（Casgevy為首款CRISPR基因編輯療法，2023年獲FDA核准治療鐮刀型紅血球疾病與輸血依賴型β-地中海貧血）、**bluebird bio**（Skysona、Zynteglo）、**Sangamo Therapeutics**（基因組編輯平台）、**Intellia Therapeutics**與**Editas Medicine**（CRISPR平台）等（Wikipedia: Gene therapy; Wikipedia: CAR T cell）。
+
+私募與創投在再生醫療領域持續投入大量資金。OrbiMed、Novartis Venture Funds、Sofinnova Partners與Pfizer Ventures為主要投資方（Precedence Research, 2026）。新創公司如Cellino Biotech（細胞治療自動製造平台）已獲得8,000萬美元的首輪融資，顯示資本市場對此領域的高度興趣。
+
+---
+
+## 六、區域市場分析
+
+### 北美
+
+北美市場主宰全球再生醫療，佔比逾48%，主要得益於完善的醫療基礎設施、充沛的研發投資與有利的監管政策。美國擁有全球數量最多的再生醫療臨床試驗，且有多項產品已進入商業化階段（Precedence Research, 2026）。
+
+### 亞太
+
+亞太為成長最快的區域，CAGR達20.71%。日本於2014年由Institute of Biomedical Research and Innovation Hospital執行全球首例以iPS細胞分化的視網膜色素上皮細胞移植手術，用於治療老年黃斑部病變患者，標誌著日本在iPS細胞研究與再生醫療臨床應用的領導地位（Wikipedia: Regenerative medicine）。韓國與中國的細胞治療與基因治療管線亦快速追趕，多項本土研發產品進入後期臨床試驗。
+
+---
+
+## 七、台灣再生醫療產業現況
+
+台灣生物技術產業在政府長期政策支持下，已建立一定基礎。再生醫療領域的發展與全球趨勢接軌，在細胞治療與基因治療均有研發能量。然而，目前尚未有自主開發的再生醫療產品進入商業化成熟階段，上游關鍵原物料與細胞培養技術仍高度依賴進口。台灣在半導體與精密製造的既有優勢，為開發細胞治療自動化生產設備提供了獨特的跨領域整合機會。
+
+---
+
+## 八、驅動因素與挑戰
+
+### 驅動因素
+
+（一）幹細胞技術的高度採用：幹細胞研究為再生醫療最重要的科學發展之一，過去十年間投入資金與研究成果均呈指數成長；（二）基因治療與組織工程的技術突破：CRISPR基因編輯、病毒載體優化與3D生物列印等技術持續精進；（三）慢性疾病與老年人口增加：全球高齡化使退化性疾病治療需求攀升；（四）個人化醫療趨勢：再生醫療符合精準醫療的發展方向；（五）有利的監管政策：各主要國家加速再生醫療產品審查機制（Precedence Research, 2026）。
+
+### 挑戰
+
+（一）高昂治療費用：CAR-T與基因治療價格動輒數十萬至數百萬美元，健保與商業保險覆蓋範圍有限；（二）規模化製造：自體細胞治療的客製化特性使量產困難，成本居高不下；（三）實體腫瘤療效不足：CAR-T在實體腫瘤仍面臨靶點選擇與腫瘤浸潤等科學瓶頸；（四）免疫排斥與安全性：異體細胞治療與基因治療的長期安全性資料仍不充分；（五）倫理與法規：胚系基因治療與胚胎幹細胞研究仍面臨顯著的倫理爭議與法規限制。
+
+---
+
+## 九、結論
+
+再生醫療正從早期研究走向大規模商業化階段。2025至2035年的黃金增長期中，細胞治療預計以22.28%的CAGR擴張，基因治療以19.09%的CAGR增長，整體再生醫療市場將在2035年前突破2,300億美元。技術成熟度、監管效率與可負擔性將決定這項革命性醫療技術的普及速度與深度。亞太地區的高成長率顯示亞洲將在未來十年成為全球再生醫療最重要的新興市場。
+
+---
+
+## 參考資料
+
+Precedence Research. (2026). *Regenerative Medicine Market Size, Share & Trends Analysis Report*. Retrieved from https://www.precedenceresearch.com/regenerative-medicine-market
+
+Precedence Research. (2026). *Cell Therapy Market Size, Share & Trends Analysis Report*. Retrieved from https://www.precedenceresearch.com/cell-therapy-market
+
+Precedence Research. (2026). *Gene Therapy Market Size, Share & Trends Analysis Report*. Retrieved from https://www.precedenceresearch.com/gene-therapy-market
+
+Wikipedia. (2026). Regenerative medicine. *Wikipedia, The Free Encyclopedia*. Retrieved from https://en.wikipedia.org/wiki/Regenerative_medicine
+
+Wikipedia. (2026). Cell therapy. *Wikipedia, The Free Encyclopedia*. Retrieved from https://en.wikipedia.org/wiki/Cell_therapy
+
+Wikipedia. (2026). Gene therapy. *Wikipedia, The Free Encyclopedia*. Retrieved from https://en.wikipedia.org/wiki/Gene_therapy
+
+Wikipedia. (2026). CAR T cell. *Wikipedia, The Free Encyclopedia*. Retrieved from https://en.wikipedia.org/wiki/CAR_T_cell
+
+Wikipedia. (2026). Stem-cell therapy. *Wikipedia, The Free Encyclopedia*. Retrieved from https://en.wikipedia.org/wiki/Stem_cell_therapy
+
+Wikipedia. (2026). Tissue engineering. *Wikipedia, The Free Encyclopedia*. Retrieved from https://en.wikipedia.org/wiki/Tissue_engineering

@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-24T09:59:57.831322",
-  "industryCount": 82,
+  "generatedAt": "2026-07-25T04:06:37.167885",
+  "industryCount": 83,
   "dailyCount": 79,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "再生醫療產業深度研究報告",
+      "summary": "研究日期：2026年7月25日",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/再生醫療/20260725/report.md",
+      "relative": "再生醫療/20260725/report.md",
+      "group": "再生醫療",
+      "date": "20260725",
+      "kind": "industry",
+      "href": "/industry/再生醫療/20260725/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "貿易百貨",
       "summary": "台灣百貨業逆境成長，2025 年產值達 4,555 億元，年增 3.7%，優於整體零售業衰退 0.2% 的大盤。台灣百貨獨特的「生活廣場」模式（餐飲占比 30%）成功與電商形成差異化，體驗式消費黏著度遠優於全球水準。2026 年首季實體零售（+7.1%）已超越純電商（+3.4%），為百貨 OMO 策略注強心針。短期龍頭新光三越（未上市）體質最佳，上市標的宜關注具轉型潛力的個股。",
