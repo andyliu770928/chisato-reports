@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-25T04:07:04.614564",
+  "generatedAt": "2026-07-27T07:01:26.376632",
   "industryCount": 83,
-  "dailyCount": 79,
+  "dailyCount": 80,
   "deepCount": 4,
   "industry": [
     {
@@ -1012,6 +1012,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.27",
+      "summary": "> ⚠️ 說明：由於今日無相關新聞素材，且本系統無法取得 2026-07-27 之後的真實市場數據，無法填寫本區塊",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-27.md",
+      "relative": "2026-07-27.md",
+      "date": "2026-07-27",
+      "kind": "daily",
+      "href": "/daily/20260727/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-27.html"
+      ]
+    },
     {
       "title": "2026.07.24",
       "summary": "輝達財報報喜，美股科技股全線反攻：輝達（NVIDIA）於本週三（7/20）公布的財報優於預期，費城半導體指數單日大漲 4.49%，帶動那斯達克上漲 1.55%，道瓊工業指數也跟...",
