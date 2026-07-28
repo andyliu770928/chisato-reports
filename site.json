@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-29T04:28:06.860172",
+  "generatedAt": "2026-07-29T04:30:09.936720",
   "industryCount": 84,
   "dailyCount": 81,
   "deepCount": 4,
   "industry": [
     {
-      "title": "電腦及週邊設備產業研究報告",
-      "summary": "報告日期：2026年7月29日",
-      "rating": "",
+      "title": "電腦及週邊設備產業",
+      "summary": "全球PC/週邊市場受AI PC換機潮與AI伺服器需求帶動，台灣ODM/OEM廠掌握全球主要AI伺服器訂單，廣達(2382)與緯創(3231)直接受惠；品牌廠中看好電競領導者華碩(2357)。消費性PC需求偏弱與Intel CPU延期為短期逆風，但不改中長期正向趨勢。",
+      "rating": "正向",
       "source": "/Users/aliu/MEGA/openclaw/reports/industry/電腦及週邊設備/20260729/report.md",
       "relative": "電腦及週邊設備/20260729/report.md",
       "group": "電腦及週邊設備",
-      "date": "20260729",
+      "date": "2026-07-29",
       "kind": "industry",
       "href": "/industry/電腦及週邊設備/20260729/report.html",
       "legacy_hrefs": []
