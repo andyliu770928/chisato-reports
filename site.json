@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-29T04:27:27.538275",
+  "generatedAt": "2026-07-29T04:28:06.860172",
   "industryCount": 84,
   "dailyCount": 81,
   "deepCount": 4,
   "industry": [
     {
-      "title": "電腦及週邊設備",
-      "summary": "全球 PC 市場在 AI PC 換機潮與 AI 伺服器需求支撐下，2025 年重返成長軌道，然記憶體與關鍵元件短缺持續壓抑出貨量。台灣供應鏈呈明顯分化——品牌廠華碩（2357）靠 AI PC 與伺服器突圍，代工廠廣達（2382）、緯創（3231）則以 AI 伺服器為主軸，PC 本業供需秩序改善但毛利受壓。台灣在半導體、先進製程與供應鏈整合的優勢，使我國在全球電腦與週邊設備產業居關鍵地位。整理日期為 2026 年 7 月 29 日，距上次報告（2026 年 4 月 29 日）已約三個月，本報告更新最新產業動態與數據。",
-      "rating": "中性",
+      "title": "電腦及週邊設備產業研究報告",
+      "summary": "報告日期：2026年7月29日",
+      "rating": "",
       "source": "/Users/aliu/MEGA/openclaw/reports/industry/電腦及週邊設備/20260729/report.md",
       "relative": "電腦及週邊設備/20260729/report.md",
       "group": "電腦及週邊設備",
-      "date": "2026-07-29",
+      "date": "20260729",
       "kind": "industry",
       "href": "/industry/電腦及週邊設備/20260729/report.html",
       "legacy_hrefs": []
