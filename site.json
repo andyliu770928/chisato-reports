@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-29T04:30:09.936720",
+  "generatedAt": "2026-07-29T07:01:20.636959",
   "industryCount": 84,
-  "dailyCount": 81,
+  "dailyCount": 82,
   "deepCount": 4,
   "industry": [
     {
@@ -1024,6 +1024,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.07.29",
+      "summary": "今日（2026-07-29）暫無特定產業或個股新聞可供引用，本報告將如實呈報市場觀察框架，投資人宜關注明日盤面動向",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-29.md",
+      "relative": "2026-07-29.md",
+      "date": "2026-07-29",
+      "kind": "daily",
+      "href": "/daily/20260729/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-07-29.html"
+      ]
+    },
     {
       "title": "2026.07.28",
       "summary": "⚠️ 資料暫無提供：本報告日期（2026-07-28）早於分析師知識截止點，暫無可用之行業與總經資料",
