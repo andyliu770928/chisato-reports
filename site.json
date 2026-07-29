@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-29T07:01:20.636959",
-  "industryCount": 84,
+  "generatedAt": "2026-07-30T04:03:20.559065",
+  "industryCount": 85,
   "dailyCount": 82,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "水泥產業研究報告",
+      "summary": "報告日期：2026 年 7 月 30 日",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/水泥/20260730/report.md",
+      "relative": "水泥/20260730/report.md",
+      "group": "水泥",
+      "date": "20260730",
+      "kind": "industry",
+      "href": "/industry/水泥/20260730/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "電腦及週邊設備產業",
       "summary": "全球PC/週邊市場受AI PC換機潮與AI伺服器需求帶動，台灣ODM/OEM廠掌握全球主要AI伺服器訂單，廣達(2382)與緯創(3231)直接受惠；品牌廠中看好電競領導者華碩(2357)。消費性PC需求偏弱與Intel CPU延期為短期逆風，但不改中長期正向趨勢。",
