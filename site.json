@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-07-30T04:03:36.086792",
-  "industryCount": 85,
+  "generatedAt": "2026-07-31T04:04:55.082907",
+  "industryCount": 86,
   "dailyCount": 82,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "食品產業",
+      "summary": "全球食品市場邁向兆美元規模，健康化、機能化、便捷化為長期趨勢，台灣食品產業以外銷與品牌競爭力為主軸，建議關注具備機能食品與出口增長動能的標的。",
+      "rating": "中性",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/食品/20260731/report.md",
+      "relative": "食品/20260731/report.md",
+      "group": "食品",
+      "date": "2026-07-31",
+      "kind": "industry",
+      "href": "/industry/食品/20260731/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "水泥產業研究報告",
       "summary": "報告日期：2026 年 7 月 30 日",
