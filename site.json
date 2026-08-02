@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-03T04:16:27.939637",
+  "generatedAt": "2026-08-03T07:02:04.330149",
   "industryCount": 87,
-  "dailyCount": 83,
+  "dailyCount": 84,
   "deepCount": 4,
   "industry": [
     {
@@ -1060,6 +1060,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.03",
+      "summary": "台股爆出9021億歷史天量，顯示資金高度活躍，半導體與AI供應鏈仍為主軸，但個股走勢明顯分歧，部分中小型AI股逆勢大漲，法人卻持續調節大型權值股",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-03.md",
+      "relative": "2026-08-03.md",
+      "date": "2026-08-03",
+      "kind": "daily",
+      "href": "/daily/20260803/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-03.html"
+      ]
+    },
     {
       "title": "2026.07.31",
       "summary": "（素材不足，如實留空）",
