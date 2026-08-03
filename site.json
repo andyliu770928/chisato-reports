@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-04T04:08:53.093005",
+  "generatedAt": "2026-08-04T07:02:31.013148",
   "industryCount": 88,
-  "dailyCount": 84,
+  "dailyCount": 85,
   "deepCount": 4,
   "industry": [
     {
@@ -1072,6 +1072,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.04",
+      "summary": "AI應用擴散至終端：AI產業發展已從雲端運算走向終端應用，自駕車、人形機器人、智慧工廠、安防監控及AI眼鏡等領域加速起飛，帶動光學鏡頭等關鍵零組件需求增溫",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-04.md",
+      "relative": "2026-08-04.md",
+      "date": "2026-08-04",
+      "kind": "daily",
+      "href": "/daily/20260804/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-04.html"
+      ]
+    },
     {
       "title": "2026.08.03",
       "summary": "台股爆出9021億歷史天量，顯示資金高度活躍，半導體與AI供應鏈仍為主軸，但個股走勢明顯分歧，部分中小型AI股逆勢大漲，法人卻持續調節大型權值股",
