@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-03T07:02:04.330149",
-  "industryCount": 87,
+  "generatedAt": "2026-08-04T04:08:02.629349",
+  "industryCount": 88,
   "dailyCount": 84,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "貿易百貨",
+      "summary": "台灣百貨業2026年迎來強勢復甦，上半年新光三越全台業績年增逾20%，遠百、SOGO、巨城、Global Mall全數正成長。台中店重建歸隊+大巨蛋花園女神助攻，驗證「體驗式消費」護城河依然牢固。然而中台灣供給過剩危機蠢動，漢神洲際、D-ONE、富旺F-PLAZA年底前相繼加入，2026年底前台中將有3家新商場短兵相接。長期結構性威脅仍在——PPI上游成本壓力明顯墊高（2026 H1 PPI年增6.41%），能否順利轉嫁至終端售價為下半年最大變數。",
+      "rating": "審慎樂觀",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/貿易百貨/20260804/report.md",
+      "relative": "貿易百貨/20260804/report.md",
+      "group": "貿易百貨",
+      "date": "2026-08-04",
+      "kind": "industry",
+      "href": "/industry/貿易百貨/20260804/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【金融產業】",
       "summary": "2026 年上半年 13 家金控累計大賺 4,408 億元（年增 101%），獲利動能強勁；IFRS 17 接軌在即，壽險業利差益浮現；金融股評價仍低於科技股，殖利率具吸引力，建議除息後伺機布局。",
