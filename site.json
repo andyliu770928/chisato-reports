@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-04T07:02:31.013148",
-  "industryCount": 88,
+  "generatedAt": "2026-08-05T04:08:03.907927",
+  "industryCount": 89,
   "dailyCount": 85,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "交通運輸及航運產業研究報告",
+      "summary": "研究日期：2026年8月5日",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/交通運輸航運/20260805/report.md",
+      "relative": "交通運輸航運/20260805/report.md",
+      "group": "交通運輸航運",
+      "date": "20260805",
+      "kind": "industry",
+      "href": "/industry/交通運輸航運/20260805/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "貿易百貨",
       "summary": "台灣百貨業2026年迎來強勢復甦，上半年新光三越全台業績年增逾20%，遠百、SOGO、巨城、Global Mall全數正成長。台中店重建歸隊+大巨蛋花園女神助攻，驗證「體驗式消費」護城河依然牢固。然而中台灣供給過剩危機蠢動，漢神洲際、D-ONE、富旺F-PLAZA年底前相繼加入，2026年底前台中將有3家新商場短兵相接。長期結構性威脅仍在——PPI上游成本壓力明顯墊高（2026 H1 PPI年增6.41%），能否順利轉嫁至終端售價為下半年最大變數。",
