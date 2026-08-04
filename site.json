@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-05T04:08:39.242614",
+  "generatedAt": "2026-08-05T07:01:57.727883",
   "industryCount": 89,
-  "dailyCount": 85,
+  "dailyCount": 86,
   "deepCount": 4,
   "industry": [
     {
@@ -1084,6 +1084,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.05",
+      "summary": "AI應用擴散至終端裝置：自駕車、人形機器人、智慧工廠、AI眼鏡等終端應用加速落地，帶動光學鏡頭與視覺辨識供應鏈需求升溫，被動元件族群接棒AI主流地位",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-05.md",
+      "relative": "2026-08-05.md",
+      "date": "2026-08-05",
+      "kind": "daily",
+      "href": "/daily/20260805/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-05.html"
+      ]
+    },
     {
       "title": "2026.08.04",
       "summary": "AI應用擴散至終端：AI產業發展已從雲端運算走向終端應用，自駕車、人形機器人、智慧工廠、安防監控及AI眼鏡等領域加速起飛，帶動光學鏡頭等關鍵零組件需求增溫",
