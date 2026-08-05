@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-05T07:01:57.727883",
-  "industryCount": 89,
+  "generatedAt": "2026-08-06T04:08:42.493684",
+  "industryCount": 90,
   "dailyCount": 86,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "體驗科技（Immersive Technology）產業研究報告",
+      "summary": "報告日期：2026年8月6日",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/體驗科技/20260806/report.md",
+      "relative": "體驗科技/20260806/report.md",
+      "group": "體驗科技",
+      "date": "20260806",
+      "kind": "industry",
+      "href": "/industry/體驗科技/20260806/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "交通運輸及航運產業研究報告",
       "summary": "研究日期：2026年8月5日",
