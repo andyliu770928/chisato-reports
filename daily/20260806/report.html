@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>2026.08.06</title>
+  <link rel="icon" type="image/svg+xml" href="/chisato-reports/assets/favicon.svg" />
+  <link rel="stylesheet" href="/chisato-reports/assets/style.css" />
+</head>
+<body>
+  <main class="page report-page daily">
+    <header class="site-header">
+      <div class="brand-bar">
+        <a class="brand" href="/chisato-reports/index.html">小千研究報告站</a>
+        <nav class="site-nav"><a href="/chisato-reports/index.html">首頁</a><a href="/chisato-reports/industry/index.html">產業報告</a><a href="/chisato-reports/daily/index.html">每日早報</a><a href="/chisato-reports/deep-research/index.html">主題研究</a></nav>
+      </div>
+      <div class="breadcrumb">每日早報 / 2026-08-06</div>
+      <h1>2026.08.06</h1>
+      
+    </header>
+    <section class="content">
+      <article class="report-shell"><section class="report-top daily"><div class="report-meta"><span class="chip">每日早報</span><span class="chip">2026.08.06</span></div><h1>2026.08.06</h1><p class="report-lead">內容整理中。</p></section><div class="report-frame"><section class="report-body"></section></div></article>
+    </section>
+  </main>
+  <script>
+(function(){
+  var btns = document.querySelectorAll('.filter-btn');
+  var grid = document.querySelector('.industry-index .entry-grid');
+  var count = document.getElementById('filter-count');
+  if(!btns.length || !grid) return;
+  function applyFilter(group) {
+    var cards = grid.querySelectorAll('.entry-card');
+    var shown = 0;
+    cards.forEach(function(card){
+      var match = !group || card.getAttribute('data-group') === group;
+      card.classList.toggle('hidden-by-filter', !match);
+      if(match) shown++;
+    });
+    btns.forEach(function(b){
+      b.classList.toggle('active', (b.getAttribute('data-group')||'') === (group||''));
+    });
+    if(count) count.textContent = shown > 0 ? shown + ' 篇' : '';
+  }
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      applyFilter(btn.getAttribute('data-group'));
+    });
+  });
+  applyFilter('');
+})();
+  </script>
+</body>
+</html>

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-06T04:08:58.601306",
+  "generatedAt": "2026-08-06T07:02:20.453063",
   "industryCount": 90,
-  "dailyCount": 86,
+  "dailyCount": 87,
   "deepCount": 4,
   "industry": [
     {
@@ -1096,6 +1096,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.06",
+      "summary": "內容整理中。",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-06.md",
+      "relative": "2026-08-06.md",
+      "date": "2026-08-06",
+      "kind": "daily",
+      "href": "/daily/20260806/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-06.html"
+      ]
+    },
     {
       "title": "2026.08.05",
       "summary": "AI應用擴散至終端裝置：自駕車、人形機器人、智慧工廠、AI眼鏡等終端應用加速落地，帶動光學鏡頭與視覺辨識供應鏈需求升溫，被動元件族群接棒AI主流地位",
