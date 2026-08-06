@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-07T04:04:06.327983",
+  "generatedAt": "2026-08-07T07:02:10.415149",
   "industryCount": 91,
-  "dailyCount": 87,
+  "dailyCount": 88,
   "deepCount": 4,
   "industry": [
     {
@@ -1108,6 +1108,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.07",
+      "summary": "Fed利率政策陷入僵局：聯準會利率連續第五次凍漲，但鷹派聲音升高，債市波動加劇，美股出現明顯震盪",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-07.md",
+      "relative": "2026-08-07.md",
+      "date": "2026-08-07",
+      "kind": "daily",
+      "href": "/daily/20260807/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-07.html"
+      ]
+    },
     {
       "title": "2026.08.06",
       "summary": "內容整理中。",

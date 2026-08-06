@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>2026.08.07</title>
+  <link rel="icon" type="image/svg+xml" href="/chisato-reports/assets/favicon.svg" />
+  <link rel="stylesheet" href="/chisato-reports/assets/style.css" />
+</head>
+<body>
+  <main class="page report-page daily">
+    <header class="site-header">
+      <div class="brand-bar">
+        <a class="brand" href="/chisato-reports/index.html">小千研究報告站</a>
+        <nav class="site-nav"><a href="/chisato-reports/index.html">首頁</a><a href="/chisato-reports/industry/index.html">產業報告</a><a href="/chisato-reports/daily/index.html">每日早報</a><a href="/chisato-reports/deep-research/index.html">主題研究</a></nav>
+      </div>
+      <div class="breadcrumb">每日早報 / 2026-08-07</div>
+      <h1>2026.08.07</h1>
+      
+    </header>
+    <section class="content">
+      <article class="report-shell"><section class="report-top daily"><div class="report-meta"><span class="chip">每日早報</span><span class="chip">2026.08.07</span></div><h1>2026.08.07</h1><p class="report-lead">Fed利率政策陷入僵局：聯準會利率連續第五次凍漲，但鷹派聲音升高，債市波動加劇，美股出現明顯震盪</p></section><div class="report-frame"><section class="report-body"><h1>臺美市場早報 (2026-08-07)</h1>
+<hr />
+<h2>市場一週總覽 (Executive Summary)</h2>
+<h3>用3句話總結本週市場最核心的主題（Key Themes）</h3>
+<p><strong>1.</strong> <strong>Fed利率政策陷入僵局</strong>：聯準會利率連續第五次凍漲，但鷹派聲音升高，債市波動加劇，美股出現明顯震盪。</p>
+<p><strong>2.</strong> <strong>AI與半導體供應鏈持續吸睛</strong>：資金持續聚焦具備明確業績能見度的半導體與AI核心供應鏈，外資結束連續賣超態勢開始回補。</p>
+<p><strong>3.</strong> <strong>先進封裝技術帶動供應鏈重估</strong>：CoWoS、CoWoP、先進ABF載板等先進封裝技術成為市場焦點，相關供應鏈廠商備受關注。</p>
+<hr />
+<h2>核心投資機會矩陣 (由高分到低分排序)</h2>
+<table>
+<thead><tr><th>排名</th><th>事件/驅動因子</th><th>影響類型</th><th>綜合得分</th><th>關鍵受益標的 (Ticker)</th><th>簡短邏輯分析</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>外資結束連13天賣超、期貨淨空單回補，顯示資金面轉多</td><td>正面</td><td>85</td><td>台積電(2330)、聯發科(2454)</td><td>權值股獲得資金青睞，指數撐盤力道強勁</td></tr>
+<tr><td>2</td><td>AI伺服器需求續熱，HBM需求爆發</td><td>正面</td><td>80</td><td>SK海力士(看好)、記憶體相關供應鏈</td><td>美銀喊買SK海力士，目標價250美元，HBM領導地位確立</td></tr>
+<tr><td>3</td><td>CoWoS/CoWoP先進封裝技術演進</td><td>正面</td><td>78</td><td>日月光(3711)、欣興(3037)、景碩(3189)</td><td>輝達測試新封裝技術，ABF載板需求</td></tr>
+</tbody>
+</table></section></div></article>
+    </section>
+  </main>
+  <script>
+(function(){
+  var btns = document.querySelectorAll('.filter-btn');
+  var grid = document.querySelector('.industry-index .entry-grid');
+  var count = document.getElementById('filter-count');
+  if(!btns.length || !grid) return;
+  function applyFilter(group) {
+    var cards = grid.querySelectorAll('.entry-card');
+    var shown = 0;
+    cards.forEach(function(card){
+      var match = !group || card.getAttribute('data-group') === group;
+      card.classList.toggle('hidden-by-filter', !match);
+      if(match) shown++;
+    });
+    btns.forEach(function(b){
+      b.classList.toggle('active', (b.getAttribute('data-group')||'') === (group||''));
+    });
+    if(count) count.textContent = shown > 0 ? shown + ' 篇' : '';
+  }
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      applyFilter(btn.getAttribute('data-group'));
+    });
+  });
+  applyFilter('');
+})();
+  </script>
+</body>
+</html>
