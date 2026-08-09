@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T07:02:10.415149",
-  "industryCount": 91,
+  "generatedAt": "2026-08-10T04:02:10.065004",
+  "industryCount": 92,
   "dailyCount": 88,
   "deepCount": 4,
   "industry": [
@@ -1104,6 +1104,20 @@
       "href": "/industry/state//report.html",
       "legacy_hrefs": [
         "/industry/state/daily-report-sources.html"
+      ]
+    },
+    {
+      "title": "元宇宙（Metaverse）產業報告",
+      "summary": "報告日期：2026 年 8 月 10 日",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/元宇宙/$(date +%Y%m%d)/report.md",
+      "relative": "元宇宙/$(date +%Y%m%d)/report.md",
+      "group": "元宇宙",
+      "date": "$(date +%Y%m%d)",
+      "kind": "industry",
+      "href": "/industry/元宇宙//report.html",
+      "legacy_hrefs": [
+        "/industry/元宇宙/$(date +%Y%m%d)/report.html"
       ]
     }
   ],
