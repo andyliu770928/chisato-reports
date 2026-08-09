@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-10T04:02:20.215816",
+  "generatedAt": "2026-08-10T07:02:00.523722",
   "industryCount": 92,
-  "dailyCount": 88,
+  "dailyCount": 89,
   "deepCount": 4,
   "industry": [
     {
@@ -1122,6 +1122,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.10",
+      "summary": "AI 基礎建設持續發燒：騰訊傳將推出微信 AI 助手，為 AI 應用商機再添柴火，AI 伺服器、先進封裝（CoWoS/CoWoP）供應鏈後市持續看好，帶動相關概念股人氣不退",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-10.md",
+      "relative": "2026-08-10.md",
+      "date": "2026-08-10",
+      "kind": "daily",
+      "href": "/daily/20260810/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-10.html"
+      ]
+    },
     {
       "title": "2026.08.07",
       "summary": "Fed利率政策陷入僵局：聯準會利率連續第五次凍漲，但鷹派聲音升高，債市波動加劇，美股出現明顯震盪",
