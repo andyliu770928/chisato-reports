@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-10T07:02:00.523722",
+  "generatedAt": "2026-08-11T07:01:51.392467",
   "industryCount": 92,
-  "dailyCount": 89,
+  "dailyCount": 90,
   "deepCount": 4,
   "industry": [
     {
@@ -1122,6 +1122,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.11",
+      "summary": "AI與半導體仍是多頭主軸：輝達執行長黃仁勳公開力挺台灣供應鏈，瑞銀同步發布報告肯定台灣AI晶片需求強度，顯示國際機構對台灣半導體產業中長期看好態勢明確，但市場同時警示追漲過頭風...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-11.md",
+      "relative": "2026-08-11.md",
+      "date": "2026-08-11",
+      "kind": "daily",
+      "href": "/daily/20260811/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-11.html"
+      ]
+    },
     {
       "title": "2026.08.10",
       "summary": "AI 基礎建設持續發燒：騰訊傳將推出微信 AI 助手，為 AI 應用商機再添柴火，AI 伺服器、先進封裝（CoWoS/CoWoP）供應鏈後市持續看好，帶動相關概念股人氣不退",
