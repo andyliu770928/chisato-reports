@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-11T07:01:51.392467",
+  "generatedAt": "2026-08-12T07:02:19.215730",
   "industryCount": 92,
-  "dailyCount": 90,
+  "dailyCount": 91,
   "deepCount": 4,
   "industry": [
     {
@@ -1122,6 +1122,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.12",
+      "summary": "AI 概念股高檔震盪，審視供應鏈位置成關鍵：AI 題材熱度不減，但高本益比族群易受法說展望、客戶拉貨節奏或美股估值牽動而出現劇烈波動，市場開始重視區分誰具備真正的技術門檻、客戶...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-12.md",
+      "relative": "2026-08-12.md",
+      "date": "2026-08-12",
+      "kind": "daily",
+      "href": "/daily/20260812/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-12.html"
+      ]
+    },
     {
       "title": "2026.08.11",
       "summary": "AI與半導體仍是多頭主軸：輝達執行長黃仁勳公開力挺台灣供應鏈，瑞銀同步發布報告肯定台灣AI晶片需求強度，顯示國際機構對台灣半導體產業中長期看好態勢明確，但市場同時警示追漲過頭風...",
