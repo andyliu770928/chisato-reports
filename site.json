@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-12T07:02:19.215730",
+  "generatedAt": "2026-08-13T07:02:22.637879",
   "industryCount": 92,
-  "dailyCount": 91,
+  "dailyCount": 92,
   "deepCount": 4,
   "industry": [
     {
@@ -1122,6 +1122,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.13",
+      "summary": "由於本系統無法即時存取今日（2026-08-13）最新報價數據與即時行情，本早報所引用之相關數據均為歷史資料，請投資人注意時效性",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-13.md",
+      "relative": "2026-08-13.md",
+      "date": "2026-08-13",
+      "kind": "daily",
+      "href": "/daily/20260813/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-13.html"
+      ]
+    },
     {
       "title": "2026.08.12",
       "summary": "AI 概念股高檔震盪，審視供應鏈位置成關鍵：AI 題材熱度不減，但高本益比族群易受法說展望、客戶拉貨節奏或美股估值牽動而出現劇烈波動，市場開始重視區分誰具備真正的技術門檻、客戶...",
