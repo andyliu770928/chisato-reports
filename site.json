@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-14T04:11:54.721632",
+  "generatedAt": "2026-08-14T07:02:27.421758",
   "industryCount": 93,
-  "dailyCount": 92,
+  "dailyCount": 93,
   "deepCount": 4,
   "industry": [
     {
@@ -1134,6 +1134,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.14",
+      "summary": "內容整理中。",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-14.md",
+      "relative": "2026-08-14.md",
+      "date": "2026-08-14",
+      "kind": "daily",
+      "href": "/daily/20260814/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-14.html"
+      ]
+    },
     {
       "title": "2026.08.13",
       "summary": "由於本系統無法即時存取今日（2026-08-13）最新報價數據與即時行情，本早報所引用之相關數據均為歷史資料，請投資人注意時效性",
