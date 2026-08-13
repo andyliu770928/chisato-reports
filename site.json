@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-13T07:02:22.637879",
-  "industryCount": 92,
+  "generatedAt": "2026-08-14T04:11:42.901871",
+  "industryCount": 93,
   "dailyCount": 92,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "被動元件產業深度研究報告",
+      "summary": "報告日期：2026 年 8 月 14 日",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/被動元件/20260814/report.md",
+      "relative": "被動元件/20260814/report.md",
+      "group": "被動元件",
+      "date": "20260814",
+      "kind": "industry",
+      "href": "/industry/被動元件/20260814/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "印刷電路板（PCB）",
       "summary": "AI 伺服器規格升級正在重構 PCB 產業價值鏈——從景氣循環股轉為結構性成長股。2026 年全球 PCB 產值正式突破千億美元大關，台灣居全球產值近三成，掌握從 CCL 到 ABF 載板最完整供應鏈。當前最大瓶頸在 HVLP 銅箔（供需缺口 48%）、Low Dk 玻纖布（T-Glass，交期 30 週以上）與 ABF 載板（2027 年缺口 21–27%），支撐價格漲勢延續至 2027 年。AI 伺服器 PCB 層數從 16–20 層跳升至 28–36 層，Rubin 晶片所需 ABF 面積較 Blackwell 多 2.2 倍，規格升級斜率陡峭。首選 ABF 載板龍頭欣興（3037）與高階 CCL 供需最緊的台光電（2383）。",
