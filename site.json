@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-14T07:02:27.421758",
-  "industryCount": 93,
+  "generatedAt": "2026-08-15T04:04:12.395719",
+  "industryCount": 94,
   "dailyCount": 93,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "航太週邊產業深度研究報告",
+      "summary": "日期： 2026年8月15日",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/航太週邊/20260815/report.md",
+      "relative": "航太週邊/20260815/report.md",
+      "group": "航太週邊",
+      "date": "20260815",
+      "kind": "industry",
+      "href": "/industry/航太週邊/20260815/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "被動元件產業深度研究報告",
       "summary": "報告日期：2026 年 8 月 14 日",
