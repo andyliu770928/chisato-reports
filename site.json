@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T04:02:23.437425",
+  "generatedAt": "2026-08-17T07:02:37.186477",
   "industryCount": 95,
-  "dailyCount": 93,
+  "dailyCount": 94,
   "deepCount": 4,
   "industry": [
     {
@@ -1158,6 +1158,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.17",
+      "summary": "台股強勢表態：上週加權指數週漲1585.1點（+3.58%）收在45811.01點，三大法人單週狂買2645.36億元，資金明顯回流跡象",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-17.md",
+      "relative": "2026-08-17.md",
+      "date": "2026-08-17",
+      "kind": "daily",
+      "href": "/daily/20260817/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-17.html"
+      ]
+    },
     {
       "title": "2026.08.14",
       "summary": "內容整理中。",
