@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-15T04:04:25.287503",
-  "industryCount": 94,
+  "generatedAt": "2026-08-17T04:02:13.346059",
+  "industryCount": 95,
   "dailyCount": 93,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "電腦及週邊設備產業",
+      "summary": "AI伺服器超級週期來臨，台灣ODM/OEM掌握全球90%以上AI伺服器訂單，廣達、緯創、鴻海進入營收爆發期。AI PC滲透率正式突破50%成為主流，華碩AI PC出貨年增18%遠優於大盤。NVIDIA Rubin平台8月進入量產階段，將帶動新一波硬體軍備競賽，台灣供應鏈為最大贏家。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/電腦及週邊設備/20260817/report.md",
+      "relative": "電腦及週邊設備/20260817/report.md",
+      "group": "電腦及週邊設備",
+      "date": "2026-08-17",
+      "kind": "industry",
+      "href": "/industry/電腦及週邊設備/20260817/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "航太週邊產業深度研究報告",
       "summary": "日期： 2026年8月15日",
