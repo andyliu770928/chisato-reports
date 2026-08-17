@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T07:02:37.186477",
-  "industryCount": 95,
+  "generatedAt": "2026-08-18T04:04:44.615455",
+  "industryCount": 96,
   "dailyCount": 94,
   "deepCount": 4,
   "industry": [
@@ -1113,6 +1113,20 @@
       "kind": "industry",
       "href": "/industry/AI伺服器與資料中心/20260401/report.html",
       "legacy_hrefs": []
+    },
+    {
+      "title": "印刷電路板（PCB）",
+      "summary": "AI 伺服器規格升級持續推動 PCB 產業結構性成長，2025 年全球 PCB 產值估達 849 億美元，年增 15.4%，2026 年正式突破千億美元大關。ABF 載板供需缺口預估 2025 年達 20–25%，AI 伺服器 PCB 層數從傳統 16–20 層升至 28–36 層，規格升級斜率陡峭。台灣居全球最大 PCB 生產國（含載板），掌握完整供應鏈，首選 ABF 載板龍頭欣興（3037）與高階 CCL 供需最緊的台光電（2383）。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20260818/report.md",
+      "relative": "印刷電路板/20260818/report.md",
+      "group": "印刷電路板",
+      "date": "2025-08-18",
+      "kind": "industry",
+      "href": "/industry/印刷電路板/20250818/report.html",
+      "legacy_hrefs": [
+        "/industry/印刷電路板/20260818/report.html"
+      ]
     },
     {
       "title": "印刷電路板（PCB）",
