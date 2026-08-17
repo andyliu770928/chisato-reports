@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T04:04:54.644958",
+  "generatedAt": "2026-08-18T07:02:38.480321",
   "industryCount": 96,
-  "dailyCount": 94,
+  "dailyCount": 95,
   "deepCount": 4,
   "industry": [
     {
@@ -1172,6 +1172,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.18",
+      "summary": "AI 伺服器供應鏈全線爆發：輝達 GB300 進入實質量產期，散熱、PCB、光通訊、被動元件等周邊零組件全面受惠，資金全面回流電子股，帶動臺股單日狂飆 1,783 點",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-18.md",
+      "relative": "2026-08-18.md",
+      "date": "2026-08-18",
+      "kind": "daily",
+      "href": "/daily/20260818/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-18.html"
+      ]
+    },
     {
       "title": "2026.08.17",
       "summary": "台股強勢表態：上週加權指數週漲1585.1點（+3.58%）收在45811.01點，三大法人單週狂買2645.36億元，資金明顯回流跡象",

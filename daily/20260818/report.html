@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>2026.08.18</title>
+  <link rel="icon" type="image/svg+xml" href="/chisato-reports/assets/favicon.svg" />
+  <link rel="stylesheet" href="/chisato-reports/assets/style.css" />
+</head>
+<body>
+  <main class="page report-page daily">
+    <header class="site-header">
+      <div class="brand-bar">
+        <a class="brand" href="/chisato-reports/index.html">小千研究報告站</a>
+        <nav class="site-nav"><a href="/chisato-reports/index.html">首頁</a><a href="/chisato-reports/industry/index.html">產業報告</a><a href="/chisato-reports/daily/index.html">每日早報</a><a href="/chisato-reports/deep-research/index.html">主題研究</a></nav>
+      </div>
+      <div class="breadcrumb">每日早報 / 2026-08-18</div>
+      <h1>2026.08.18</h1>
+      
+    </header>
+    <section class="content">
+      <article class="report-shell"><section class="report-top daily"><div class="report-meta"><span class="chip">每日早報</span><span class="chip">2026.08.18</span></div><h1>2026.08.18</h1><p class="report-lead">AI 伺服器供應鏈全線爆發：輝達 GB300 進入實質量產期，散熱、PCB、光通訊、被動元件等周邊零組件全面受惠，資金全面回流電子股，帶動臺股單日狂飆 1,783 點</p></section><div class="report-frame"><section class="report-body"><h1>臺美市場早報 (2026-08-18)</h1>
+<hr />
+<h2>市場一週總覽 (Executive Summary)</h2>
+<h3>用3句話總結本週市場最核心的主題（Key Themes）</h3>
+<p><strong>1.</strong> <strong>AI 伺服器供應鏈全線爆發</strong>：輝達 GB300 進入實質量產期，散熱、PCB、光通訊、被動元件等周邊零組件全面受惠，資金全面回流電子股，帶動臺股單日狂飆 1,783 點。</p>
+<p><strong>2.</strong> <strong>被動元件廠 AI 突圍</strong>：鈺邦靠礦機練兵成功切入雲端供應鏈，三集瑞以電感小元件卡位 AI 賽道，顯示 AI 伺服器用量需求已從核心晶片擴散至整個被動元件供應鏈，需求量能暴增十倍。</p>
+<p><strong>3.</strong> <strong>Fed 鷹派抬頭衝擊美股</strong>：美國聯準會利率連五凍但 FOMC 內部鷹派聲量增強，美股重挫，道瓊急殺逾 1,100 點、費半崩逾 5%，需持續觀望美股今晚表現以判斷對明日臺股的影響程度。</p>
+<hr />
+<h2>核心投資機會矩陣 (由高分到低分排序)</h2>
+<table>
+<thead><tr><th>排名</th><th>事件/驅動因子</th><th>影響類型</th><th>綜合得分</th><th>關鍵受益標的 (Ticker)</th><th>簡短邏輯分析</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>GB300 實質量產帶動 AI 伺服器供應鏈全面起飛</td><td>實質需求</td><td><strong>9.0</strong></td><td>緯創 (3231)、廣達 (2382)、英業達 (2356)</td><td>GB300 進入實質量產，D1 德州新廠話題升溫，AI 伺服器 ODM 廠直接受惠，資金簇擁電子股</td></tr>
+<tr><td>2</td><td>AI 伺服器用量暴增，記憶體/PCB/光通訊含量提升</td><td>實質需求</td><td><strong>8.0</strong></td><td>南亞科 (2408)、華邦電 (2344)、欣興 (3037)、台光電 (2383)、臻鼎-KY (4958)</td><td>AI 伺服器 HBM/PCB/光通訊含量較傳統伺服器倍增，相關供應商景氣循環向上的能見度明確</td></tr>
+<tr><td>3</td><td>被動元件廠切入雲端供應鏈，需求十倍跳增</td><td>實質需求</td><td><strong>7.5</strong></td><td>鈺邦 (6449)、三集瑞</td><td>鈺邦從挖礦機累積雲端客戶經驗切入 AI 供應鏈；三集瑞以電感產品切入 AI 賽道，開啟新一波營運動能</td></tr>
+<tr><td>4</td><td>先進封裝 CoWoS/CoWoP 持續主導散熱與載板需求</td><td>中長期題材</td><td><strong>7.0</strong></td><td>欣興 (3037)、景碩 (</td></tr>
+</tbody>
+</table></section></div></article>
+    </section>
+  </main>
+  <script>
+(function(){
+  var btns = document.querySelectorAll('.filter-btn');
+  var grid = document.querySelector('.industry-index .entry-grid');
+  var count = document.getElementById('filter-count');
+  if(!btns.length || !grid) return;
+  function applyFilter(group) {
+    var cards = grid.querySelectorAll('.entry-card');
+    var shown = 0;
+    cards.forEach(function(card){
+      var match = !group || card.getAttribute('data-group') === group;
+      card.classList.toggle('hidden-by-filter', !match);
+      if(match) shown++;
+    });
+    btns.forEach(function(b){
+      b.classList.toggle('active', (b.getAttribute('data-group')||'') === (group||''));
+    });
+    if(count) count.textContent = shown > 0 ? shown + ' 篇' : '';
+  }
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      applyFilter(btn.getAttribute('data-group'));
+    });
+  });
+  applyFilter('');
+})();
+  </script>
+</body>
+</html>
