@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T07:02:38.480321",
+  "generatedAt": "2026-08-19T07:02:18.479781",
   "industryCount": 96,
-  "dailyCount": 95,
+  "dailyCount": 96,
   "deepCount": 4,
   "industry": [
     {
@@ -1172,6 +1172,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.19",
+      "summary": "AI伺服器供應鏈持續吸金：廣達（2382）、英業達（2356）、緯穎（6669）等AI伺服器代工廠承接微軟、Google、Meta等大廠ODM訂單，AI相關營收占比攀升，資金持...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-19.md",
+      "relative": "2026-08-19.md",
+      "date": "2026-08-19",
+      "kind": "daily",
+      "href": "/daily/20260819/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-19.html"
+      ]
+    },
     {
       "title": "2026.08.18",
       "summary": "AI 伺服器供應鏈全線爆發：輝達 GB300 進入實質量產期，散熱、PCB、光通訊、被動元件等周邊零組件全面受惠，資金全面回流電子股，帶動臺股單日狂飆 1,783 點",
