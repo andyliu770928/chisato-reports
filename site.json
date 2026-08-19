@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T07:02:18.479781",
+  "generatedAt": "2026-08-20T07:02:07.305524",
   "industryCount": 96,
-  "dailyCount": 96,
+  "dailyCount": 97,
   "deepCount": 4,
   "industry": [
     {
@@ -1172,6 +1172,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.20",
+      "summary": "AI伺服器供應鏈持續吸金：廣達（2382）、緯創（3231）、緯穎（6669）等代工大廠持續受惠於輝達GPU訂單，AI伺服器佔緯穎營收已逾七成，成為臺股資金主流方向之一",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-20.md",
+      "relative": "2026-08-20.md",
+      "date": "2026-08-20",
+      "kind": "daily",
+      "href": "/daily/20260820/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-20.html"
+      ]
+    },
     {
       "title": "2026.08.19",
       "summary": "AI伺服器供應鏈持續吸金：廣達（2382）、英業達（2356）、緯穎（6669）等AI伺服器代工廠承接微軟、Google、Meta等大廠ODM訂單，AI相關營收占比攀升，資金持...",
