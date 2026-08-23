@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T04:02:12.626873",
+  "generatedAt": "2026-08-24T07:01:18.487604",
   "industryCount": 97,
-  "dailyCount": 98,
+  "dailyCount": 99,
   "deepCount": 4,
   "industry": [
     {
@@ -1184,6 +1184,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.24",
+      "summary": "AI 伺服器供應鏈資金輪動加速：市場資金開始從核心龍頭（台積電、鴻海）向供應鏈全面擴散，緯穎、創意、世芯-KY 等個股接棒態勢明確，GB300 出貨進入加速期為關鍵催化劑",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-24.md",
+      "relative": "2026-08-24.md",
+      "date": "2026-08-24",
+      "kind": "daily",
+      "href": "/daily/20260824/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-24.html"
+      ]
+    },
     {
       "title": "2026.08.21",
       "summary": "台股高檔震盪修正：台指期結算日波動加劇，本週加權指數一度跌破季線關卡，AI概念股短線承壓，盤面資金出現輪動跡象",
