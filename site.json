@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T04:03:13.705826",
+  "generatedAt": "2026-08-26T07:00:50.657998",
   "industryCount": 98,
-  "dailyCount": 100,
+  "dailyCount": 101,
   "deepCount": 4,
   "industry": [
     {
@@ -1196,6 +1196,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.26",
+      "summary": "（今日無相關新聞素材，無法填寫）",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-26.md",
+      "relative": "2026-08-26.md",
+      "date": "2026-08-26",
+      "kind": "daily",
+      "href": "/daily/20260826/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-26.html"
+      ]
+    },
     {
       "title": "2026.08.25",
       "summary": "> 【說明】 由於今日（2026-08-25）為系統設定之未來日期，且用戶已明示「今日無相關新聞」，本報告依據數據時效紀律原則，如實說明如下：",
@@ -2481,19 +2494,6 @@
       "href": "/daily/20260407/report.html",
       "legacy_hrefs": [
         "/daily/2026-04-07.html"
-      ]
-    },
-    {
-      "title": "2026.04.06",
-      "summary": "地緣政治暫時降溫：川普對伊朗態度放緩，油價回落至 110 美元以下，全球股市鬆一口氣，科技股反彈",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/20260406.md",
-      "relative": "20260406.md",
-      "date": "20260406",
-      "kind": "daily",
-      "href": "/daily/20260406/report.html",
-      "legacy_hrefs": [
-        "/daily/20260406.html"
       ]
     }
   ],
