@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-25T07:00:58.883895",
-  "industryCount": 97,
+  "generatedAt": "2026-08-26T04:02:57.068227",
+  "industryCount": 98,
   "dailyCount": 100,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "再生醫療產業報告",
+      "summary": "報告日期： 2026 年 8 月 26 日",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/再生醫療/20260826/report.md",
+      "relative": "再生醫療/20260826/report.md",
+      "group": "再生醫療",
+      "date": "20260826",
+      "kind": "industry",
+      "href": "/industry/再生醫療/20260826/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "交通運輸及航運產業研究報告",
       "summary": "報告日期：2026年8月24日",
