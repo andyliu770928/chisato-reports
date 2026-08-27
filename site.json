@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-28T04:01:14.842442",
+  "generatedAt": "2026-08-28T07:00:57.540460",
   "industryCount": 98,
-  "dailyCount": 101,
+  "dailyCount": 102,
   "deepCount": 4,
   "industry": [
     {
@@ -1196,6 +1196,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.28",
+      "summary": "（本報告時間點為 2026-08-28，系統尚無法存取此日期之真實市場數據與新聞）",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-28.md",
+      "relative": "2026-08-28.md",
+      "date": "2026-08-28",
+      "kind": "daily",
+      "href": "/daily/20260828/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-28.html"
+      ]
+    },
     {
       "title": "2026.08.26",
       "summary": "（今日無相關新聞素材，無法填寫）",
@@ -2481,19 +2494,6 @@
       "href": "/daily/20260408/report.html",
       "legacy_hrefs": [
         "/daily/2026-04-08.html"
-      ]
-    },
-    {
-      "title": "2026.04.07",
-      "summary": "今天的市場核心主題圍繞著美國經濟數據與投資者情緒的波動，特別是在元大證券推出美股ETF的背景下，市場活躍度有所提升。台灣與美國市場的半導體及AI相關板塊持續受到關注，並展現出投...",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-07.md",
-      "relative": "2026-04-07.md",
-      "date": "2026-04-07",
-      "kind": "daily",
-      "href": "/daily/20260407/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-04-07.html"
       ]
     }
   ],
