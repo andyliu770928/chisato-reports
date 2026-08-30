@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-29T04:04:17.303116",
+  "generatedAt": "2026-08-31T07:01:27.268589",
   "industryCount": 99,
-  "dailyCount": 102,
+  "dailyCount": 103,
   "deepCount": 4,
   "industry": [
     {
@@ -1208,6 +1208,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.08.31",
+      "summary": "本報告因資料時效限制，無法提供 2026-08-31 之實際市場數據",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-08-31.md",
+      "relative": "2026-08-31.md",
+      "date": "2026-08-31",
+      "kind": "daily",
+      "href": "/daily/20260831/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-08-31.html"
+      ]
+    },
     {
       "title": "2026.08.28",
       "summary": "（本報告時間點為 2026-08-28，系統尚無法存取此日期之真實市場數據與新聞）",
@@ -2493,19 +2506,6 @@
       "href": "/daily/20260409/report.html",
       "legacy_hrefs": [
         "/daily/2026-04-09.html"
-      ]
-    },
-    {
-      "title": "2026.04.08",
-      "summary": "一句話總結美股趨勢：Bullish",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-08.md",
-      "relative": "2026-04-08.md",
-      "date": "2026-04-08",
-      "kind": "daily",
-      "href": "/daily/20260408/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-04-08.html"
       ]
     }
   ],
