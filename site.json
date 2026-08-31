@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-01T04:01:14.366978",
+  "generatedAt": "2026-09-01T07:00:50.908943",
   "industryCount": 99,
-  "dailyCount": 103,
+  "dailyCount": 104,
   "deepCount": 4,
   "industry": [
     {
@@ -1208,6 +1208,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.09.01",
+      "summary": "【資料不足】：今日（2026-09-01）未接獲任何市場新聞或數據素材，無法進行本週市場主題分析",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-09-01.md",
+      "relative": "2026-09-01.md",
+      "date": "2026-09-01",
+      "kind": "daily",
+      "href": "/daily/20260901/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-09-01.html"
+      ]
+    },
     {
       "title": "2026.08.31",
       "summary": "本報告因資料時效限制，無法提供 2026-08-31 之實際市場數據",
@@ -2493,19 +2506,6 @@
       "href": "/daily/20260410/report.html",
       "legacy_hrefs": [
         "/daily/2026-04-10.html"
-      ]
-    },
-    {
-      "title": "2026.04.09",
-      "summary": "AI與半導體族群持續引爆市場熱情，臺積電(2330)大漲4.84%、聯發科(2454)飆升7.48%引領電子類股全面走揚",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-09.md",
-      "relative": "2026-04-09.md",
-      "date": "2026-04-09",
-      "kind": "daily",
-      "href": "/daily/20260409/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-04-09.html"
       ]
     }
   ],
