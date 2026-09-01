@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-02T04:02:46.895974",
+  "generatedAt": "2026-09-02T07:01:53.121620",
   "industryCount": 100,
-  "dailyCount": 104,
+  "dailyCount": 105,
   "deepCount": 4,
   "industry": [
     {
@@ -1220,6 +1220,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.09.02",
+      "summary": "輝達財報優於預期但美股觀望：輝達最新季度營收達962.2億美元（年增106%），EPS 2.22美元皆超市場預估，但投資人在財報揭曉前謹慎布局，美股三大指數同步收低，顯示高通膨...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-09-02.md",
+      "relative": "2026-09-02.md",
+      "date": "2026-09-02",
+      "kind": "daily",
+      "href": "/daily/20260902/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-09-02.html"
+      ]
+    },
     {
       "title": "2026.09.01",
       "summary": "【資料不足】：今日（2026-09-01）未接獲任何市場新聞或數據素材，無法進行本週市場主題分析",
@@ -2505,19 +2518,6 @@
       "href": "/daily/20260413/report.html",
       "legacy_hrefs": [
         "/daily/2026-04-13.html"
-      ]
-    },
-    {
-      "title": "2026.04.10",
-      "summary": "美股高檔震盪：美股在歷史高點附近整理，標普500連四紅但那斯達克小幅收黑，反映市場對科技股估值產生分歧",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-10.md",
-      "relative": "2026-04-10.md",
-      "date": "2026-04-10",
-      "kind": "daily",
-      "href": "/daily/20260410/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-04-10.html"
       ]
     }
   ],
