@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-01T07:00:50.908943",
-  "industryCount": 99,
+  "generatedAt": "2026-09-02T04:02:28.279832",
+  "industryCount": 100,
   "dailyCount": 104,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "太空衛星科技產業報告",
+      "summary": "報告日期：2026年9月2日",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/太空衛星科技/20260902/report.md",
+      "relative": "太空衛星科技/20260902/report.md",
+      "group": "太空衛星科技",
+      "date": "20260902",
+      "kind": "industry",
+      "href": "/industry/太空衛星科技/20260902/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "印刷電路板（PCB）產業深度報告",
       "summary": "報告日期：2026年8月29日",
