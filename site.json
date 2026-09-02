@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-02T07:01:53.121620",
+  "generatedAt": "2026-09-03T07:01:45.805239",
   "industryCount": 100,
-  "dailyCount": 105,
+  "dailyCount": 106,
   "deepCount": 4,
   "industry": [
     {
@@ -1220,6 +1220,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.09.03",
+      "summary": "AI供應鏈動能持續：台灣半導體、伺服器、散熱等AI供應鏈仍是市場資金關注焦點，外資報告顯示台灣在全球AI硬體鏈的地位短期内難以被取代",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-09-03.md",
+      "relative": "2026-09-03.md",
+      "date": "2026-09-03",
+      "kind": "daily",
+      "href": "/daily/20260903/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-09-03.html"
+      ]
+    },
     {
       "title": "2026.09.02",
       "summary": "輝達財報優於預期但美股觀望：輝達最新季度營收達962.2億美元（年增106%），EPS 2.22美元皆超市場預估，但投資人在財報揭曉前謹慎布局，美股三大指數同步收低，顯示高通膨...",
@@ -2505,19 +2518,6 @@
       "href": "/daily/20260414/report.html",
       "legacy_hrefs": [
         "/daily/2026-04-14.html"
-      ]
-    },
-    {
-      "title": "2026.04.13",
-      "summary": "AI晶片需求持續爆發：台積電CoWoS先進封裝產能持續吃緊，輝達、AMD等客戶追加訂單，預估上半年營收將逐季創高，成為台股多頭領頭羊",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-13.md",
-      "relative": "2026-04-13.md",
-      "date": "2026-04-13",
-      "kind": "daily",
-      "href": "/daily/20260413/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-04-13.html"
       ]
     }
   ],
