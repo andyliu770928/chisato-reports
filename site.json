@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-04T07:02:04.163459",
-  "industryCount": 100,
+  "generatedAt": "2026-09-06T04:03:25.338686",
+  "industryCount": 101,
   "dailyCount": 107,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "【金融產業】",
+      "summary": "2026 年上半年 13 家金控累計大賺 4,408 億元（年增 101%），前 7 月年增更擴大至 124.78%，獲利動能創史上最強；IFRS 17/TW-ICS 正式接軌在即，壽險利差益將逐步釋放；金融股本益比、殖利率具吸引力，建議除息後伺機布局。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/金融/20260906/report.md",
+      "relative": "金融/20260906/report.md",
+      "group": "金融",
+      "date": "2026-09-06",
+      "kind": "industry",
+      "href": "/industry/金融/20260906/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "太空衛星科技產業報告",
       "summary": "報告日期：2026年9月2日",
@@ -1202,20 +1214,6 @@
       "href": "/industry/state//report.html",
       "legacy_hrefs": [
         "/industry/state/daily-report-sources.html"
-      ]
-    },
-    {
-      "title": "元宇宙（Metaverse）產業報告",
-      "summary": "報告日期：2026 年 8 月 10 日",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/元宇宙/$(date +%Y%m%d)/report.md",
-      "relative": "元宇宙/$(date +%Y%m%d)/report.md",
-      "group": "元宇宙",
-      "date": "$(date +%Y%m%d)",
-      "kind": "industry",
-      "href": "/industry/元宇宙//report.html",
-      "legacy_hrefs": [
-        "/industry/元宇宙/$(date +%Y%m%d)/report.html"
       ]
     }
   ],
