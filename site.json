@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-07T04:08:13.846480",
+  "generatedAt": "2026-09-07T07:02:08.655411",
   "industryCount": 102,
-  "dailyCount": 107,
+  "dailyCount": 108,
   "deepCount": 4,
   "industry": [
     {
@@ -1216,6 +1216,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.09.07",
+      "summary": "近期市場缺乏來自 2026-09-05 至 2026-09-07 期間之實質報價或新聞素材，導致本報告數據覆蓋率不足，部分區塊暫時留空，待後續即時資料補足",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-09-07.md",
+      "relative": "2026-09-07.md",
+      "date": "2026-09-07",
+      "kind": "daily",
+      "href": "/daily/20260907/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-09-07.html"
+      ]
+    },
     {
       "title": "2026.09.04",
       "summary": "AI伺服器與半導體供應鏈仍是市場主線：儘管短期面臨台積電嘉義廠工安意外與記憶體族群回檔壓力，但AI伺服器、先進封裝（CoWoS）、ABF載板等題材持續獲得資金青睞，外資與法人對...",
@@ -2501,19 +2514,6 @@
       "href": "/daily/20260416/report.html",
       "legacy_hrefs": [
         "/daily/2026-04-16.html"
-      ]
-    },
-    {
-      "title": "2026.04.15",
-      "summary": "AI伺服器供應鏈持續吸金：鴻海成交量創近期高峰（4478口），反映市場對GB200供應鏈的高度期待，AI基礎建設長線需求明確",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-15.md",
-      "relative": "2026-04-15.md",
-      "date": "2026-04-15",
-      "kind": "daily",
-      "href": "/daily/20260415/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-04-15.html"
       ]
     }
   ],
