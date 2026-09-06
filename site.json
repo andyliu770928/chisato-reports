@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-06T04:03:35.072404",
-  "industryCount": 101,
+  "generatedAt": "2026-09-07T04:07:14.035957",
+  "industryCount": 102,
   "dailyCount": 107,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "半導體",
+      "summary": "全球 AI 基礎建設狂潮下，半導體超級週期已確認啟動，台灣供應鏈從 IC 設計、先進製程、先進封裝到材料設備全線受惠。台積電 2 奈米量產與先進封裝（CoWoS）產能開出是最強催化劑，2026 年台灣半導體產值估突破 7.1 兆元新台幣，建議優先布局設備、耗材與封測等「看不見但少不了」的隱形冠軍。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/半導體/20260907/report.md",
+      "relative": "半導體/20260907/report.md",
+      "group": "半導體",
+      "date": "2026-09-07",
+      "kind": "industry",
+      "href": "/industry/半導體/20260907/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【金融產業】",
       "summary": "2026 年上半年 13 家金控累計大賺 4,408 億元（年增 101%），前 7 月年增更擴大至 124.78%，獲利動能創史上最強；IFRS 17/TW-ICS 正式接軌在即，壽險利差益將逐步釋放；金融股本益比、殖利率具吸引力，建議除息後伺機布局。",
@@ -1200,20 +1212,6 @@
       "href": "/industry/印刷電路板/20250619/report.html",
       "legacy_hrefs": [
         "/industry/印刷電路板/20260619/report.html"
-      ]
-    },
-    {
-      "title": "被動元件產業報告 - 資料來源",
-      "summary": "國巨（2327）2026年Q1法說會，2026年4月15日",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/state/daily-report-sources.md",
-      "relative": "state/daily-report-sources.md",
-      "group": "state",
-      "date": "daily-report-sources",
-      "kind": "industry",
-      "href": "/industry/state//report.html",
-      "legacy_hrefs": [
-        "/industry/state/daily-report-sources.html"
       ]
     }
   ],
