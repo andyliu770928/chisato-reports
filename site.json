@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-07T16:01:06.622528",
-  "industryCount": 102,
+  "generatedAt": "2026-09-08T04:06:20.379774",
+  "industryCount": 103,
   "dailyCount": 108,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "資通訊安全",
+      "summary": "AI 攻擊工業化驅動全球資安支出年增 13.3%（Gartner 預估 2026 達 2,442 億美元），台灣受惠「資安即國安 2.0」、金管會後量子密碼遷移指引與 AI Agent 攻擊升溫三重利多，產值以 11–12% CAGR 穩健擴張，2026Q1 電腦及資訊服務業營業額已年增 12.21%。本土供應鏈以中華資安、安碁資訊為首選，精誠、宏碁資訊為次選。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/資通訊安全/20260908/report.md",
+      "relative": "資通訊安全/20260908/report.md",
+      "group": "資通訊安全",
+      "date": "2026-09-08",
+      "kind": "industry",
+      "href": "/industry/資通訊安全/20260908/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "半導體",
       "summary": "全球 AI 基礎建設狂潮下，半導體超級週期已確認啟動，台灣供應鏈從 IC 設計、先進製程、先進封裝到材料設備全線受惠。台積電 2 奈米量產與先進封裝（CoWoS）產能開出是最強催化劑，2026 年台灣半導體產值估突破 7.1 兆元新台幣，建議優先布局設備、耗材與封測等「看不見但少不了」的隱形冠軍。",
@@ -1198,20 +1210,6 @@
       "href": "/industry/印刷電路板/20250818/report.html",
       "legacy_hrefs": [
         "/industry/印刷電路板/20260818/report.html"
-      ]
-    },
-    {
-      "title": "印刷電路板（PCB）",
-      "summary": "AI 伺服器規格升級正在重構 PCB 產業的價值鏈——從景氣循環股轉為結構性成長股。台灣在高階 HDI、ABF 載板、高頻 CCL 擁有完整供應鏈，2025 年產值達 9,157 億元，年增 12.1%。當前最大瓶頸在 T-Glass 與高階銅箔短缺，支撑價格持續上漲至 2026 年下半年。首選 ABF 載板龍頭欣興（3037）與高階 CCL 供需最緊的台光電（2383）。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20260619/report.md",
-      "relative": "印刷電路板/20260619/report.md",
-      "group": "印刷電路板",
-      "date": "2025-06-19",
-      "kind": "industry",
-      "href": "/industry/印刷電路板/20250619/report.html",
-      "legacy_hrefs": [
-        "/industry/印刷電路板/20260619/report.html"
       ]
     }
   ],
