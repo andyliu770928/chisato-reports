@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-08T04:07:20.562017",
+  "generatedAt": "2026-09-08T07:01:56.656911",
   "industryCount": 103,
-  "dailyCount": 108,
+  "dailyCount": 109,
   "deepCount": 4,
   "industry": [
     {
@@ -1214,6 +1214,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.09.08",
+      "summary": "AI ASIC 生態系成形：輝達（NVIDIA）以 129 億美元收購 Hugging Face，並於最新一季繳出資料中心營收 890 億美元的強勁成績單，市場焦點由 GPU...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-09-08.md",
+      "relative": "2026-09-08.md",
+      "date": "2026-09-08",
+      "kind": "daily",
+      "href": "/daily/20260908/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-09-08.html"
+      ]
+    },
     {
       "title": "2026.09.07",
       "summary": "AI 半導體擴產潮不減：景碩砸 235 億元擴 ABF 載板產能，搭配台積電資本支出擴張、Google／微軟／AWS 持續投入 AI 系統整合，台廠載板與廠務工程族群進入新一輪...",
@@ -2499,19 +2512,6 @@
       "href": "/daily/20260417/report.html",
       "legacy_hrefs": [
         "/daily/2026-04-17.html"
-      ]
-    },
-    {
-      "title": "2026.04.16",
-      "summary": "台積電股價站上 2080 元大關，成交量創近期新高達 7276 張，顯示國際資金持續湧入半導體供應鏈，AI 晶片需求預期支撐股價走勢",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-16.md",
-      "relative": "2026-04-16.md",
-      "date": "2026-04-16",
-      "kind": "daily",
-      "href": "/daily/20260416/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-04-16.html"
       ]
     }
   ],
