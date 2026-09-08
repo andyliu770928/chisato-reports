@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-08T07:01:56.656911",
+  "generatedAt": "2026-09-09T07:02:27.043923",
   "industryCount": 103,
-  "dailyCount": 109,
+  "dailyCount": 110,
   "deepCount": 4,
   "industry": [
     {
@@ -1214,6 +1214,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.09.09",
+      "summary": "AI 基礎建設持續吸金，記憶體與先進封裝成新瓶頸：從 HBM、DRAM、NAND 到 CoWoS/CoWoP 與 ABF 載板，整個 AI 算力供應鏈全線吃緊，台股半導體與載板...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-09-09.md",
+      "relative": "2026-09-09.md",
+      "date": "2026-09-09",
+      "kind": "daily",
+      "href": "/daily/20260909/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-09-09.html"
+      ]
+    },
     {
       "title": "2026.09.08",
       "summary": "AI ASIC 生態系成形：輝達（NVIDIA）以 129 億美元收購 Hugging Face，並於最新一季繳出資料中心營收 890 億美元的強勁成績單，市場焦點由 GPU...",
@@ -2499,19 +2512,6 @@
       "href": "/daily/20260420/report.html",
       "legacy_hrefs": [
         "/daily/2026-04-20.html"
-      ]
-    },
-    {
-      "title": "2026.04.17",
-      "summary": "AI伺服器需求持續火熱，帶領臺灣半導體與電子供應鏈基本面轉強，台積電、鴻海、廣達等指標股價維持高檔格局",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-17.md",
-      "relative": "2026-04-17.md",
-      "date": "2026-04-17",
-      "kind": "daily",
-      "href": "/daily/20260417/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-04-17.html"
       ]
     }
   ],
