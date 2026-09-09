@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-09T07:02:27.043923",
-  "industryCount": 103,
+  "generatedAt": "2026-09-10T04:03:18.092141",
+  "industryCount": 104,
   "dailyCount": 110,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "休閒娛樂",
+      "summary": "2026 年休閒娛樂產業呈現「全球化擴張（遊戲授權/體感設備）+ 在地結構轉型（觀光逆差/國片崛起）+ 體驗型內容復甦（主題樂園/中職）」三條主軸，最具投資價值的是具備海外擴張能力的遊戲與體感設備商。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/休閒娛樂/20260910/report.md",
+      "relative": "休閒娛樂/20260910/report.md",
+      "group": "休閒娛樂",
+      "date": "2026-09-10",
+      "kind": "industry",
+      "href": "/industry/休閒娛樂/20260910/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "資通訊安全",
       "summary": "AI 攻擊工業化驅動全球資安支出年增 13.3%（Gartner 預估 2026 達 2,442 億美元），台灣受惠「資安即國安 2.0」、金管會後量子密碼遷移指引與 AI Agent 攻擊升溫三重利多，產值以 11–12% CAGR 穩健擴張，2026Q1 電腦及資訊服務業營業額已年增 12.21%。本土供應鏈以中華資安、安碁資訊為首選，精誠、宏碁資訊為次選。",
@@ -1197,20 +1209,6 @@
       "kind": "industry",
       "href": "/industry/AI伺服器與資料中心/20260401/report.html",
       "legacy_hrefs": []
-    },
-    {
-      "title": "印刷電路板（PCB）",
-      "summary": "AI 伺服器規格升級持續推動 PCB 產業結構性成長，2025 年全球 PCB 產值估達 849 億美元，年增 15.4%，2026 年正式突破千億美元大關。ABF 載板供需缺口預估 2025 年達 20–25%，AI 伺服器 PCB 層數從傳統 16–20 層升至 28–36 層，規格升級斜率陡峭。台灣居全球最大 PCB 生產國（含載板），掌握完整供應鏈，首選 ABF 載板龍頭欣興（3037）與高階 CCL 供需最緊的台光電（2383）。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20260818/report.md",
-      "relative": "印刷電路板/20260818/report.md",
-      "group": "印刷電路板",
-      "date": "2025-08-18",
-      "kind": "industry",
-      "href": "/industry/印刷電路板/20250818/report.html",
-      "legacy_hrefs": [
-        "/industry/印刷電路板/20260818/report.html"
-      ]
     }
   ],
   "daily": [
