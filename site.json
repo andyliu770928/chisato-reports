@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T07:01:18.764374",
+  "generatedAt": "2026-09-11T07:02:21.685654",
   "industryCount": 103,
-  "dailyCount": 111,
+  "dailyCount": 112,
   "deepCount": 4,
   "industry": [
     {
@@ -1214,6 +1214,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.09.11",
+      "summary": "AI 伺服器需求爆發持續擴大，Dell 上季 AI 伺服器營收年增 757%，緯穎（4953）GB300 出貨進入加速期，台股 ODM 族群獲長線訂單能見度加持",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-09-11.md",
+      "relative": "2026-09-11.md",
+      "date": "2026-09-11",
+      "kind": "daily",
+      "href": "/daily/20260911/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-09-11.html"
+      ]
+    },
     {
       "title": "2026.09.10",
       "summary": "AI 半導體與伺服器鏈仍是盤面主軸：輝達財報優於預期加上 OpenAI 新一代模型推進，帶動台積電(2330)、廣達(2382)、緯穎(4953)等權值股重回多頭軌道，AI 基...",
@@ -2499,19 +2512,6 @@
       "href": "/daily/20260423/report.html",
       "legacy_hrefs": [
         "/daily/2026-04-23.html"
-      ]
-    },
-    {
-      "title": "2026.04.21",
-      "summary": "半導體供應鏈仍是市場重心：台積電(2330)成交量創波段新高至5265口，顯示法人資金持續青睞AI相關供應鏈，股價2025元附近高檔整理，多頭格局未變",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-21.md",
-      "relative": "2026-04-21.md",
-      "date": "2026-04-21",
-      "kind": "daily",
-      "href": "/daily/20260421/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-04-21.html"
       ]
     }
   ],

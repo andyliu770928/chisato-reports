@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>2026.09.11</title>
+  <link rel="icon" type="image/svg+xml" href="/chisato-reports/assets/favicon.svg" />
+  <link rel="stylesheet" href="/chisato-reports/assets/style.css" />
+</head>
+<body>
+  <main class="page report-page daily">
+    <header class="site-header">
+      <div class="brand-bar">
+        <a class="brand" href="/chisato-reports/index.html">小千研究報告站</a>
+        <nav class="site-nav"><a href="/chisato-reports/index.html">首頁</a><a href="/chisato-reports/industry/index.html">產業報告</a><a href="/chisato-reports/daily/index.html">每日早報</a><a href="/chisato-reports/deep-research/index.html">主題研究</a></nav>
+      </div>
+      <div class="breadcrumb">每日早報 / 2026-09-11</div>
+      <h1>2026.09.11</h1>
+      
+    </header>
+    <section class="content">
+      <article class="report-shell"><section class="report-top daily"><div class="report-meta"><span class="chip">每日早報</span><span class="chip">2026.09.11</span></div><h1>2026.09.11</h1><p class="report-lead">AI 伺服器需求爆發持續擴大，Dell 上季 AI 伺服器營收年增 757%，緯穎（4953）GB300 出貨進入加速期，台股 ODM 族群獲長線訂單能見度加持</p></section><div class="report-frame"><section class="report-body"><h1>臺美市場早報 (2026-09-11)</h1>
+<hr />
+<h2>市場一週總覽 (Executive Summary)</h2>
+<h3>用3句話總結本週市場最核心的主題（Key Themes）</h3>
+<p><strong>1.</strong> <strong>AI 伺服器需求爆發持續擴大，Dell 上季 AI 伺服器營收年增 757%，緯穎（4953）GB300 出貨進入加速期，台股 ODM 族群獲長線訂單能見度加持。</strong></p>
+<p><strong>2.</strong> <strong>ABF 載板供需吃緊、CoWoP 新封裝路線浮上檯面，欣興（3037）、南電（8046）、景碩（3189）三雄報價皆處高檔，資金明顯回流先進封裝與載板次族群。</strong></p>
+<p><strong>3.</strong> <strong>美股面臨 Fed 鷹派與通膨頑強雙重壓力，費城半導體單日崩逾 5%、道瓊急殺逾 1100 點，台股下週開盤須提防補壓與輝達財報後的波動外溢。</strong></p>
+<hr />
+<h2>核心投資機會矩陣 (由高分到低分排序)</h2>
+<table>
+<thead><tr><th>排名</th><th>事件/驅動因子</th><th>影響類型</th><th>綜合得分</th><th>關鍵受益標的 (Ticker)</th><th>簡短邏輯分析</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>Dell AI 伺服器 Q 營收年增 757%，GB300 出貨進入加速期</td><td>訂單驅動</td><td>9.0</td><td>廣達(2382) 336 元、緯穎(4953) 117.5 元、鴻海(2317) 251 元</td><td>Dell 財報釋出明確 AI 訂單訊號，緯穎 AI 營收占比逾七成，為輝達訂單能見度的代理指標；廣達、鴻海同步受惠雲端 CSP 拉貨。</td></tr>
+<tr><td>2</td><td>ABF 載板供需吃緊，AI/HBM 需求外溢</td><td>結構性成長</td><td>8.5</td><td>欣興(3037) 994 元、南電(8046) 1070 元、景碩(3189) 827 元</td><td>載板三雄報價同處歷史高位，ABF 與 CoWoS 同為 AI 算力硬體瓶頸，只要任一環節卡住整個系統即無法出貨，具結構性成長紅利。</td></tr>
+<tr><td>3</td><td>CoWoP 封裝新技術題材發酵</td><td>題材驅動</td><td>7.5</td><td>台積電(2330) 2450 元</td><td>CoWoP 有望跳過 ABF 載板瓶頸，台積電為核心試驗者；惟短期 CoWoS 仍為主流，僅以混合架構或特定模組並行試驗。</td></tr>
+<tr><td>4</td><td>被動元件接棒 AI，被動元件族群獲資金輪動</td><td>資金輪動</td><td>7.0</td></tr>
+</tbody>
+</table></section></div></article>
+    </section>
+  </main>
+  <script>
+(function(){
+  var btns = document.querySelectorAll('.filter-btn');
+  var grid = document.querySelector('.industry-index .entry-grid');
+  var count = document.getElementById('filter-count');
+  if(!btns.length || !grid) return;
+  function applyFilter(group) {
+    var cards = grid.querySelectorAll('.entry-card');
+    var shown = 0;
+    cards.forEach(function(card){
+      var match = !group || card.getAttribute('data-group') === group;
+      card.classList.toggle('hidden-by-filter', !match);
+      if(match) shown++;
+    });
+    btns.forEach(function(b){
+      b.classList.toggle('active', (b.getAttribute('data-group')||'') === (group||''));
+    });
+    if(count) count.textContent = shown > 0 ? shown + ' 篇' : '';
+  }
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      applyFilter(btn.getAttribute('data-group'));
+    });
+  });
+  applyFilter('');
+})();
+  </script>
+</body>
+</html>
