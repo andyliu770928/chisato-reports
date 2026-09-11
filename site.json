@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-11T07:02:21.685654",
-  "industryCount": 103,
+  "generatedAt": "2026-09-12T04:02:37.571024",
+  "industryCount": 104,
   "dailyCount": 112,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "被動元件",
+      "summary": "AI 伺服器與車用電子帶動高階 MLCC、鉭質電容、TLVR 電感用量爆發性成長，疊加銀/銅/錫等貴金屬成本推升，2026 年進入「結構性超級週期」，台廠龍頭受惠最深。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/被動元件/20260912/report.md",
+      "relative": "被動元件/20260912/report.md",
+      "group": "被動元件",
+      "date": "2026-09-12",
+      "kind": "industry",
+      "href": "/industry/被動元件/20260912/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "資通訊安全",
       "summary": "AI 攻擊工業化驅動全球資安支出年增 13.3%（Gartner 預估 2026 達 2,442 億美元），台灣受惠「資安即國安 2.0」、金管會後量子密碼遷移指引與 AI Agent 攻擊升溫三重利多，產值以 11–12% CAGR 穩健擴張，2026Q1 電腦及資訊服務業營業額已年增 12.21%。本土供應鏈以中華資安、安碁資訊為首選，精誠、宏碁資訊為次選。",
@@ -1197,20 +1209,6 @@
       "kind": "industry",
       "href": "/industry/AI伺服器與資料中心/20260401/report.html",
       "legacy_hrefs": []
-    },
-    {
-      "title": "印刷電路板（PCB）",
-      "summary": "AI 伺服器規格升級持續推動 PCB 產業結構性成長，2025 年全球 PCB 產值估達 849 億美元，年增 15.4%，2026 年正式突破千億美元大關。ABF 載板供需缺口預估 2025 年達 20–25%，AI 伺服器 PCB 層數從傳統 16–20 層升至 28–36 層，規格升級斜率陡峭。台灣居全球最大 PCB 生產國（含載板），掌握完整供應鏈，首選 ABF 載板龍頭欣興（3037）與高階 CCL 供需最緊的台光電（2383）。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20260818/report.md",
-      "relative": "印刷電路板/20260818/report.md",
-      "group": "印刷電路板",
-      "date": "2025-08-18",
-      "kind": "industry",
-      "href": "/industry/印刷電路板/20250818/report.html",
-      "legacy_hrefs": [
-        "/industry/印刷電路板/20260818/report.html"
-      ]
     }
   ],
   "daily": [
