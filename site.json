@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-12T04:03:40.519341",
-  "industryCount": 104,
+  "generatedAt": "2026-09-13T04:02:35.988881",
+  "industryCount": 105,
   "dailyCount": 112,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "台灣休閒娛樂產業",
+      "summary": "2026 上半年台灣休閒娛樂產業出現「出境報復性旅遊延燒、健身房國產化、國片票房爆發、遊戲族群強勢」的多元成長格局；出境人次年增 16.56%、健身房兩大龍頭 H1 營收同步雙位數成長、電影上半年票房年增 44.22%，首選規模優勢與品牌護城河兼具的旅行社與健身房龍頭。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/休閒娛樂/20260913/report.md",
+      "relative": "休閒娛樂/20260913/report.md",
+      "group": "休閒娛樂",
+      "date": "2026-09-13",
+      "kind": "industry",
+      "href": "/industry/休閒娛樂/20260913/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "被動元件",
       "summary": "AI 伺服器與車用電子帶動高階 MLCC、鉭質電容、TLVR 電感用量爆發性成長，疊加銀/銅/錫等貴金屬成本推升，2026 年進入「結構性超級週期」，台廠龍頭受惠最深。",
@@ -1196,18 +1208,6 @@
       "date": "2026-04-02",
       "kind": "industry",
       "href": "/industry/造紙產業/20260402/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "AI 伺服器與資料中心產業 2026 年展望",
-      "summary": "根據資策會 MIC 預估，2026 年全球伺服器出貨量將推升至 1,500 萬台，其中 AI 伺服器占比約 3 成、達 450 萬台，年增超過 20%。雲端服務業者（CSP）與主權雲需求維持熱...",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/AI伺服器與資料中心/20260401/report.md",
-      "relative": "AI伺服器與資料中心/20260401/report.md",
-      "group": "AI伺服器與資料中心",
-      "date": "20260401",
-      "kind": "industry",
-      "href": "/industry/AI伺服器與資料中心/20260401/report.html",
       "legacy_hrefs": []
     }
   ],
