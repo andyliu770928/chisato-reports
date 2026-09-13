@@ -1,21 +1,9 @@
 {
-  "generatedAt": "2026-09-14T04:03:31.961282",
-  "industryCount": 106,
-  "dailyCount": 112,
+  "generatedAt": "2026-09-14T07:02:04.028302",
+  "industryCount": 105,
+  "dailyCount": 113,
   "deepCount": 4,
   "industry": [
-    {
-      "title": "【金融產業 — 銀行聚焦篇】",
-      "summary": "2026 年上半年 13 家金控獲利 4,408 億元創同期新高、國銀 H1 海外分行稅前盈餘 552 億年增 14.7% 同寫新猷、三大純網銀累虧年減 18%、LINE Bank 連 7 月獲利；9 月除息旺季補漲行情啟動，金融指數一度衝破 3,500 點，富邦金、玉山金、彰銀、國票金等單月漲幅 18–24%。除息與填息節奏進入中後段，建議「正向布局」。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/金融/20260914/report.md",
-      "relative": "金融/20260914/report.md",
-      "group": "金融",
-      "date": "2026-09-14",
-      "kind": "industry",
-      "href": "/industry/金融/20260914/report.html",
-      "legacy_hrefs": []
-    },
     {
       "title": "台灣休閒娛樂產業",
       "summary": "2026 上半年台灣休閒娛樂產業出現「出境報復性旅遊延燒、健身房國產化、國片票房爆發、遊戲族群強勢」的多元成長格局；出境人次年增 16.56%、健身房兩大龍頭 H1 營收同步雙位數成長、電影上半年票房年增 44.22%，首選規模優勢與品牌護城河兼具的旅行社與健身房龍頭。",
@@ -1209,9 +1197,34 @@
       "legacy_hrefs": [
         "/industry/太空衛星科技/20260403__太空衛星科技.html"
       ]
+    },
+    {
+      "title": "造紙產業 2026 年展望",
+      "summary": "根據近期產業數據，台灣造紙產業已趨於成熟，營運穩定。工業用紙逐漸走向高強度與輕磅化，文化用紙與家庭用紙則走向差異化與高附加價值。中國造紙協會數據顯示，2025 年 1~11 月中國機制紙及紙板...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/造紙產業/20260402/report.md",
+      "relative": "造紙產業/20260402/report.md",
+      "group": "造紙產業",
+      "date": "2026-04-02",
+      "kind": "industry",
+      "href": "/industry/造紙產業/20260402/report.html",
+      "legacy_hrefs": []
     }
   ],
   "daily": [
+    {
+      "title": "2026.09.14",
+      "summary": "SEMICON Taiwan 2026 聚焦 FOPLP、CPO 與先進封裝自主化：本屆展會由台積電領軍，凸顯台灣從晶圓代工、ABF 載板、檢測量測到材料化學品的整條 AI 供...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-09-14.md",
+      "relative": "2026-09-14.md",
+      "date": "2026-09-14",
+      "kind": "daily",
+      "href": "/daily/20260914/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-09-14.html"
+      ]
+    },
     {
       "title": "2026.09.11",
       "summary": "AI 伺服器需求爆發持續擴大，Dell 上季 AI 伺服器營收年增 757%，緯穎（4953）GB300 出貨進入加速期，台股 ODM 族群獲長線訂單能見度加持",
@@ -2497,19 +2510,6 @@
       "href": "/daily/20260424/report.html",
       "legacy_hrefs": [
         "/daily/2026-04-24.html"
-      ]
-    },
-    {
-      "title": "2026.04.23",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-23.md",
-      "relative": "2026-04-23.md",
-      "date": "2026-04-23",
-      "kind": "daily",
-      "href": "/daily/20260423/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-04-23.html"
       ]
     }
   ],
