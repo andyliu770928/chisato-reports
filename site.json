@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-14T07:02:04.028302",
+  "generatedAt": "2026-09-15T07:01:50.083088",
   "industryCount": 105,
-  "dailyCount": 113,
+  "dailyCount": 114,
   "deepCount": 4,
   "industry": [
     {
@@ -1212,6 +1212,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.09.15",
+      "summary": "AI 算力鏈多頭格局未破，但內部輪動加劇：輝達財報與黃仁勳談話持續撐盤，台積電(2330)收 2,380 元穩居多頭指標，但 AI「降速」呼聲與通膨頑強使短線波動放大",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-09-15.md",
+      "relative": "2026-09-15.md",
+      "date": "2026-09-15",
+      "kind": "daily",
+      "href": "/daily/20260915/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-09-15.html"
+      ]
+    },
     {
       "title": "2026.09.14",
       "summary": "SEMICON Taiwan 2026 聚焦 FOPLP、CPO 與先進封裝自主化：本屆展會由台積電領軍，凸顯台灣從晶圓代工、ABF 載板、檢測量測到材料化學品的整條 AI 供...",
@@ -2497,19 +2510,6 @@
       "href": "/daily/20260427/report.html",
       "legacy_hrefs": [
         "/daily/2026-04-27.html"
-      ]
-    },
-    {
-      "title": "2026.04.24",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-24.md",
-      "relative": "2026-04-24.md",
-      "date": "2026-04-24",
-      "kind": "daily",
-      "href": "/daily/20260424/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-04-24.html"
       ]
     }
   ],
