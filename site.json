@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-15T07:01:50.083088",
+  "generatedAt": "2026-09-16T07:01:31.164915",
   "industryCount": 105,
-  "dailyCount": 114,
+  "dailyCount": 115,
   "deepCount": 4,
   "industry": [
     {
@@ -1212,6 +1212,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.09.16",
+      "summary": "AI 主升段尚未結束，能源與散熱成下一波主軸：COMPUTEX 後市場重新聚焦「能源競賽」，Marvell 點名高速光通訊、矽光子，台達電則提醒電源管理、散熱與資料中心基建族群...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-09-16.md",
+      "relative": "2026-09-16.md",
+      "date": "2026-09-16",
+      "kind": "daily",
+      "href": "/daily/20260916/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-09-16.html"
+      ]
+    },
     {
       "title": "2026.09.15",
       "summary": "AI 算力鏈多頭格局未破，但內部輪動加劇：輝達財報與黃仁勳談話持續撐盤，台積電(2330)收 2,380 元穩居多頭指標，但 AI「降速」呼聲與通膨頑強使短線波動放大",
@@ -2497,19 +2510,6 @@
       "href": "/daily/20260428/report.html",
       "legacy_hrefs": [
         "/daily/2026-04-28.html"
-      ]
-    },
-    {
-      "title": "2026.04.27",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-27.md",
-      "relative": "2026-04-27.md",
-      "date": "2026-04-27",
-      "kind": "daily",
-      "href": "/daily/20260427/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-04-27.html"
       ]
     }
   ],
