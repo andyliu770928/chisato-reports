@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-16T07:01:31.164915",
-  "industryCount": 105,
+  "generatedAt": "2026-09-17T04:04:05.286064",
+  "industryCount": 106,
   "dailyCount": 115,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "軟體服務",
+      "summary": "AI 落地進入「企業 Agent」階段，台灣資服業迎 SI×雲端×資安三軸齊發；精誠併入台灣大啟動「跨界整合新局」，零壹、宏碁資訊、敦陽科等同步受惠企業 AI 與主權 AI 訂單加速。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/軟體服務/20260917/report.md",
+      "relative": "軟體服務/20260917/report.md",
+      "group": "軟體服務",
+      "date": "2026-09-17",
+      "kind": "industry",
+      "href": "/industry/軟體服務/20260917/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "台灣休閒娛樂產業",
       "summary": "2026 上半年台灣休閒娛樂產業出現「出境報復性旅遊延燒、健身房國產化、國片票房爆發、遊戲族群強勢」的多元成長格局；出境人次年增 16.56%、健身房兩大龍頭 H1 營收同步雙位數成長、電影上半年票房年增 44.22%，首選規模優勢與品牌護城河兼具的旅行社與健身房龍頭。",
@@ -1197,18 +1209,6 @@
       "legacy_hrefs": [
         "/industry/太空衛星科技/20260403__太空衛星科技.html"
       ]
-    },
-    {
-      "title": "造紙產業 2026 年展望",
-      "summary": "根據近期產業數據，台灣造紙產業已趨於成熟，營運穩定。工業用紙逐漸走向高強度與輕磅化，文化用紙與家庭用紙則走向差異化與高附加價值。中國造紙協會數據顯示，2025 年 1~11 月中國機制紙及紙板...",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/造紙產業/20260402/report.md",
-      "relative": "造紙產業/20260402/report.md",
-      "group": "造紙產業",
-      "date": "2026-04-02",
-      "kind": "industry",
-      "href": "/industry/造紙產業/20260402/report.html",
-      "legacy_hrefs": []
     }
   ],
   "daily": [
