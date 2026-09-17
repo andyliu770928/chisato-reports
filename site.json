@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-17T07:01:57.991674",
-  "industryCount": 106,
+  "generatedAt": "2026-09-18T04:03:20.864680",
+  "industryCount": 107,
   "dailyCount": 116,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "製藥",
+      "summary": "美國 FDA 於 2026/8/29 提前核准藥華藥 Ropeg 治療 ET（成人所有病患），創下三項第一並取得 7 年市場獨占期，台灣新藥正式打入美國 17 萬名 ET 病患族群；全球 2025-2030 專利懸崖規模達 2,360 億美元、2026 H1 生技併購已達 1,300 億美元（追平 2025 全年），CDMO 去中化每年約 70 億美元訂單重新分配。台股首選藥華藥（6446）與保瑞（6472），次選美時（1795），觀察台耀（4746）與東洋（4105）；神隆（1789）基本面持續探底暫不建議。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/製藥/20260918/report.md",
+      "relative": "製藥/20260918/report.md",
+      "group": "製藥",
+      "date": "2026-09-18",
+      "kind": "industry",
+      "href": "/industry/製藥/20260918/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "軟體服務",
       "summary": "全球 AI Agent 進入規模化元年（Fortune Business Insights 估 2026 全球 AI Agent 市場 117.8 億美元，CAGR 46.61%；IDC 預估 2030 全球活躍 Agent 達 22 億），企業從「試點」走向「落地」。台灣電腦及資訊服務業 2025 全年營業額 6,596 億、YoY +8.06%，2026Q1 已加速至 +12.21%，AI 與雲端雙引擎驅動；本土供應鏈中精誠（6214）、宏碁資訊（6811）、零壹（3029）為首選，敦陽科（2480）、緯軟（4953）為次選，91APP-KY（6741）、昕奇雲端（7747）、是方（6561）為觀察。",
@@ -1194,20 +1206,6 @@
       "href": "/industry/AI伺服器與資料中心/20260408/report.html",
       "legacy_hrefs": [
         "/industry/AI伺服器與資料中心/20260408_report.html"
-      ]
-    },
-    {
-      "title": "太空衛星科技 2026 年展望",
-      "summary": "根據美國衛星產業協會（SIA）統計，2023 年全球太空經濟價值達新台幣 12.8 兆元，衛星產業約貢獻 71.3%。低軌衛星（LEO）是當前成長最快的細分市場，SpaceX 至 2025 年...",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/太空衛星科技/20260403__太空衛星科技.md",
-      "relative": "太空衛星科技/20260403__太空衛星科技.md",
-      "group": "太空衛星科技",
-      "date": "2026-04-03",
-      "kind": "industry",
-      "href": "/industry/太空衛星科技/20260403/report.html",
-      "legacy_hrefs": [
-        "/industry/太空衛星科技/20260403__太空衛星科技.html"
       ]
     }
   ],
