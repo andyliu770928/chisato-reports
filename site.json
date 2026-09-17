@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-18T04:03:20.864680",
+  "generatedAt": "2026-09-18T07:01:55.632089",
   "industryCount": 107,
-  "dailyCount": 116,
+  "dailyCount": 117,
   "deepCount": 4,
   "industry": [
     {
@@ -1210,6 +1210,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.09.18",
+      "summary": "AI 先進封裝供應鏈題材持續發燒：CoWoS 產能吃緊尚未緩解，市場又傳出 NVIDIA 測試 CoWoP 新技術，PCB 載板躍居下一波技術變革的核心角色，欣興、南電、景碩、...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-09-18.md",
+      "relative": "2026-09-18.md",
+      "date": "2026-09-18",
+      "kind": "daily",
+      "href": "/daily/20260918/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-09-18.html"
+      ]
+    },
     {
       "title": "2026.09.17",
       "summary": "半導體「普漲黃金期」已過，大摩點名擁抱龍頭、警示4台廠估值泡沫：摩根士丹利明確指出半導體族群不再齊漲齊跌，資金將集中於具備技術與訂單護城河的龍頭，部分二、三線台廠面臨估值修正壓...",
@@ -2495,19 +2508,6 @@
       "href": "/daily/20260430/report.html",
       "legacy_hrefs": [
         "/daily/2026-04-30.html"
-      ]
-    },
-    {
-      "title": "2026.04.29",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-04-29.md",
-      "relative": "2026-04-29.md",
-      "date": "2026-04-29",
-      "kind": "daily",
-      "href": "/daily/20260429/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-04-29.html"
       ]
     }
   ],
