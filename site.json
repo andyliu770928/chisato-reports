@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-22T07:01:23.234617",
+  "generatedAt": "2026-09-23T07:01:30.026485",
   "industryCount": 107,
-  "dailyCount": 119,
+  "dailyCount": 120,
   "deepCount": 4,
   "industry": [
     {
@@ -1210,6 +1210,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.09.23",
+      "summary": "AI伺服器「準標配」題材持續發酵：BBU備援電池模組產能供不應求，搭配功率半導體與散熱需求齊發，台廠供應鏈從IC設計、ODM到載板同步受惠，盤面資金明顯集中於AI電力與散熱次族...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-09-23.md",
+      "relative": "2026-09-23.md",
+      "date": "2026-09-23",
+      "kind": "daily",
+      "href": "/daily/20260923/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-09-23.html"
+      ]
+    },
     {
       "title": "2026.09.22",
       "summary": "AI半導體長線成長確立：摩根士丹利報告指出全球前14大CSP 2028年資本支出年增將放緩至12%，但AI半導體年複合成長率仍高達30%，台積電、聯發科等23檔台股獲列為受惠名...",
@@ -2495,19 +2508,6 @@
       "href": "/daily/20260505/report.html",
       "legacy_hrefs": [
         "/daily/2026-05-05.html"
-      ]
-    },
-    {
-      "title": "2026.05.04",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-05-04.md",
-      "relative": "2026-05-04.md",
-      "date": "2026-05-04",
-      "kind": "daily",
-      "href": "/daily/20260504/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-05-04.html"
       ]
     }
   ],
