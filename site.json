@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-23T07:01:30.026485",
+  "generatedAt": "2026-09-24T07:01:49.918282",
   "industryCount": 107,
-  "dailyCount": 120,
+  "dailyCount": 121,
   "deepCount": 4,
   "industry": [
     {
@@ -1210,6 +1210,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.09.24",
+      "summary": "台股量價齊揚攻上 48K 新高，AI 半導體虹吸效應明確：電子權值股與 AI 供應鏈吸金，石英元件、二極體、無塵室機電、MOSFET 及半導體材料族群輪動接棒，指數站穩歷史新高...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-09-24.md",
+      "relative": "2026-09-24.md",
+      "date": "2026-09-24",
+      "kind": "daily",
+      "href": "/daily/20260924/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-09-24.html"
+      ]
+    },
     {
       "title": "2026.09.23",
       "summary": "AI伺服器「準標配」題材持續發酵：BBU備援電池模組產能供不應求，搭配功率半導體與散熱需求齊發，台廠供應鏈從IC設計、ODM到載板同步受惠，盤面資金明顯集中於AI電力與散熱次族...",
@@ -2495,19 +2508,6 @@
       "href": "/daily/20260506/report.html",
       "legacy_hrefs": [
         "/daily/2026-05-06.html"
-      ]
-    },
-    {
-      "title": "2026.05.05",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-05-05.md",
-      "relative": "2026-05-05.md",
-      "date": "2026-05-05",
-      "kind": "daily",
-      "href": "/daily/20260505/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-05-05.html"
       ]
     }
   ],
