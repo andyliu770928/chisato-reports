@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T07:02:36.604082",
+  "generatedAt": "2026-10-02T07:02:09.251674",
   "industryCount": 107,
-  "dailyCount": 126,
+  "dailyCount": 127,
   "deepCount": 4,
   "industry": [
     {
@@ -1210,6 +1210,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.10.02",
+      "summary": "AI 資本支出進入「精準配置」階段：從單一晶片需求擴展為高速傳輸、高階材料、液冷散熱與先進封裝的多層次投資，外資點名半導體＋金融防禦雙主軸的 ETF 配置策略",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-10-02.md",
+      "relative": "2026-10-02.md",
+      "date": "2026-10-02",
+      "kind": "daily",
+      "href": "/daily/20261002/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-10-02.html"
+      ]
+    },
     {
       "title": "2026.10.01",
       "summary": "內容整理中。",
@@ -2495,19 +2508,6 @@
       "href": "/daily/20260514/report.html",
       "legacy_hrefs": [
         "/daily/2026-05-14.html"
-      ]
-    },
-    {
-      "title": "2026.05.13",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-05-13.md",
-      "relative": "2026-05-13.md",
-      "date": "2026-05-13",
-      "kind": "daily",
-      "href": "/daily/20260513/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-05-13.html"
       ]
     }
   ],
