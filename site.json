@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T07:02:09.900687",
+  "generatedAt": "2026-10-08T07:01:38.797140",
   "industryCount": 107,
-  "dailyCount": 130,
+  "dailyCount": 131,
   "deepCount": 4,
   "industry": [
     {
@@ -1210,6 +1210,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.10.08",
+      "summary": "內容整理中。",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-10-08.md",
+      "relative": "2026-10-08.md",
+      "date": "2026-10-08",
+      "kind": "daily",
+      "href": "/daily/20261008/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-10-08.html"
+      ]
+    },
     {
       "title": "2026.10.07",
       "summary": "美國 9 月非農僅增 2.9 萬人、失業率升至 4.2%，勞動市場降溫訊號明確，市場預估 10 月升息機率降至 22.7%，台指期夜盤狂飆、外資風險偏好回升，台股短線動能延續",
@@ -2495,19 +2508,6 @@
       "href": "/daily/20260520/report.html",
       "legacy_hrefs": [
         "/daily/2026-05-20.html"
-      ]
-    },
-    {
-      "title": "2026.05.19",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-05-19.md",
-      "relative": "2026-05-19.md",
-      "date": "2026-05-19",
-      "kind": "daily",
-      "href": "/daily/20260519/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-05-19.html"
       ]
     }
   ],
