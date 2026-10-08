@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-08T07:01:38.797140",
-  "industryCount": 107,
+  "generatedAt": "2026-10-09T04:04:07.150381",
+  "industryCount": 108,
   "dailyCount": 131,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "被動元件",
+      "summary": "AI 伺服器與車用電子雙引擎持續放量，疊加村田 EOL 釋出轉單紅利、銀/銅/錫貴金屬成本推升全產品線漲價，2026 下半年至 2027 年進入「結構性超級週期」延續段，台廠龍頭受惠最深。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/被動元件/20261009/report.md",
+      "relative": "被動元件/20261009/report.md",
+      "group": "被動元件",
+      "date": "2026-10-09",
+      "kind": "industry",
+      "href": "/industry/被動元件/20261009/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "製藥",
       "summary": "美國 FDA 於 2026/8/29 提前核准藥華藥 Ropeg 治療 ET（成人所有病患），創下三項第一並取得 7 年市場獨占期，台灣新藥正式打入美國 17 萬名 ET 病患族群；全球 2025-2030 專利懸崖規模達 2,360 億美元、2026 H1 生技併購已達 1,300 億美元（追平 2025 全年），CDMO 去中化每年約 70 億美元訂單重新分配。台股首選藥華藥（6446）與保瑞（6472），次選美時（1795），觀察台耀（4746）與東洋（4105）；神隆（1789）基本面持續探底暫不建議。",
@@ -1193,20 +1205,6 @@
       "kind": "industry",
       "href": "/industry/太空衛星科技/20260409/report.html",
       "legacy_hrefs": []
-    },
-    {
-      "title": "【AI伺服器與資料中心】2026年展望",
-      "summary": "AI伺服器需求激增，推動資料中心市場持續擴張。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/AI伺服器與資料中心/20260408_report.md",
-      "relative": "AI伺服器與資料中心/20260408_report.md",
-      "group": "AI伺服器與資料中心",
-      "date": "2026-04-08",
-      "kind": "industry",
-      "href": "/industry/AI伺服器與資料中心/20260408/report.html",
-      "legacy_hrefs": [
-        "/industry/AI伺服器與資料中心/20260408_report.html"
-      ]
     }
   ],
   "daily": [
