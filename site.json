@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T04:04:07.150381",
+  "generatedAt": "2026-10-09T07:02:10.756923",
   "industryCount": 108,
-  "dailyCount": 131,
+  "dailyCount": 132,
   "deepCount": 4,
   "industry": [
     {
@@ -1208,6 +1208,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.10.09",
+      "summary": "AI算力擴張從晶片延伸至整座「AI工廠」：蘇鼎宇等產業分析師指出，AI需求正由單一GPU晶片走向系統級整合，網通、記憶體、供電、ABF載板等環節同步吃補，台股供應鏈受惠面持續擴...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-10-09.md",
+      "relative": "2026-10-09.md",
+      "date": "2026-10-09",
+      "kind": "daily",
+      "href": "/daily/20261009/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-10-09.html"
+      ]
+    },
     {
       "title": "2026.10.08",
       "summary": "內容整理中。",
@@ -2493,19 +2506,6 @@
       "href": "/daily/20260521/report.html",
       "legacy_hrefs": [
         "/daily/2026-05-21.html"
-      ]
-    },
-    {
-      "title": "2026.05.20",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-05-20.md",
-      "relative": "2026-05-20.md",
-      "date": "2026-05-20",
-      "kind": "daily",
-      "href": "/daily/20260520/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-05-20.html"
       ]
     }
   ],
