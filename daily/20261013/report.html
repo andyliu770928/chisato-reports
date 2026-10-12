@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>2026.10.13</title>
+  <link rel="icon" type="image/svg+xml" href="/chisato-reports/assets/favicon.svg" />
+  <link rel="stylesheet" href="/chisato-reports/assets/style.css" />
+</head>
+<body>
+  <main class="page report-page daily">
+    <header class="site-header">
+      <div class="brand-bar">
+        <a class="brand" href="/chisato-reports/index.html">小千研究報告站</a>
+        <nav class="site-nav"><a href="/chisato-reports/index.html">首頁</a><a href="/chisato-reports/industry/index.html">產業報告</a><a href="/chisato-reports/daily/index.html">每日早報</a><a href="/chisato-reports/deep-research/index.html">主題研究</a></nav>
+      </div>
+      <div class="breadcrumb">每日早報 / 2026-10-13</div>
+      <h1>2026.10.13</h1>
+      
+    </header>
+    <section class="content">
+      <article class="report-shell"><section class="report-top daily"><div class="report-meta"><span class="chip">每日早報</span><span class="chip">2026.10.13</span></div><h1>2026.10.13</h1><p class="report-lead">AI 伺服器供應鏈仍是多頭主軸：CoWoS 先進封裝產能瓶頸未解，ABF 載板被市場定位為「AI 戰略物資」，欣興、南電、景碩等台廠載板三雄挾高階製程滲透率提升題材，量價持續強...</p></section><div class="report-frame"><section class="report-body"><h1>臺美市場早報 (2026-10-13)</h1>
+<hr />
+<h2>市場一週總覽 (Executive Summary)</h2>
+<h3>用3句話總結本週市場最核心的主題（Key Themes）</h3>
+<p><strong>1.</strong> <strong>AI 伺服器供應鏈仍是多頭主軸</strong>：CoWoS 先進封裝產能瓶頸未解，ABF 載板被市場定位為「AI 戰略物資」，欣興、南電、景碩等台廠載板三雄挾高階製程滲透率提升題材，量價持續強勢；台積電、廣達、鴻海、緯穎、樺漢同步受惠 Dell 上修 AI 伺服器展望。</p>
+<p><strong>2.</strong> <strong>輝達財報與 Google×Meta 自研晶片聯盟形成拉扯</strong>：輝達上季財報與展望雙雙優於預期為台鏈點火，但 Google 與 Meta 傳出洽談 AI 晶片長約，對輝達生態系形成潛在競爭壓力，半導體與伺服器供應鏈面臨「Nvidia 派」與「自研派」的選邊題。</p>
+<p><strong>3.</strong> <strong>0050 法人對做訊號明顯，資金在 AI 與高股息間輪動</strong>：外資近 20 個交易日累計賣超元大台灣 50 逾 44 萬張，官股券商反向加碼；同時間高股息 ETF 與半導體 ETF 成為資金避風港，顯示多空仍有共</p></section></div></article>
+    </section>
+  </main>
+  <script>
+(function(){
+  var btns = document.querySelectorAll('.filter-btn');
+  var grid = document.querySelector('.industry-index .entry-grid');
+  var count = document.getElementById('filter-count');
+  if(!btns.length || !grid) return;
+  function applyFilter(group) {
+    var cards = grid.querySelectorAll('.entry-card');
+    var shown = 0;
+    cards.forEach(function(card){
+      var match = !group || card.getAttribute('data-group') === group;
+      card.classList.toggle('hidden-by-filter', !match);
+      if(match) shown++;
+    });
+    btns.forEach(function(b){
+      b.classList.toggle('active', (b.getAttribute('data-group')||'') === (group||''));
+    });
+    if(count) count.textContent = shown > 0 ? shown + ' 篇' : '';
+  }
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      applyFilter(btn.getAttribute('data-group'));
+    });
+  });
+  applyFilter('');
+})();
+  </script>
+</body>
+</html>
