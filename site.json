@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-14T07:01:59.276020",
-  "industryCount": 108,
+  "generatedAt": "2026-10-15T04:15:18.795310",
+  "industryCount": 109,
   "dailyCount": 135,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "區塊鏈",
+      "summary": "台灣《虛擬資產服務法》2026/6/30 三讀通過、7/22 總統公布，RWA／穩定幣／VASP 三大政策紅利同步落地，金融機構區塊鏈 IT 投資與冷錢包硬體供應鏈進入規模化變現階段；博士旺（3555）H1 營收年增 1,214%、毛利率翻正至 48.58%，是台股區塊鏈落地最直接的受惠指標。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/區塊鏈/20261015/report.md",
+      "relative": "區塊鏈/20261015/report.md",
+      "group": "區塊鏈",
+      "date": "2026-10-15",
+      "kind": "industry",
+      "href": "/industry/區塊鏈/20261015/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "被動元件",
       "summary": "AI 伺服器與車用電子雙引擎持續放量，疊加村田 EOL 釋出轉單紅利、銀/銅/錫貴金屬成本推升全產品線漲價，2026 下半年至 2027 年進入「結構性超級週期」延續段，台廠龍頭受惠最深。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-10",
       "kind": "industry",
       "href": "/industry/印刷電路板/20260410/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "太空衛星科技產業 2026 年展望",
-      "summary": "低軌衛星爆發成長，台灣供應鏈跟著起飛，華通、昇達科領軍，多家PCB與射頻廠打入全球供應鏈，2026年訂單看到手軟。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/太空衛星科技/20260409/report.md",
-      "relative": "太空衛星科技/20260409/report.md",
-      "group": "太空衛星科技",
-      "date": "2026-04-09",
-      "kind": "industry",
-      "href": "/industry/太空衛星科技/20260409/report.html",
       "legacy_hrefs": []
     }
   ],
