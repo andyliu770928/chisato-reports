@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T04:15:18.795310",
+  "generatedAt": "2026-10-15T07:01:38.402156",
   "industryCount": 109,
-  "dailyCount": 135,
+  "dailyCount": 136,
   "deepCount": 4,
   "industry": [
     {
@@ -1208,6 +1208,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.10.15",
+      "summary": "AI 伺服器漲價效應擴散：輝達端傳出 AI 伺服器報價調漲逾 15%，台灣 ABF 載板、CoWoS 封測、供電與功率半導體族群提前反應，光寶科、全友、順德、匯鑽科等相繼亮燈...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-10-15.md",
+      "relative": "2026-10-15.md",
+      "date": "2026-10-15",
+      "kind": "daily",
+      "href": "/daily/20261015/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-10-15.html"
+      ]
+    },
     {
       "title": "2026.10.14",
       "summary": "AI 伺服器供應鏈分歧擴大：CoWoS 先進封裝與 ABF 載板仍供不應求，欣興、南電、景碩報價維持 1040–1440 元高檔區間，9 月營收聯袂創歷史同期新高，封測端日月光...",
@@ -2493,19 +2506,6 @@
       "href": "/daily/20260527/report.html",
       "legacy_hrefs": [
         "/daily/2026-05-27.html"
-      ]
-    },
-    {
-      "title": "2026.05.26",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-05-26.md",
-      "relative": "2026-05-26.md",
-      "date": "2026-05-26",
-      "kind": "daily",
-      "href": "/daily/20260526/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-05-26.html"
       ]
     }
   ],
