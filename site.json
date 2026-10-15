@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-15T07:01:38.402156",
-  "industryCount": 109,
+  "generatedAt": "2026-10-16T04:03:42.238584",
+  "industryCount": 110,
   "dailyCount": 136,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "被動元件",
+      "summary": "國巨 10/29 法說會與村田 10/30 追加投資公布是下一波關鍵催化劑。村田 BB Ratio 1.47 創歷史新高、TDK 與太陽誘電 9/29 簽 MOU、三星 Q4 喊漲 25-30%、國巨 9 月營收與 Q3 雙創歷史新高，多重訊號確認 2026 Q4 至 2027 年仍處於「AI 高階需求 + 結構性漲價 + 轉單紅利」三重驅動段。本週 10/14-15 被動元件回檔屬於美股科技股拖累的系統性修正，非基本面轉空。",
+      "rating": "正向（短期震盪、中長期結構性趨勢不變）",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/被動元件/20261016/report.md",
+      "relative": "被動元件/20261016/report.md",
+      "group": "被動元件",
+      "date": "2026-10-16",
+      "kind": "industry",
+      "href": "/industry/被動元件/20261016/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "區塊鏈",
       "summary": "台灣《虛擬資產服務法》2026/6/30 三讀通過、7/22 總統公布，RWA／穩定幣／VASP 三大政策紅利同步落地，金融機構區塊鏈 IT 投資與冷錢包硬體供應鏈進入規模化變現階段；博士旺（3555）H1 營收年增 1,214%、毛利率翻正至 48.58%，是台股區塊鏈落地最直接的受惠指標。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-12",
       "kind": "industry",
       "href": "/industry/AI伺服器與資料中心/20260412/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "印刷電路板（PCB）產業 2026 年展望",
-      "summary": "AI 伺服器引爆高階 PCB 需求，台灣 PCB 產業迎來史上最強成長動能，2025 年產值年增 12.1% 達 9,157 億，2026 年有望突破兆元大關。華通、台光電、聯詠等龍頭股持續受惠。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20260410/report.md",
-      "relative": "印刷電路板/20260410/report.md",
-      "group": "印刷電路板",
-      "date": "2026-04-10",
-      "kind": "industry",
-      "href": "/industry/印刷電路板/20260410/report.html",
       "legacy_hrefs": []
     }
   ],
