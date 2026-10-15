@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16T04:03:42.238584",
+  "generatedAt": "2026-10-16T07:01:59.974387",
   "industryCount": 110,
-  "dailyCount": 136,
+  "dailyCount": 137,
   "deepCount": 4,
   "industry": [
     {
@@ -1208,6 +1208,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.10.16",
+      "summary": "AI 伺服器供應鏈分化加大：輝達新一代個人化 AI 產品預計今年7月放量，戴爾上修 AI 伺服器展望，台系 ODM 與 ABF 載板廠迎來長單利多，但 Google 與 Met...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-10-16.md",
+      "relative": "2026-10-16.md",
+      "date": "2026-10-16",
+      "kind": "daily",
+      "href": "/daily/20261016/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-10-16.html"
+      ]
+    },
     {
       "title": "2026.10.15",
       "summary": "AI 伺服器漲價效應擴散：輝達端傳出 AI 伺服器報價調漲逾 15%，台灣 ABF 載板、CoWoS 封測、供電與功率半導體族群提前反應，光寶科、全友、順德、匯鑽科等相繼亮燈...",
@@ -2493,19 +2506,6 @@
       "href": "/daily/20260528/report.html",
       "legacy_hrefs": [
         "/daily/2026-05-28.html"
-      ]
-    },
-    {
-      "title": "2026.05.27",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-05-27.md",
-      "relative": "2026-05-27.md",
-      "date": "2026-05-27",
-      "kind": "daily",
-      "href": "/daily/20260527/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-05-27.html"
       ]
     }
   ],
