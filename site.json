@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-16T07:01:59.974387",
-  "industryCount": 110,
+  "generatedAt": "2026-10-17T04:04:00.951811",
+  "industryCount": 111,
   "dailyCount": 137,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "金融",
+      "summary": "13 家上市金控前 9 月累計稅後淨利 6,318.81 億元，年增 47.05%，已提前超越 2025 年全年 5,777 億元的歷史紀錄；銀行型金控靠淨利差擴張、財管與信用卡手收成長，壽險型金控則靠 FVOCI 股票處分利益挹注保留盈餘 2,237-2,500 億元，央行第三季維持利率不變、台股 9 月加權指數創 48,601 點新高，使金融業迎來「獲利、淨值、股利」三高齊發的結構性順風。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/金融/20261017/report.md",
+      "relative": "金融/20261017/report.md",
+      "group": "金融",
+      "date": "2026-10-17",
+      "kind": "industry",
+      "href": "/industry/金融/20261017/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "被動元件",
       "summary": "國巨 10/29 法說會與村田 10/30 追加投資公布是下一波關鍵催化劑。村田 BB Ratio 1.47 創歷史新高、TDK 與太陽誘電 9/29 簽 MOU、三星 Q4 喊漲 25-30%、國巨 9 月營收與 Q3 雙創歷史新高，多重訊號確認 2026 Q4 至 2027 年仍處於「AI 高階需求 + 結構性漲價 + 轉單紅利」三重驅動段。本週 10/14-15 被動元件回檔屬於美股科技股拖累的系統性修正，非基本面轉空。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-13",
       "kind": "industry",
       "href": "/industry/印刷電路板/20260413/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "【AI伺服器與資料中心】2026年展望",
-      "summary": "CSP資本支出飆升疊加GB200出貨放量，台灣AI伺服器供應鏈迎來最強成長週期，首選廣達與緯穎。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/AI伺服器與資料中心/20260412/report.md",
-      "relative": "AI伺服器與資料中心/20260412/report.md",
-      "group": "AI伺服器與資料中心",
-      "date": "2026-04-12",
-      "kind": "industry",
-      "href": "/industry/AI伺服器與資料中心/20260412/report.html",
       "legacy_hrefs": []
     }
   ],
