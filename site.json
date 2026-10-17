@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-17T04:04:00.951811",
-  "industryCount": 111,
+  "generatedAt": "2026-10-18T04:03:21.286807",
+  "industryCount": 112,
   "dailyCount": 137,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "交通運輸及航運產業研究報告",
+      "summary": "海運進入「紅海復航＋美中關稅休戰」雙重支撐的震盪偏強格局，貨櫃三雄9月營收年增六至九成創高峰；航空雙引擎（客運旅遊＋AI貨運）齊點火，IATA 8月全球CTK年增4.4%，北美籍航空更達10.1%。短期看好貨櫃三雄、華航、長榮航；中長期關注星宇歐洲航線拓展與地緣政治風險（霍爾木茲、紅海復航節奏）。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/交通運輸及航運/20261018/report.md",
+      "relative": "交通運輸及航運/20261018/report.md",
+      "group": "交通運輸及航運",
+      "date": "2026-10-18",
+      "kind": "industry",
+      "href": "/industry/交通運輸及航運/20261018/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "金融",
       "summary": "13 家上市金控前 9 月累計稅後淨利 6,318.81 億元，年增 47.05%，已提前超越 2025 年全年 5,777 億元的歷史紀錄；銀行型金控靠淨利差擴張、財管與信用卡手收成長，壽險型金控則靠 FVOCI 股票處分利益挹注保留盈餘 2,237-2,500 億元，央行第三季維持利率不變、台股 9 月加權指數創 48,601 點新高，使金融業迎來「獲利、淨值、股利」三高齊發的結構性順風。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-13",
       "kind": "industry",
       "href": "/industry/被動元件/20260413/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "【印刷電路板（PCB）】2026 年展望",
-      "summary": "AI 伺服器與先進封裝引爆高階 PCB 需求，ABF 載板供需持續緊俏，台灣 PCB 產業 2026 年產值有望突破兆元大關，首選 ABF 載板雙雄南電與景碩。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20260413/report.md",
-      "relative": "印刷電路板/20260413/report.md",
-      "group": "印刷電路板",
-      "date": "2026-04-13",
-      "kind": "industry",
-      "href": "/industry/印刷電路板/20260413/report.html",
       "legacy_hrefs": []
     }
   ],
