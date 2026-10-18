@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T04:04:27.926314",
+  "generatedAt": "2026-10-19T07:02:05.708154",
   "industryCount": 113,
-  "dailyCount": 137,
+  "dailyCount": 138,
   "deepCount": 4,
   "industry": [
     {
@@ -1208,6 +1208,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.10.19",
+      "summary": "CoWoS 擴產效應全面發酵：台積電第三季營收年增 50.9%、高效能運算（HPC）占比衝上 68%，先進封裝產能吃緊已外溢至 ABF 載板、封測與設備鏈，上週欣興、南電、景碩...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-10-19.md",
+      "relative": "2026-10-19.md",
+      "date": "2026-10-19",
+      "kind": "daily",
+      "href": "/daily/20261019/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-10-19.html"
+      ]
+    },
     {
       "title": "2026.10.16",
       "summary": "AI 伺服器供應鏈分化加大：輝達新一代個人化 AI 產品預計今年7月放量，戴爾上修 AI 伺服器展望，台系 ODM 與 ABF 載板廠迎來長單利多，但 Google 與 Met...",
@@ -2493,19 +2506,6 @@
       "href": "/daily/20260529/report.html",
       "legacy_hrefs": [
         "/daily/2026-05-29.html"
-      ]
-    },
-    {
-      "title": "2026.05.28",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-05-28.md",
-      "relative": "2026-05-28.md",
-      "date": "2026-05-28",
-      "kind": "daily",
-      "href": "/daily/20260528/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-05-28.html"
       ]
     }
   ],
