@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-18T04:04:18.556871",
-  "industryCount": 112,
+  "generatedAt": "2026-10-19T04:02:57.482730",
+  "industryCount": 113,
   "dailyCount": 137,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "水泥",
+      "summary": "全球水泥市場在 2025 年出現「中國出口暴增 × 反傾銷壁壘 × 碳成本上路」三重結構性衝擊，2026 年台灣本土水泥業出貨量恐創歷年新低，五大廠出貨量同步下滑；台泥靠歐洲與儲能轉型支撐，但本業動能不足，亞泥以中國降本+電力轉投資展現獲利韌性，嘉泥靠旅宿衝量抵銷水泥拖累。",
+      "rating": "保守",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/水泥/20261019/report.md",
+      "relative": "水泥/20261019/report.md",
+      "group": "水泥",
+      "date": "2026-10-19",
+      "kind": "industry",
+      "href": "/industry/水泥/20261019/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "交通運輸及航運產業研究報告",
       "summary": "海運進入「紅海復航＋美中關稅休戰」雙重支撐的震盪偏強格局，貨櫃三雄9月營收年增六至九成創高峰；航空雙引擎（客運旅遊＋AI貨運）齊點火，IATA 8月全球CTK年增4.4%，北美籍航空更達10.1%。短期看好貨櫃三雄、華航、長榮航；中長期關注星宇歐洲航線拓展與地緣政治風險（霍爾木茲、紅海復航節奏）。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-14",
       "kind": "industry",
       "href": "/industry/航太週邊/20260414/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "【被動元件】2026 年展望",
-      "summary": "被動元件景氣底部確立，AI 伺服器與車用電子雙引擎帶動需求升溫，日韓廠退出中低階創造轉單效應，台灣龍頭迎來結構性成長機會。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/被動元件/20260413/report.md",
-      "relative": "被動元件/20260413/report.md",
-      "group": "被動元件",
-      "date": "2026-04-13",
-      "kind": "industry",
-      "href": "/industry/被動元件/20260413/report.html",
       "legacy_hrefs": []
     }
   ],
