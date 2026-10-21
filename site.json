@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-21T07:01:35.150706",
-  "industryCount": 114,
+  "generatedAt": "2026-10-22T04:26:45.727882",
+  "industryCount": 115,
   "dailyCount": 140,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "【電子商務】",
+      "summary": "台灣電商 2026 年規模可望首度突破 NT$5,200 億元（年增 7.7%），滲透率與跨境進口同步走高；本土平台流量雖微縮，但 AI、OMO、跨境金流與 D2C SaaS 仍是結構性成長主軸。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/電子商務/20261022/report.md",
+      "relative": "電子商務/20261022/report.md",
+      "group": "電子商務",
+      "date": "2026-10-22",
+      "kind": "industry",
+      "href": "/industry/電子商務/20261022/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "造紙",
       "summary": "造紙產業在 2026 年迎來「旺季需求溫和復甦 × 越南擴產 × 短纖紙漿觸底反彈」三重正向訊號；台灣本土工紙/紙器雖受內需結構性衰退壓抑，但正隆越南平陽第三期 H1 投產、永豐餘越南紙器動能延續、華紙受惠歐洲能源價差外銷暢旺，族群進入 Q4 旺季的「獲利修復期」。正隆 YTD +44.9%、華紙 YTD +14.8% 已提前反映基本面，建議聚焦首選正隆（1904，受惠越南擴產+低成本優勢）、次選華紙（1905，歐洲外銷+紙漿反彈）、觀察股榮成（1909，工紙+大陸走出低點）。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-16",
       "kind": "industry",
       "href": "/industry/LED照明/20260416/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "LED照明產業",
-      "summary": "LED照明產業短期面臨中國低價競爭與需求飽和壓力，但智慧照明、植物照明、車用LED等利基應用為台灣供應鏈提供差異化成長機會，宜精選技術門檻較高的特殊應用標的。",
-      "rating": "中立",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/LED照明/20260415/report.md",
-      "relative": "LED照明/20260415/report.md",
-      "group": "LED照明",
-      "date": "2026-04-15",
-      "kind": "industry",
-      "href": "/industry/LED照明/20260415/report.html",
       "legacy_hrefs": []
     }
   ],
