@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-22T07:19:49.802847",
-  "industryCount": 115,
+  "generatedAt": "2026-10-23T04:07:19.831159",
+  "industryCount": 116,
   "dailyCount": 141,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "元宇宙",
+      "summary": "元宇宙已從 2021 年的獨立平台敘事，轉變為 AI 眼鏡與空間計算的零組件供應鏈題材；台廠真實受惠的是光學、Micro LED 與波導量產等少數中游環節，而非 VR 主機本體——而這批股票的股價漲幅（玉晶光一年 +160%）已遠超營收成長（+0.5%），本益比擴張的成分多於基本面兌現。",
+      "rating": "保守（產業趨勢轉向，估值已先反映）",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/元宇宙/20261023/report.md",
+      "relative": "元宇宙/20261023/report.md",
+      "group": "元宇宙",
+      "date": "2026-10-23",
+      "kind": "industry",
+      "href": "/industry/元宇宙/20261023/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "【電子商務】",
       "summary": "台灣電商 2026 年規模可望首度突破 NT$5,200 億元（年增 7.7%），滲透率與跨境進口同步走高；本土平台流量雖微縮，但 AI、OMO、跨境金流與 D2C SaaS 仍是結構性成長主軸。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-16",
       "kind": "industry",
       "href": "/industry/能源元件/20260416/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "LED照明產業",
-      "summary": "全球LED照明市場邁入成長爆發期，節能政策與智慧城市建設為核心驅動力，台灣供應鏈在LED封裝與元件製造具競爭優勢，建議關注具有技術升級能力與產品差異化的龍頭廠。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/LED照明/20260416/report.md",
-      "relative": "LED照明/20260416/report.md",
-      "group": "LED照明",
-      "date": "2026-04-16",
-      "kind": "industry",
-      "href": "/industry/LED照明/20260416/report.html",
       "legacy_hrefs": []
     }
   ],
