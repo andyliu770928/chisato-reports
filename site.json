@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-23T07:03:41.719522",
-  "industryCount": 116,
+  "generatedAt": "2026-10-24T04:07:19.316417",
+  "industryCount": 117,
   "dailyCount": 142,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "軟體服務",
+      "summary": "全球軟體支出年增 15.1%、生成式 AI 帶動模型開發支出倍增，台灣軟體服務業正由「IT 委外」轉向「AI 應用與資安」，第三季營收年增 42% 的精誠、9 月年增 288% 的大綜與資安純度最高的中華資安，是這輪結構性成長的代表。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/軟體服務/20261024/report.md",
+      "relative": "軟體服務/20261024/report.md",
+      "group": "軟體服務",
+      "date": "2026-10-24",
+      "kind": "industry",
+      "href": "/industry/軟體服務/20261024/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "元宇宙",
       "summary": "元宇宙已從 2021 年的獨立平台敘事，轉變為 AI 眼鏡與空間計算的零組件供應鏈題材；台廠真實受惠的是光學、Micro LED 與波導量產等少數中游環節，而非 VR 主機本體——而這批股票的股價漲幅（玉晶光一年 +160%）已遠超營收成長（+0.5%），本益比擴張的成分多於基本面兌現。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-16",
       "kind": "industry",
       "href": "/industry/觸控面板/20260416/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "能源元件",
-      "summary": "能源轉型與電氣化浪潮持續推動功率元件、EV充電與儲能需求，台灣供應鏈在電源供應器、功率模組、保護元件全球居領先地位，首選台達電（2308）。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/能源元件/20260416/report.md",
-      "relative": "能源元件/20260416/report.md",
-      "group": "能源元件",
-      "date": "2026-04-16",
-      "kind": "industry",
-      "href": "/industry/能源元件/20260416/report.html",
       "legacy_hrefs": []
     }
   ],
