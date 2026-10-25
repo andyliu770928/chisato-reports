@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-24T04:08:18.174388",
-  "industryCount": 117,
+  "generatedAt": "2026-10-26T04:05:06.240749",
+  "industryCount": 118,
   "dailyCount": 142,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "大數據",
+      "summary": "全球資料中心資本支出進入結構性擴張期，AI 驅動的算力與資料基礎設施需求，正把大數據產業從「資料處理」推向「AI 資料基礎設施」，台股供應鏈中已有 44 檔官方分類的成分股，2026 年 9 月營收年增逾 20% 者達 14 檔，產業正處於成長加速期。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/大數據/20261026/report.md",
+      "relative": "大數據/20261026/report.md",
+      "group": "大數據",
+      "date": "2026-10-26",
+      "kind": "industry",
+      "href": "/industry/大數據/20261026/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "軟體服務",
       "summary": "全球軟體支出年增 15.1%、生成式 AI 帶動模型開發支出倍增，台灣軟體服務業正由「IT 委外」轉向「AI 應用與資安」，第三季營收年增 42% 的精誠、9 月年增 288% 的大綜與資安純度最高的中華資安，是這輪結構性成長的代表。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-17",
       "kind": "industry",
       "href": "/industry/LED照明/20260417/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "觸控面板",
-      "summary": "台灣觸控面板產業短期受惠於iPhone拉貨與AI PC換機潮，股價已有明顯漲幅；中長期挑戰在於OLED整合趨勢與中國廠商價格競爭，投資人宜採區間操作，首選GIS-KY。",
-      "rating": "中性",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/觸控面板/20260416/report.md",
-      "relative": "觸控面板/20260416/report.md",
-      "group": "觸控面板",
-      "date": "2026-04-16",
-      "kind": "industry",
-      "href": "/industry/觸控面板/20260416/report.html",
       "legacy_hrefs": []
     }
   ],
