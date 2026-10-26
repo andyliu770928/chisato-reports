@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-26T07:01:53.524893",
-  "industryCount": 118,
+  "generatedAt": "2026-10-27T04:05:08.346348",
+  "industryCount": 119,
   "dailyCount": 143,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "區塊鏈",
+      "summary": "台灣《虛擬資產服務法》已完成立法、將於 2027 年第一季連同九項子法同步上路，配合 RWA 代幣化實證由「可行」轉為「可用」，區塊鏈產業正從加密投機題材轉為金融基礎設施；台股受惠標的集中於系統整合與礦機供應鏈，首選敦陽科（2480）、次選凌群（2453）與映泰（2399）。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/區塊鏈/20261027/report.md",
+      "relative": "區塊鏈/20261027/report.md",
+      "group": "區塊鏈",
+      "date": "2026-10-27",
+      "kind": "industry",
+      "href": "/industry/區塊鏈/20261027/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "大數據",
       "summary": "全球資料中心資本支出進入結構性擴張期，AI 驅動的算力與資料基礎設施需求，正把大數據產業從「資料處理」推向「AI 資料基礎設施」，台股供應鏈中已有 44 檔官方分類的成分股，2026 年 9 月營收年增逾 20% 者達 14 檔，產業正處於成長加速期。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-17",
       "kind": "industry",
       "href": "/industry/半導體/20260417/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "LED照明產業",
-      "summary": "全球LED照明市場持續成長，亞太區域為最快成長市場，台灣供應鏈中億光(2333)與光寶科(2301)為主要受惠標的。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/LED照明/20260417/report.md",
-      "relative": "LED照明/20260417/report.md",
-      "group": "LED照明",
-      "date": "2026-04-17",
-      "kind": "industry",
-      "href": "/industry/LED照明/20260417/report.html",
       "legacy_hrefs": []
     }
   ],
