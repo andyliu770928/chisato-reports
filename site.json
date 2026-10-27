@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T07:04:57.875629",
+  "generatedAt": "2026-10-28T07:12:52.908054",
   "industryCount": 119,
   "dailyCount": 145,
   "deepCount": 4,
@@ -1210,7 +1210,7 @@
   "daily": [
     {
       "title": "2026.10.28",
-      "summary": "內容整理中。",
+      "summary": "AI基礎建設仍是主軸：算力需求由GPU延伸至AI ASIC、伺服器、PCB及半導體自動化，台積電、廣達、緯穎與載板供應鏈持續受市場關注",
       "rating": "",
       "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-10-28.md",
       "relative": "2026-10-28.md",
