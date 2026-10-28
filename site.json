@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-28T07:49:53.931738",
-  "industryCount": 119,
+  "generatedAt": "2026-10-29T04:03:50.732679",
+  "industryCount": 120,
   "dailyCount": 145,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "水泥",
+      "summary": "台灣水泥業正處於「一般住宅需求弱、科技廠辦與公共工程有撐、進口傾銷與碳成本升高」的三重結構下；中國水泥需求續降但出口量激增，亞太區域價格競爭仍高。台泥靠歐洲低碳水泥與儲能轉型、亞泥靠電力及多元事業支撐獲利，首選亞泥（1102），次選台泥（1101）、環泥（1104）。",
+      "rating": "保守",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/水泥/20261029/report.md",
+      "relative": "水泥/20261029/report.md",
+      "group": "水泥",
+      "date": "2026-10-29",
+      "kind": "industry",
+      "href": "/industry/水泥/20261029/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "區塊鏈",
       "summary": "台灣《虛擬資產服務法》已完成立法、將於 2027 年第一季連同九項子法同步上路，配合 RWA 代幣化實證由「可行」轉為「可用」，區塊鏈產業正從加密投機題材轉為金融基礎設施；台股受惠標的集中於系統整合與礦機供應鏈，首選敦陽科（2480）、次選凌群（2453）與映泰（2399）。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-18",
       "kind": "industry",
       "href": "/industry/半導體/20260418/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "半導體",
-      "summary": "AI晶片需求爆發與先進製程供需吃緊持續推動半導體景氣回升，台積電先進封裝（CoWoS）訂單能見度佳，首選台積電（2330），其次看好聯發科（2454）受惠手機庫存回補與AI邊緣運算商機。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/半導體/20260417/report.md",
-      "relative": "半導體/20260417/report.md",
-      "group": "半導體",
-      "date": "2026-04-17",
-      "kind": "industry",
-      "href": "/industry/半導體/20260417/report.html",
       "legacy_hrefs": []
     }
   ],
