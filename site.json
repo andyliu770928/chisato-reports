@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-29T04:07:18.322569",
-  "industryCount": 120,
+  "generatedAt": "2026-10-30T04:09:00.734148",
+  "industryCount": 121,
   "dailyCount": 145,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "元宇宙",
+      "summary": "本週最重要的事實不是「元宇宙回來了」，而是元宇宙這個詞在產業端已經正式死亡——Meta 把 Reality Labs 的定義改寫成「個人超智慧（personal superintelligence）」並讓它戴上眼鏡，Horizon Worlds 的 VR 端 6 月已關停。台廠真正能收到的訂單來自 AI 眼鏡零組件與 Google/Samsung 的 Android XR 生態，但玉晶光 10/28 的漲停真正理由是 3M 投資與 CPO 光通訊——這是一則被貼上「元宇宙」標籤的 AI 伺服器題材。投資人若以「元宇宙受惠」為由在這個位置追價，等於買了錯誤的理由。",
+      "rating": "保守（產業換軌已明確，但台股的「元宇宙標籤」已與真實獲利脫鉤）",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/元宇宙/20261030/report.md",
+      "relative": "元宇宙/20261030/report.md",
+      "group": "元宇宙",
+      "date": "2026-10-30",
+      "kind": "industry",
+      "href": "/industry/元宇宙/20261030/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "水泥",
       "summary": "台灣水泥業正處於「一般住宅需求弱、科技廠辦與公共工程有撐、進口傾銷與碳成本升高」的三重結構下；中國水泥需求續降但出口量激增，亞太區域價格競爭仍高。台泥靠歐洲低碳水泥與儲能轉型、亞泥靠電力及多元事業支撐獲利，首選亞泥（1102），次選台泥（1101）、環泥（1104）。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-19",
       "kind": "industry",
       "href": "/industry/半導體/20260419/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "半導體產業",
-      "summary": "AI 需求爆發帶動先進製程與先進封裝景氣長多，台灣半導體供應鏈居全球核心地位，龍頭台積電引領產業進入新一波成長週期，2026 年是布局半導體股的關鍵年份。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/半導體/20260418/report.md",
-      "relative": "半導體/20260418/report.md",
-      "group": "半導體",
-      "date": "2026-04-18",
-      "kind": "industry",
-      "href": "/industry/半導體/20260418/report.html",
       "legacy_hrefs": []
     }
   ],
