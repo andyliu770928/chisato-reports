@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-30T07:02:54.715411",
-  "industryCount": 121,
+  "generatedAt": "2026-11-01T04:07:33.495608",
+  "industryCount": 122,
   "dailyCount": 146,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "資通訊安全",
+      "summary": "AI 同時放大攻擊效率與防禦需求，台灣正從法遵型資安支出，走向以 SOC／MDR、AI 應用安全、漏洞管理與供應鏈韌性為核心的結構性成長；首選純度最高的中華資安，次選安碁資訊，並以敦陽科觀察 AI 資安整合商機。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/資通訊安全/20261101/report.md",
+      "relative": "資通訊安全/20261101/report.md",
+      "group": "資通訊安全",
+      "date": "2026-11-01",
+      "kind": "industry",
+      "href": "/industry/資通訊安全/20261101/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "元宇宙",
       "summary": "本週最重要的事實不是「元宇宙回來了」，而是元宇宙這個詞在產業端已經正式死亡——Meta 把 Reality Labs 的定義改寫成「個人超智慧（personal superintelligence）」並讓它戴上眼鏡，Horizon Worlds 的 VR 端 6 月已關停。台廠真正能收到的訂單來自 AI 眼鏡零組件與 Google/Samsung 的 Android XR 生態，但玉晶光 10/28 的漲停真正理由是 3M 投資與 CPO 光通訊——這是一則被貼上「元宇宙」標籤的 AI 伺服器題材。投資人若以「元宇宙受惠」為由在這個位置追價，等於買了錯誤的理由。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-19",
       "kind": "industry",
       "href": "/industry/平面顯示器/20260419/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "半導體",
-      "summary": "AI需求爆發帶動先進製程與先進封裝需求強勁，台積電法說上修全年美元營收成長至30%以上，台灣半導體供應鏈實質受惠，投資方向以先進製程、先進封裝與AI ASIC設計服務為核心。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/半導體/20260419/report.md",
-      "relative": "半導體/20260419/report.md",
-      "group": "半導體",
-      "date": "2026-04-19",
-      "kind": "industry",
-      "href": "/industry/半導體/20260419/report.html",
       "legacy_hrefs": []
     }
   ],
