@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-02T07:03:11.916786",
-  "industryCount": 122,
+  "generatedAt": "2026-11-03T04:03:56.622277",
+  "industryCount": 123,
   "dailyCount": 147,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "金融",
+      "summary": "金融三業前 9 月稅前盈餘達 1.27 兆元、年增 77.4%，13 家上市金控前三季稅後純益 6,318.81 億元、提前超越 2024 全年紀錄；銀行受惠放款與財管、證券受惠台股高成交、壽險受惠 IFRS 17 後的可分配盈餘，三引擎同步擴張，但 10 月底台股重挫顯示短期獲利與評價仍高度連動。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/金融/20261103/report.md",
+      "relative": "金融/20261103/report.md",
+      "group": "金融",
+      "date": "2026-11-03",
+      "kind": "industry",
+      "href": "/industry/金融/20261103/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "資通訊安全",
       "summary": "AI 同時放大攻擊效率與防禦需求，台灣正從法遵型資安支出，走向以 SOC／MDR、AI 應用安全、漏洞管理與供應鏈韌性為核心的結構性成長；首選純度最高的中華資安，次選安碁資訊，並以敦陽科觀察 AI 資安整合商機。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-20",
       "kind": "industry",
       "href": "/industry/航太週邊/20260420/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "平面顯示器產業",
-      "summary": "全球平面顯示器市場邁入成熟期，LCD供需失衡常態化，台廠策略轉向車用與利基應用；OLED滲透率提升為唯一亮點，但中國競爭加劇壓抑灣廠獲利空間。",
-      "rating": "中立",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/平面顯示器/20260419/report.md",
-      "relative": "平面顯示器/20260419/report.md",
-      "group": "平面顯示器",
-      "date": "2026-04-19",
-      "kind": "industry",
-      "href": "/industry/平面顯示器/20260419/report.html",
       "legacy_hrefs": []
     }
   ],
