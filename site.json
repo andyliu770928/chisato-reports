@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-03T07:02:45.620585",
-  "industryCount": 123,
+  "generatedAt": "2026-11-04T04:05:03.027394",
+  "industryCount": 124,
   "dailyCount": 148,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "雲端運算",
+      "summary": "全球雲端基礎設施支出已連續 11 個季度加速，2026 年第三季單季達 1,680 億美元、年增 55%，四大雲端業者未認列合約合計約 2.48 兆美元，需求端尚未反轉；台灣供應鏈的成長確定性高，但產業正從「接單出貨」轉向「缺料、交付延遲與毛利率」的三重考驗，選股必須區分純營收放大型與真實獲利兌現型。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/雲端運算/20261104/report.md",
+      "relative": "雲端運算/20261104/report.md",
+      "group": "雲端運算",
+      "date": "2026-11-04",
+      "kind": "industry",
+      "href": "/industry/雲端運算/20261104/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "金融",
       "summary": "金融三業前 9 月稅前盈餘達 1.27 兆元、年增 77.4%，13 家上市金控前三季稅後純益 6,318.81 億元、提前超越 2024 全年紀錄；銀行受惠放款與財管、證券受惠台股高成交、壽險受惠 IFRS 17 後的可分配盈餘，三引擎同步擴張，但 10 月底台股重挫顯示短期獲利與評價仍高度連動。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-21",
       "kind": "industry",
       "href": "/industry/印刷電路板/20260421/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "【航太週邊】",
-      "summary": "全球民航市場持續復甦，台灣航太供應鏈受惠於國防預算提升與民航維修需求增長，首選長榮航太與漢翔。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/航太週邊/20260420/report.md",
-      "relative": "航太週邊/20260420/report.md",
-      "group": "航太週邊",
-      "date": "2026-04-20",
-      "kind": "industry",
-      "href": "/industry/航太週邊/20260420/report.html",
       "legacy_hrefs": []
     }
   ],
