@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-04T04:06:19.073555",
+  "generatedAt": "2026-11-04T07:03:10.516756",
   "industryCount": 124,
-  "dailyCount": 148,
+  "dailyCount": 149,
   "deepCount": 4,
   "industry": [
     {
@@ -1208,6 +1208,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.11.04",
+      "summary": "台股自高檔進入高波動檢驗期，記憶體與半導體族群明顯承壓；AI長線需求仍在，但短線籌碼過度擁擠，應由追價轉為分批布局",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-11-04.md",
+      "relative": "2026-11-04.md",
+      "date": "2026-11-04",
+      "kind": "daily",
+      "href": "/daily/20261104/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-11-04.html"
+      ]
+    },
     {
       "title": "2026.11.03",
       "summary": "AI算力資本支出仍是臺股主軸。 近期產業素材聚焦AI伺服器、先進製程、邊緣AI與高速網通，需求由晶圓代工逐步擴散至ODM、載板、散熱、電源及記憶體，但各供應鏈受惠程度並不相同",
@@ -2493,19 +2506,6 @@
       "href": "/daily/20260615/report.html",
       "legacy_hrefs": [
         "/daily/2026-06-15.html"
-      ]
-    },
-    {
-      "title": "2026.06.12",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-06-12.md",
-      "relative": "2026-06-12.md",
-      "date": "2026-06-12",
-      "kind": "daily",
-      "href": "/daily/20260612/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-06-12.html"
       ]
     }
   ],
