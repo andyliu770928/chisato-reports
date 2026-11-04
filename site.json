@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-04T07:03:10.516756",
-  "industryCount": 124,
+  "generatedAt": "2026-11-05T04:05:02.839919",
+  "industryCount": 125,
   "dailyCount": 149,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "金融科技",
+      "summary": "台灣金融科技已從「監理制度化紅利釋放期」翻頁至「專法子法落地期」——《虛擬資產服務法》2026 年 7 月 22 日公布後，金管會於 11 月 3 日預告 9 項授權子法，明定 VASP 三級資本門檻與穩定幣發行資格；同時金融業 AI 導入率推升至 43%、生成式 AI 導入率達 76%，應用目的第三大項已由「提升客戶體驗」翻轉為「提升分析及決策效益」。制度、資本與技術三條線同時進入可執行階段，建議聚焦「數位金融龍頭 + 金融 IT 供應鏈 + 收單支付」三條主線。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/金融科技/20261105/report.md",
+      "relative": "金融科技/20261105/report.md",
+      "group": "金融科技",
+      "date": "2026-11-05",
+      "kind": "industry",
+      "href": "/industry/金融科技/20261105/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "雲端運算",
       "summary": "全球雲端基礎設施支出已連續 11 個季度加速，2026 年第三季單季達 1,680 億美元、年增 55%，四大雲端業者未認列合約合計約 2.48 兆美元，需求端尚未反轉；台灣供應鏈的成長確定性高，但產業正從「接單出貨」轉向「缺料、交付延遲與毛利率」的三重考驗，選股必須區分純營收放大型與真實獲利兌現型。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-23",
       "kind": "industry",
       "href": "/industry/能源元件/20260423/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "【印刷電路板（PCB）】",
-      "summary": "AI伺服器與先進封裝需求爆發，帶動ABF載板與高階PCB供應鏈訂單暢旺，台灣PCB產業2025年產值突破9,000億元創歷史新高，2026年有望挑戰兆元大關。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20260421/report.md",
-      "relative": "印刷電路板/20260421/report.md",
-      "group": "印刷電路板",
-      "date": "2026-04-21",
-      "kind": "industry",
-      "href": "/industry/印刷電路板/20260421/report.html",
       "legacy_hrefs": []
     }
   ],
