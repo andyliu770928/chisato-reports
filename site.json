@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-05T07:02:12.865543",
-  "industryCount": 125,
+  "generatedAt": "2026-11-06T04:05:53.628496",
+  "industryCount": 126,
   "dailyCount": 150,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "軟體服務",
+      "summary": "Gartner 2026 Q3 預測軟體支出年增 15.2%、AI 支出年增 49.5%，但台灣資服業已進入「營收創高、獲利品質分化」的淘汰賽：第三季財報全數公告，精誠營收年增 50.7% 卻單季獲利年減 40.3%，零壹、宏碁資訊、大綜則以高毛利服務結構或 AI 基建拉動同步創高。本輪配置重點應從「追營收」轉為「挑毛利率與經常性收入」——中華資安（7765）資安純度與五成續訂型營收、宏碁資訊（6811）Q3 獲利創同期新高且 PE 降至 13 倍，是相對最具備「營收＋獲利雙升」條件的標的。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/軟體服務/20261106/report.md",
+      "relative": "軟體服務/20261106/report.md",
+      "group": "軟體服務",
+      "date": "2026-11-06",
+      "kind": "industry",
+      "href": "/industry/軟體服務/20261106/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "金融科技",
       "summary": "台灣金融科技已從「監理制度化紅利釋放期」翻頁至「專法子法落地期」——《虛擬資產服務法》2026 年 7 月 22 日公布後，金管會於 11 月 3 日預告 9 項授權子法，明定 VASP 三級資本門檻與穩定幣發行資格；同時金融業 AI 導入率推升至 43%、生成式 AI 導入率達 76%，應用目的第三大項已由「提升客戶體驗」翻轉為「提升分析及決策效益」。制度、資本與技術三條線同時進入可執行階段，建議聚焦「數位金融龍頭 + 金融 IT 供應鏈 + 收單支付」三條主線。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-24",
       "kind": "industry",
       "href": "/industry/元宇宙/20260424/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "【能源元件】",
-      "summary": "能源元件涵蓋电池、儲能系統、功率半導體及能源管理四大領域，受惠於電動車滲透率提升、電網儲能需求爆發，以及SiC/GaN功率元件加速滲透三大結構性成長動能，台灣供應鏈在檢測服務、磷酸鐵鋰材料、儲能系統具備國際競爭力。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/能源元件/20260423/report.md",
-      "relative": "能源元件/20260423/report.md",
-      "group": "能源元件",
-      "date": "2026-04-23",
-      "kind": "industry",
-      "href": "/industry/能源元件/20260423/report.html",
       "legacy_hrefs": []
     }
   ],
