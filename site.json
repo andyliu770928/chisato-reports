@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-06T07:02:44.918322",
-  "industryCount": 126,
+  "generatedAt": "2026-11-07T04:08:07.265224",
+  "industryCount": 127,
   "dailyCount": 151,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "食品產業",
+      "summary": "2026 年中聯油脂食安事件重塑國內油脂供應鏈、加速通路與品牌的集中度重整，疊加餐飲與零售業連續八個月的正成長，食品產業正由「溫和成長」轉為「結構重整中的成長」——受惠者集中在具備轉單承接能力、產能擴張兌現與高殖利率支撐的標的。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/食品/20261107/report.md",
+      "relative": "食品/20261107/report.md",
+      "group": "食品",
+      "date": "2026-11-07",
+      "kind": "industry",
+      "href": "/industry/食品/20261107/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "軟體服務",
       "summary": "Gartner 2026 Q3 預測軟體支出年增 15.2%、AI 支出年增 49.5%，但台灣資服業已進入「營收創高、獲利品質分化」的淘汰賽：第三季財報全數公告，精誠營收年增 50.7% 卻單季獲利年減 40.3%，零壹、宏碁資訊、大綜則以高毛利服務結構或 AI 基建拉動同步創高。本輪配置重點應從「追營收」轉為「挑毛利率與經常性收入」——中華資安（7765）資安純度與五成續訂型營收、宏碁資訊（6811）Q3 獲利創同期新高且 PE 降至 13 倍，是相對最具備「營收＋獲利雙升」條件的標的。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-25",
       "kind": "industry",
       "href": "/industry/連接器/20260425/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "元宇宙",
-      "summary": "元宇宙長線趨勢確立，硬體滲透率處於爆發初期，台灣半導體與光學供應鏈為隱形贏家，短期股價基期偏低，提供不錯進場時點。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/元宇宙/20260424/report.md",
-      "relative": "元宇宙/20260424/report.md",
-      "group": "元宇宙",
-      "date": "2026-04-24",
-      "kind": "industry",
-      "href": "/industry/元宇宙/20260424/report.html",
       "legacy_hrefs": []
     }
   ],
