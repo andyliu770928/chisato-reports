@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-07T04:09:23.810838",
-  "industryCount": 127,
+  "generatedAt": "2026-11-08T04:09:14.743591",
+  "industryCount": 128,
   "dailyCount": 151,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "水泥",
+      "summary": "台灣水泥業的三重結構未變——一般住宅開工量續創低點（2026 前三季 6.54 萬宅、年減 31.73%）、進口水泥市占逾三成且每噸價差約 600 元、台版 CBAM 尚未啟動形成制度空窗。但 10 月底至 11 月初出現三個可驗證的增量：亞泥、環泥、力泰第三季財報已公布且環泥前三季 EPS 達 1.78 元；台泥 Cimpor 赴歐洲上市案於 10/13 通過股東臨時會；中國需求續弱但價格指數已轉為環比上漲。首選環泥（1104），次選亞泥（1102）。",
+      "rating": "保守",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/水泥/20261108/report.md",
+      "relative": "水泥/20261108/report.md",
+      "group": "水泥",
+      "date": "2026-11-08",
+      "kind": "industry",
+      "href": "/industry/水泥/20261108/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "食品產業",
       "summary": "2026 年中聯油脂食安事件重塑國內油脂供應鏈、加速通路與品牌的集中度重整，疊加餐飲與零售業連續八個月的正成長，食品產業正由「溫和成長」轉為「結構重整中的成長」——受惠者集中在具備轉單承接能力、產能擴張兌現與高殖利率支撐的標的。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-26",
       "kind": "industry",
       "href": "/industry/半導體/20260426/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "連接器產業",
-      "summary": "全球連接器市場受惠AI伺服器規格升級與電動車滲透率提升，進入新一波成長周期。台灣連接器供應鏈在高速連接器、汽車連接器與雲端資料中心應用具备關鍵地位。嘉澤（3533）為首選，優群（3217）與高技（5439）為次選，關注近期飆漲個股如良維（6290）與中探針（6217）的修正風險。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/連接器/20260425/report.md",
-      "relative": "連接器/20260425/report.md",
-      "group": "連接器",
-      "date": "2026-04-25",
-      "kind": "industry",
-      "href": "/industry/連接器/20260425/report.html",
       "legacy_hrefs": []
     }
   ],
