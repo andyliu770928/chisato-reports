@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-09T04:09:49.464754",
+  "generatedAt": "2026-11-09T07:01:55.438373",
   "industryCount": 129,
-  "dailyCount": 151,
+  "dailyCount": 152,
   "deepCount": 4,
   "industry": [
     {
@@ -1208,6 +1208,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.11.09",
+      "summary": "AI資本支出與伺服器拉貨仍是盤面主軸。 9月產業文章整理台積電資本支出上修至600億美元以上，先進製程、封裝及高層數ABF載板可望受惠，但後續仍須以法說、訂單與實際產能利用率驗...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-11-09.md",
+      "relative": "2026-11-09.md",
+      "date": "2026-11-09",
+      "kind": "daily",
+      "href": "/daily/20261109/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-11-09.html"
+      ]
+    },
     {
       "title": "2026.11.06",
       "summary": "> 報價基準：2026-11-05 收盤；今日為盤前，所有個股價格均沿用本報告附附的最新股票報價資料，不另行推估漲跌幅、成交量或本益比",
@@ -2493,19 +2506,6 @@
       "href": "/daily/20260618/report.html",
       "legacy_hrefs": [
         "/daily/2026-06-18.html"
-      ]
-    },
-    {
-      "title": "2026.06.17",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-06-17.md",
-      "relative": "2026-06-17.md",
-      "date": "2026-06-17",
-      "kind": "daily",
-      "href": "/daily/20260617/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-06-17.html"
       ]
     }
   ],
