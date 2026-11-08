@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-08T04:10:40.045946",
-  "industryCount": 128,
+  "generatedAt": "2026-11-09T04:08:19.196567",
+  "industryCount": 129,
   "dailyCount": 151,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "油電燃氣",
+      "summary": "美伊戰爭重塑全球油氣供需，台灣油電燃氣產業由「油價看空」翻轉為「成本轉嫁受限」，受益者集中在可轉嫁燃料成本的 IPP 與具獨占地位的瓦斯公用事業，而非被凍漲政策夾擊的煉油與加油站。",
+      "rating": "中性",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/油電燃氣/20261109/report.md",
+      "relative": "油電燃氣/20261109/report.md",
+      "group": "油電燃氣",
+      "date": "2026-11-09",
+      "kind": "industry",
+      "href": "/industry/油電燃氣/20261109/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "水泥",
       "summary": "台灣水泥業的三重結構未變——一般住宅開工量續創低點（2026 前三季 6.54 萬宅、年減 31.73%）、進口水泥市占逾三成且每噸價差約 600 元、台版 CBAM 尚未啟動形成制度空窗。但 10 月底至 11 月初出現三個可驗證的增量：亞泥、環泥、力泰第三季財報已公布且環泥前三季 EPS 達 1.78 元；台泥 Cimpor 赴歐洲上市案於 10/13 通過股東臨時會；中國需求續弱但價格指數已轉為環比上漲。首選環泥（1104），次選亞泥（1102）。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-27",
       "kind": "industry",
       "href": "/industry/區塊鏈/20260427/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "【半導體】",
-      "summary": "AI 應用爆發帶動半導體景氣進入新一輪上升循環，全球市場預計 2026 年正式突破 1 兆美元，台灣供應鏈（先進製程、先進封裝、IP/ASIC）為最大贏家，首選台積電。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/半導體/20260426/report.md",
-      "relative": "半導體/20260426/report.md",
-      "group": "半導體",
-      "date": "2026-04-26",
-      "kind": "industry",
-      "href": "/industry/半導體/20260426/report.html",
       "legacy_hrefs": []
     }
   ],
