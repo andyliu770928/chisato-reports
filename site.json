@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-10T07:03:34.888595",
-  "industryCount": 130,
+  "generatedAt": "2026-11-11T04:09:32.980880",
+  "industryCount": 131,
   "dailyCount": 153,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "製藥",
+      "summary": "製藥產業已從「臨床驗證期」正式進入「營收與獲利兌現期」——藥華藥 Ropeg 的 ET 適應症在美日雙市場上市並於 10 月開始放量、10 月營收再創單月新高（28.36 億元、年增 102%），台康生技 10 月營收年增 287.88% 創近三年新高，前 10 月營收年增 94.67%；同時台灣「國家藥物韌性整備計畫」四年 240 億元落地、全球專利懸崖 2,360 億美元釋出學名藥／生物相似藥訂單，政策紅利與產業紅利雙軌並行。台股首選藥華藥（6446）、台康生技（6589），次選保瑞（6472）、美時（1795），觀察東洋（4105）、台耀（4746）；神隆（1789）營收已出現反轉訊號（9 月 YoY 由 -42% 轉為 +74%），但獲利面仍在探底，列為追蹤觀察。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/製藥/20261111/report.md",
+      "relative": "製藥/20261111/report.md",
+      "group": "製藥",
+      "date": "2026-11-11",
+      "kind": "industry",
+      "href": "/industry/製藥/20261111/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "造紙",
       "summary": "台灣造紙業已走出 2024–2025 年的量縮低谷，2026 年轉為「量回升、價溫和上調、成本仍高」的分化式復甦；真正的贏家不是本業最純的紙廠，而是能在越南／中國完成量價齊揚並把成本轉嫁出去的營運商，首選正隆（1904）。",
@@ -1192,18 +1204,6 @@
       "date": "2026-04-29",
       "kind": "industry",
       "href": "/industry/電腦及週邊設備/20260429/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "【觸控面板】",
-      "summary": "全球觸控面板市場在 AI PC 與車用觸控帶動下穩健成長，CAGR 達 13.8%，但台灣主要供應商面臨中國同業低價競爭與景氣波動考驗，選股應聚焦具備高毛利或非消費性應用的標的。",
-      "rating": "中性",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/觸控面板/20260428/report.md",
-      "relative": "觸控面板/20260428/report.md",
-      "group": "觸控面板",
-      "date": "2026-04-28",
-      "kind": "industry",
-      "href": "/industry/觸控面板/20260428/report.html",
       "legacy_hrefs": []
     }
   ],
