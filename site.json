@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T04:08:29.391413",
+  "generatedAt": "2026-11-12T07:02:45.011441",
   "industryCount": 132,
-  "dailyCount": 154,
+  "dailyCount": 155,
   "deepCount": 4,
   "industry": [
     {
@@ -1208,6 +1208,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.11.12",
+      "summary": "AI硬體仍是主軸：9月外銷訂單達1,142.1億美元、年增62.4%，加上AI伺服器供應鏈營收上修題材，支撐台積電、CoWoS／ABF載板、伺服器組裝及電源散熱鏈",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-11-12.md",
+      "relative": "2026-11-12.md",
+      "date": "2026-11-12",
+      "kind": "daily",
+      "href": "/daily/20261112/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-11-12.html"
+      ]
+    },
     {
       "title": "2026.11.11",
       "summary": "> 報價基準： 2026-11-10 收盤；所有個股價格均採最新可得報價",
@@ -2493,19 +2506,6 @@
       "href": "/daily/20260623/report.html",
       "legacy_hrefs": [
         "/daily/2026-06-23.html"
-      ]
-    },
-    {
-      "title": "2026.06.22",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-06-22.md",
-      "relative": "2026-06-22.md",
-      "date": "2026-06-22",
-      "kind": "daily",
-      "href": "/daily/20260622/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-06-22.html"
       ]
     }
   ],
