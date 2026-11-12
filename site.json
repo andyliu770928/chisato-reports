@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-12T07:02:45.011441",
-  "industryCount": 132,
+  "generatedAt": "2026-11-13T04:07:49.043895",
+  "industryCount": 133,
   "dailyCount": 155,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "印刷電路板（PCB）",
+      "summary": "2026 年是台灣 PCB 產業「量價齊揚、首度破兆元」的一年——TPCA 與工研院產科國際所預估台廠海內外總產值達 1 兆 1,365 億元、年增 24.2%；但 11 月 3 日起 ABF／CCL 高純度族群因估值過熱與輝達治理風險出現急跌 15–27%，基本面（Q3 毛利率三率三升、10 月營收 YoY 全面正成長）與股價已明顯脫鉤，屬「基本面未壞、籌碼待沉澱」的修正格局。",
+      "rating": "正向（短線中性）",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20261113/report.md",
+      "relative": "印刷電路板/20261113/report.md",
+      "group": "印刷電路板",
+      "date": "2026-11-13",
+      "kind": "industry",
+      "href": "/industry/印刷電路板/20261113/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "太陽能產業",
       "summary": "台灣太陽光電正從「政策目標驅動」轉為「需求驗證驅動」——綠電 20% 目標二度跳票、20GW 裝機目標落後約 4GW，地面型案場受環評三法束縛，但屋頂強制設置新制與 AI 用電需求開出新的增量出口；產業鏈已出現明顯分化，供應商層（茂迪、雲豹能源）率先回穩，製造層（聯合再生、元晶）仍在毛利谷底，投資上宜「選結構、不選族群」。",
@@ -1192,18 +1204,6 @@
       "date": "2026-05-01",
       "kind": "industry",
       "href": "/industry/水泥/20260501/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "金融產業",
-      "summary": "台灣金融業受惠於 Fed 利率高檔支撐銀行淨利差、股市健康成交量挹注券商收益，以及壽險業接軌 IFRS 17 与 ICS 2.0 的題材加持，2026 年基本面不看淡。短線觀察重點在升息預期與信用風險管理；中長線則聚焦金融科技與數位轉型商機。在台股中，首選體質穩健的民營銀行與具有壽險子公司的金控。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/金融/20260430/report.md",
-      "relative": "金融/20260430/report.md",
-      "group": "金融",
-      "date": "2026-04-30",
-      "kind": "industry",
-      "href": "/industry/金融/20260430/report.html",
       "legacy_hrefs": []
     }
   ],
