@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-13T07:03:20.130966",
-  "industryCount": 133,
+  "generatedAt": "2026-11-16T04:07:34.392378",
+  "industryCount": 134,
   "dailyCount": 156,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "太空衛星科技",
+      "summary": "低軌衛星已從「題材」進入「獲利兌現期」，但台廠純度、估值與換代節奏分化明顯；首選具獲利成長與合理價值的啟碁（6285），其次看好昇達科（3491）與華通（2313）。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/太空衛星科技/20261116/report.md",
+      "relative": "太空衛星科技/20261116/report.md",
+      "group": "太空衛星科技",
+      "date": "2026-11-16",
+      "kind": "industry",
+      "href": "/industry/太空衛星科技/20261116/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "印刷電路板（PCB）",
       "summary": "2026 年是台灣 PCB 產業「量價齊揚、首度破兆元」的一年——TPCA 與工研院產科國際所預估台廠海內外總產值達 1 兆 1,365 億元、年增 24.2%；但 11 月 3 日起 ABF／CCL 高純度族群因估值過熱與輝達治理風險出現急跌 15–27%，基本面（Q3 毛利率三率三升、10 月營收 YoY 全面正成長）與股價已明顯脫鉤，屬「基本面未壞、籌碼待沉澱」的修正格局。",
@@ -1192,18 +1204,6 @@
       "date": "2026-05-03",
       "kind": "industry",
       "href": "/industry/印刷電路板/20260503/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "【水泥產業】",
-      "summary": "台灣水泥產業受惠於前瞻基礎建設需求，但中國產能過剩壓抑獲利空間，綠色水泥轉型為中長期關鍵變數。",
-      "rating": "中立",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/水泥/20260501/report.md",
-      "relative": "水泥/20260501/report.md",
-      "group": "水泥",
-      "date": "2026-05-01",
-      "kind": "industry",
-      "href": "/industry/水泥/20260501/report.html",
       "legacy_hrefs": []
     }
   ],
