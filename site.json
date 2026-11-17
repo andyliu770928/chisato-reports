@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-17T07:02:36.571487",
-  "industryCount": 134,
+  "generatedAt": "2026-11-18T04:10:48.522471",
+  "industryCount": 135,
   "dailyCount": 158,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "金融科技",
+      "summary": "台灣金融科技在 13 天內完成兩次關鍵制度推進——11 月 3 日金管會預告《虛擬資產服務法》9 項子法、11 月 6 日刊登公報（預告期至 12/16），同時 11 月起資安事件連環爆發（永豐銀行逾 400 戶遭駭、台積電員工資料外洩）迫使金管會於 11/12 召開資安長會議提出六大防禦措施，11/16 單日逾 10 檔資安股漲停。這代表產業主軸已從「金融業買 IT」轉為「監理強制性支出」：法規不再只是题材，而是把零信任、SBOM、防禦性 AI、供應鏈聯防寫進檢查項目。櫃買中心產業價值鏈平台亦已將產業演進主軸改寫為「代理式 AI 於自有資料落地」與「穩定幣與虛擬資產監理框架成形」兩大方向。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/金融科技/20261118/report.md",
+      "relative": "金融科技/20261118/report.md",
+      "group": "金融科技",
+      "date": "2026-11-18",
+      "kind": "industry",
+      "href": "/industry/金融科技/20261118/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "太空衛星科技",
       "summary": "低軌衛星已從「題材」進入「獲利兌現期」，但台廠純度、估值與換代節奏分化明顯；首選具獲利成長與合理價值的啟碁（6285），其次看好昇達科（3491）與華通（2313）。",
@@ -1192,18 +1204,6 @@
       "date": "2026-05-04",
       "kind": "industry",
       "href": "/industry/半導體/20260504/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "【印刷電路板（PCB）】",
-      "summary": "AI伺服器與先進封裝需求持續爆發，帶動ABF載板與高階PCB供應鏈訂單暢旺，台灣PCB產業2025年產值突破9,000億元創歷史新高，2026年在AI需求帶動下，產業有望挑戰兆元大關，台灣供應鏈居全球領導地位。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/印刷電路板/20260503/report.md",
-      "relative": "印刷電路板/20260503/report.md",
-      "group": "印刷電路板",
-      "date": "2026-05-03",
-      "kind": "industry",
-      "href": "/industry/印刷電路板/20260503/report.html",
       "legacy_hrefs": []
     }
   ],
