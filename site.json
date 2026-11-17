@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-18T04:12:03.233250",
+  "generatedAt": "2026-11-18T07:02:04.493591",
   "industryCount": 135,
-  "dailyCount": 158,
+  "dailyCount": 159,
   "deepCount": 4,
   "industry": [
     {
@@ -1208,6 +1208,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.11.18",
+      "summary": "依聯合新聞轉述路透所述，輝達執行長異動消息、美國半導體股重挫及通膨與利率疑慮共同放大賣壓，台股最新交易日出現單日重挫2,635點、史上第二大跌點，AI伺服器、PCB與IC載板成...",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-11-18.md",
+      "relative": "2026-11-18.md",
+      "date": "2026-11-18",
+      "kind": "daily",
+      "href": "/daily/20261118/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-11-18.html"
+      ]
+    },
     {
       "title": "2026.11.17",
       "summary": "AI 基礎建設仍是本週主軸，近期 CoWoS 擴容與 ABF 供應偏緊消息，顯示台積電、日月光投控及載板供應鏈續為資金關注核心；所有價格均採 2026-11-16 最新可得收盤...",
@@ -2493,19 +2506,6 @@
       "href": "/daily/20260629/report.html",
       "legacy_hrefs": [
         "/daily/2026-06-29.html"
-      ]
-    },
-    {
-      "title": "2026.06.26",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-06-26.md",
-      "relative": "2026-06-26.md",
-      "date": "2026-06-26",
-      "kind": "daily",
-      "href": "/daily/20260626/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-06-26.html"
       ]
     }
   ],
