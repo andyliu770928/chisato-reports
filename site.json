@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-20T07:17:29.133983",
-  "industryCount": 137,
+  "generatedAt": "2026-11-21T04:09:27.059320",
+  "industryCount": 138,
   "dailyCount": 161,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "油電燃氣",
+      "summary": "立院 11/20 三讀通過 1,725 億元油電撥補並要求 2028 年 1 月底前全面凍漲油電價，本產業最大的政策變數已由「不確定」翻轉為「確定凍結」；同時 IEA 改估 2026 Q4 起全球原油重回供給過剩，戰爭紅利與成本轉嫁窗口同步關閉，產業內部由「IPP 與瓦斯受惠、煉油加油站受損」轉為「全體成本無法轉嫁、僅存量現金流與資產價值值得肯定」。",
+      "rating": "中性",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/油電燃氣/20261121/report.md",
+      "relative": "油電燃氣/20261121/report.md",
+      "group": "油電燃氣",
+      "date": "2026-11-21",
+      "kind": "industry",
+      "href": "/industry/油電燃氣/20261121/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "文化創意業",
       "summary": "文化創意業已由「單純的內容製作」轉向「IP 變現效率」的競技場。鈊象（3293）前三季 EPS 35.24 元、單季 12.46 元再創新高，授權版圖由美國三大州擴張至 32 州；文策院 2026 年六大目標把「IP 價值極大化」與「深化遊戲產業投資」列為主軸；智崴（5263）24 億元併購 Flyover 後前三季 EPS 5.21 元改寫同期紀錄。在 11/19 台股創史上最大單日跌點（−1,768 點、跌破年線）的背景下，本產業多數成分股逆勢收紅——樂意近 8 個交易日 +52.49%、鈊象 +6.02%、寬宏藝術 +3.53%，資金明顯停泊於低波動、高現金流的文創股。首選鈊象（3293），次選智冠（5478）與智崴（5263）。",
@@ -1192,18 +1204,6 @@
       "date": "2026-05-07",
       "kind": "industry",
       "href": "/industry/被動元件/20260507/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "【航太週邊】",
-      "summary": "全球航太產業進入疫後十年超級周期，Boeing與Airbus合計市占近八成，積壓訂單創歷史新高，台灣供應鏈廠商將受惠於訂單釋出與精密製造升級。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/航太週邊/20260506/report.md",
-      "relative": "航太週邊/20260506/report.md",
-      "group": "航太週邊",
-      "date": "2026-05-06",
-      "kind": "industry",
-      "href": "/industry/航太週邊/20260506/report.html",
       "legacy_hrefs": []
     }
   ],
