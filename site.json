@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T04:19:26.597190",
+  "generatedAt": "2026-11-24T07:01:38.594005",
   "industryCount": 140,
-  "dailyCount": 162,
+  "dailyCount": 163,
   "deepCount": 4,
   "industry": [
     {
@@ -1208,6 +1208,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.11.24",
+      "summary": "> 報價基準：以下所有價格均採用 2026-11-23 收盤最新可得報價，未引用其他日期或未提供的漲跌幅、成交量及估值倍數",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-11-24.md",
+      "relative": "2026-11-24.md",
+      "date": "2026-11-24",
+      "kind": "daily",
+      "href": "/daily/20261124/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-11-24.html"
+      ]
+    },
     {
       "title": "2026.11.23",
       "summary": "本週配置以AI算力平台為主軸，首選台積電、廣達、鴻海與緯穎，並以聯發科作為晶片設計及終端需求的補充曝險",
@@ -2493,19 +2506,6 @@
       "href": "/daily/20260703/report.html",
       "legacy_hrefs": [
         "/daily/2026-07-03.html"
-      ]
-    },
-    {
-      "title": "2026.07.02",
-      "summary": "以下為報告中提到的所有股票即時報價，請引用時務必與本區塊數據一致：",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-02.md",
-      "relative": "2026-07-02.md",
-      "date": "2026-07-02",
-      "kind": "daily",
-      "href": "/daily/20260702/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-07-02.html"
       ]
     }
   ],
