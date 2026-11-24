@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-24T07:01:38.594005",
-  "industryCount": 140,
+  "generatedAt": "2026-11-25T04:22:22.679808",
+  "industryCount": 141,
   "dailyCount": 163,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "食品產業",
+      "summary": "2026 年 7 月中聯油脂苯駢芘超標停工已進入第五個月，供應缺口由經濟部協調、進口關稅免稅與三家國產廠增產三方填補，產業的「缺油紅利」已從全面擴散轉為僅由大統益（1232）獨享；同時 10 月餐飲業營業額年增率驟降至 0.7%、餐館轉為負成長，前一版「餐飲零售連續八個月正成長」的前提已被推翻。食品產業整體正由「溫和成長」轉為「紅利集中、風險分化」——油脂族群近 8 日中位數跌幅比大盤多 1.46 個百分點，而飲料沖調族群比大盤少跌 3.60 個百分點。",
+      "rating": "中性（結構分化加劇）",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/食品/20261125/report.md",
+      "relative": "食品/20261125/report.md",
+      "group": "食品",
+      "date": "2026-11-25",
+      "kind": "industry",
+      "href": "/industry/食品/20261125/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "再生醫療",
       "summary": "《再生醫療雙法》施行滿一年，台灣再生醫療已從「法規題材」進入「臨床數據與量產能力」決胜负的階段——但整體產業仍停留在「7 檔獲利、6 檔虧損」的分裂結構，股價在 11 月台股股災中平均跌幅僅 −7.71%、優於 0050 的 −15.70%，市場已用相對抗跌提前反映法規紅利；真正的超额報酬只會給拿到藥證、且已具備高毛利量產實力的少數公司。",
@@ -1192,18 +1204,6 @@
       "date": "2026-05-10",
       "kind": "industry",
       "href": "/industry/運動科技/20260510/report.html",
-      "legacy_hrefs": []
-    },
-    {
-      "title": "太陽能產業",
-      "summary": "台灣太陽光電受惠於政策支持、躉購費率凍漲與「綠電極大化」目標，中短期成長動能清晰，2026 年再生能源發電占比預計達 20%，首選聯合再生（3576）與元晶（6443）。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/太陽能/20260509/report.md",
-      "relative": "太陽能/20260509/report.md",
-      "group": "太陽能",
-      "date": "2026-05-09",
-      "kind": "industry",
-      "href": "/industry/太陽能/20260509/report.html",
       "legacy_hrefs": []
     }
   ],
