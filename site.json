@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-25T07:02:22.262548",
-  "industryCount": 141,
-  "dailyCount": 164,
+  "generatedAt": "2026-11-26T07:03:51.731542",
+  "industryCount": 142,
+  "dailyCount": 165,
   "deepCount": 4,
   "industry": [
+    {
+      "title": "運動科技",
+      "summary": "運動科技已從「硬體代工」走到「數位內容＋場館營運＋跨域製造」三軌並進，台灣在健身器材（全球商用市佔近五成）、MEMS/影像感測與高球代工三個環節具備不可替代性；但 2026 年第三季的真正增量不是市場規模數字，而是 健保「健康幣」10 月上路 這個國補級需求催化，以及 終端客戶 Planet Fitness 設備營收年增 11.1% 的需求實證。",
+      "rating": "正向",
+      "source": "/Users/aliu/MEGA/openclaw/reports/industry/運動科技/20261126/report.md",
+      "relative": "運動科技/20261126/report.md",
+      "group": "運動科技",
+      "date": "2026-11-26",
+      "kind": "industry",
+      "href": "/industry/運動科技/20261126/report.html",
+      "legacy_hrefs": []
+    },
     {
       "title": "食品產業",
       "summary": "2026 年 7 月中聯油脂苯駢芘超標停工已進入第五個月，供應缺口由經濟部協調、進口關稅免稅與三家國產廠增產三方填補，產業的「缺油紅利」已從全面擴散轉為僅由大統益（1232）獨享；同時 10 月餐飲業營業額年增率驟降至 0.7%、餐館轉為負成長，前一版「餐飲零售連續八個月正成長」的前提已被推翻。食品產業整體正由「溫和成長」轉為「紅利集中、風險分化」——油脂族群近 8 日中位數跌幅比大盤多 1.46 個百分點，而飲料沖調族群比大盤少跌 3.60 個百分點。",
@@ -1193,21 +1205,22 @@
       "kind": "industry",
       "href": "/industry/半導體/20260511/report.html",
       "legacy_hrefs": []
-    },
-    {
-      "title": "【運動科技】",
-      "summary": "全球穿戴裝置市場進入高速成長期，2025年規模達929億美元，CAGR 12.1%持續擴張，台灣PCB與半導體供應鏈為關鍵受惠者，其中聯發科（2454）掌握智慧手錶晶片、欣興（3037）與景碩（3189）供應高階載板，華通（2313）切入智慧手錶HDI板，加上軟板廠嘉聯益（6153）與同泰（3321）供應穿戴裝置軟性連接方案，台灣供應鏈完整度佳，短期受惠品牌廠庫存回補與新品規格升級，中長期受惠AI健康偵測趨勢與新興市場滲透率提升。",
-      "rating": "正向",
-      "source": "/Users/aliu/MEGA/openclaw/reports/industry/運動科技/20260510/report.md",
-      "relative": "運動科技/20260510/report.md",
-      "group": "運動科技",
-      "date": "2026-05-10",
-      "kind": "industry",
-      "href": "/industry/運動科技/20260510/report.html",
-      "legacy_hrefs": []
     }
   ],
   "daily": [
+    {
+      "title": "2026.11.26",
+      "summary": "本次追蹤籃子的核心主軸集中於 AI 運算、先進封裝與伺服器 ODM，臺積電、日月光投控、廣達、緯穎及鴻海可作為判斷 AI 資本支出延續性的重要指標",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-11-26.md",
+      "relative": "2026-11-26.md",
+      "date": "2026-11-26",
+      "kind": "daily",
+      "href": "/daily/20261126/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-11-26.html"
+      ]
+    },
     {
       "title": "2026.11.25",
       "summary": "本週可投資主軸集中於 AI 算力、先進封裝、高階 PCB 與記憶體，但近三日沒有新的公司訊息可確認短期催化劑，因此排序以產業曝險、風險報酬及 11/24 收盤位置為主，不延伸解...",
@@ -2493,19 +2506,6 @@
       "href": "/daily/20260707/report.html",
       "legacy_hrefs": [
         "/daily/2026-07-07.html"
-      ]
-    },
-    {
-      "title": "2026.07.06",
-      "summary": "輝達財報驚豔、AI供應鏈再獲資金青睞：輝達最新財報優於預期，黃仁勳重申台灣是AI革命核心，帶動CoWoS、先進封裝族群成為本週盤面焦點",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-06.md",
-      "relative": "2026-07-06.md",
-      "date": "2026-07-06",
-      "kind": "daily",
-      "href": "/daily/20260706/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-07-06.html"
       ]
     }
   ],
