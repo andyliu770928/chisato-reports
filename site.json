@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-26T07:12:04.828955",
+  "generatedAt": "2026-11-27T07:02:53.788229",
   "industryCount": 142,
-  "dailyCount": 165,
+  "dailyCount": 166,
   "deepCount": 4,
   "industry": [
     {
@@ -1208,6 +1208,19 @@
     }
   ],
   "daily": [
+    {
+      "title": "2026.11.27",
+      "summary": "報價基準日：2026-11-26（週四）收盤；指數、個股、0050 淨值皆為該日資料，新聞素材取自近三日公開訊息",
+      "rating": "",
+      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-11-27.md",
+      "relative": "2026-11-27.md",
+      "date": "2026-11-27",
+      "kind": "daily",
+      "href": "/daily/20261127/report.html",
+      "legacy_hrefs": [
+        "/daily/2026-11-27.html"
+      ]
+    },
     {
       "title": "2026.11.26",
       "summary": "輝達恢復黃仁勳全部職務，帶動本週二臺股AI供應鏈強勢反彈、重返四萬點，但隔日電子權值股轉弱，顯示結構性多頭與短線獲利了結正在拉扯",
@@ -2493,19 +2506,6 @@
       "href": "/daily/20260708/report.html",
       "legacy_hrefs": [
         "/daily/2026-07-08.html"
-      ]
-    },
-    {
-      "title": "2026.07.07",
-      "summary": "AI伺服器供應鏈進入出貨旺季：AI伺服器廠商提前啟動出貨潮，帶動相關概念股持續獲得市場青睞，半導體先進製程與先進封裝需求維持高檔",
-      "rating": "",
-      "source": "/Users/aliu/MEGA/openclaw/reports/daily/2026-07-07.md",
-      "relative": "2026-07-07.md",
-      "date": "2026-07-07",
-      "kind": "daily",
-      "href": "/daily/20260707/report.html",
-      "legacy_hrefs": [
-        "/daily/2026-07-07.html"
       ]
     }
   ],
